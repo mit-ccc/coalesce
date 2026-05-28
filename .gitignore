@@ -1,0 +1,15 @@
+
+prompt-exploration/assertion.log
+prompt-exploration/azure_openai_usage.log
+prompt-exploration/openai_usage.log
+prompt-exploration/passwords.py
+/prompt-exploration/__pycache__
+*.log
+server/data/internal_testing_user_codes.csv
+server/data/user_codes.csv
+.DS_Store
+*.mp4
+vti-keypair.pem
+.env.deploy
+server/.env
+cluster1-keypair.pem

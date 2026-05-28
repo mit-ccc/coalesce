@@ -1,0 +1,54 @@
+{
+    "check_suggestions": [
+        { 
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "closed",
+                "description": "Asking for fun",
+                "main_text": "What is your favorite color?",
+                "response_categories": [
+                    {
+                        "id": 0,
+                        "text": "Red"
+                    },
+                    {
+                        "id": 1,
+                        "text": "Blue"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Green"
+                    }
+                ]
+            }
+        },
+        {
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What is your favorite boba flavor?",
+                "response_categories": []
+            }
+        },
+        {
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "Asking for fun",
+                "main_text": "What is your favorite food?",
+                "response_categories": []
+            }
+        }
+    ],
+    "cell_checks": [
+        {
+            "check_type": "readability",
+            "rationale": "This question is too long"
+        },
+        {
+            "check_type": "bias",
+            "rationale": "This question is biased"
+        }
+    ]
+}

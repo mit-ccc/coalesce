@@ -1,0 +1,39 @@
+{
+  "bias": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"Assumes respondent perceives a decline in public safety\", \"main_text\": \"How significant is the decline in public safety you have experienced in the city?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very significant\"}, {\"id\": 2, \"text\": \"Significant\"}, {\"id\": 3, \"text\": \"Moderate\"}, {\"id\": 4, \"text\": \"Slight\"}, {\"id\": 5, \"text\": \"No decline\"}]}",
+        "rationale": "determine the bias. We can see that the question assumes that the respondent has experienced a decline in public safety, which may not be the case for everyone. This assumption biases the question towards a negative perception of public safety.",
+        "bias": "true"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"Question about perception of city's environmental efforts\", \"main_text\": \"How would you rate the city's efforts towards improving environmental sustainability?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very effective\"}, {\"id\": 2, \"text\": \"Somewhat effective\"}, {\"id\": 3, \"text\": \"Neutral\"}, {\"id\": 4, \"text\": \"Somewhat ineffective\"}, {\"id\": 5, \"text\": \"Very ineffective\"}]}",
+        "rationale": "determine the bias. We can see that this question is phrased in a neutral and objective manner, simply asking for a rating of the city's efforts towards improving environmental sustainability. There are no leading words or assumptions made about the respondent's opinions.",
+        "bias": "false"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"Double-barreled question combining satisfaction with public transportation and park maintenance\", \"main_text\": \"How satisfied are you with both the city's public transportation system and the maintenance of public parks?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very satisfied with both\"}, {\"id\": 2, \"text\": \"Satisfied with transportation but not parks\"}, {\"id\": 3, \"text\": \"Satisfied with parks but not transportation\"}, {\"id\": 4, \"text\": \"Dissatisfied with both\"}]}",
+        "rationale": "determine the bias. We need to assess if this question falls into the category of double-barreled questions where it combines two separate topics into one question.",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Question about educational resources.\", \"main_text\": \"Given the critical importance of education for our children's future, how would you rate the adequacy of educational resources available in our city?\", \"response_categories\": []}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"Implies the respondent has opinions on the efficiency of city services.\", \"main_text\": \"Which city service do you believe requires immediate improvement?\", \"response_categories\": [{\"id\": 1, \"text\": \"Public transportation\"}, {\"id\": 2, \"text\": \"Waste management\"}, {\"id\": 3, \"text\": \"Water supply\"}, {\"id\": 4, \"text\": \"Electricity supply\"}, {\"id\": 5, \"text\": \"Public safety\"}]}",
+        "bias": "true"
+      }
+    ],
+    "signature_instructions": "Assess whether a question is biased or not. Keep in mind the following forms of bias:\n        (1) Leading questions, which are phrased in a way that suggests a particular answer is more desirable or correct. They tend to have subjective adjectives, or context-laden words that frame the question in a positive or negative light.\n        (2) Making assumptions about respondents' behaviors, attitudes, or goals. These questions tend to guess information instead of asking for it.\n        (3) Double-barreled questions, which ask about two or more things simultaneously.\n        (4) Emotionally loaded language, which has emotionally loaded terms or phrases that imply judgment or assume a particular stance. Words that carry strong positive or negative connotations can influence respondents' emotions and responses.",
+    "signature_prefix": "Bias:",
+    "extended_signature_instructions": "Assess whether a question is biased or not. Keep in mind the following forms of bias:\n        (1) Leading questions, which are phrased in a way that suggests a particular answer is more desirable or correct. They tend to have subjective adjectives, or context-laden words that frame the question in a positive or negative light.\n        (2) Making assumptions about respondents' behaviors, attitudes, or goals. These questions tend to guess information instead of asking for it.\n        (3) Double-barreled questions, which ask about two or more things simultaneously.\n        (4) Emotionally loaded language, which has emotionally loaded terms or phrases that imply judgment or assume a particular stance. Words that carry strong positive or negative connotations can influence respondents' emotions and responses.",
+    "extended_signature_prefix": "Bias:"
+  }
+}

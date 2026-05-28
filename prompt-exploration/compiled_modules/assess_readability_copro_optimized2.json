@@ -1,0 +1,12 @@
+{
+  "readability": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature_instructions": "Assess the readbility of a question to high, medium, or low. Keep in mind the following qualities, for a question to be readable:\n        (1) Question should meet a third-grade reading level.\n        (2) Question should not contain basic spelling or grammar mistakes.\n        (3) Question should be concise.\n        (4) Question should not contain potential jargon (e.g. special words or expressions that are used by a particular profession or group and are difficult for others to understand) that are not defined.\n        (5) Question should not contain any acronyms that are not defined.\n        (6) Question should not mention proper nouns (e.g. names of specific people, places, or organizations) without describing what they are.\n        (7) Question should be in active voice.\n        (8) Question should have as few propositions and logical operators as possible.\n        (9) Question should not have negatives or double negatives.",
+    "signature_prefix": "Readability:",
+    "extended_signature_instructions": "Proposed Instruction: Methodically evaluate the readability level of any given question, assigning it a high, medium, or low rating based on defined criteria aimed specifically at making it accessible for third-graders. The following attributes should guide your judgement: (1) Alignment with third-grade reading abilities, designed to educate without overcomplication, (2) Entirely error-free in terms of spelling and grammatical construction, (3) Utmost economy in word usage to avoid wordiness, (4) Exclusion of undocumented jargon, simplifying complex concepts ideally within a single defining sentence, (5) Eradication of undefined acronyms, each required to carry a subtext of clarity should it be necessary to use, (6) Proper, actionable intelligence behind each mentioned proper noun, generating effective understanding, (7) Active voice should predominate, animating subjects with comprehension-first driven purpose, (8) Constraints on the deployment of logical operators and predicates, reserving use only to those essential for coherence, (9) Complete absolution from negatives or compounded negatives. Each criterion must be accounted separately and weighted for its tangible presence before culminating in an overall evaluation summing third-grader simplification cohesion.",
+    "extended_signature_prefix": "\u201cFinal Readability Evaluation:\u201d"
+  }
+}

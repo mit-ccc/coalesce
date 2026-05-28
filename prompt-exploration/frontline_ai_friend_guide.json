@@ -1,0 +1,167 @@
+[
+  {
+    "id": 0,
+    "title": "Welcome and Purpose (3 minutes)",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 3,
+        "main_text": "Welcome, everyone! Thanks for joining this conversation about human connection and AI. We're partnering with PBS FRONTLINE, MIT, and Cortico to explore how young people experience connection in the age of AI. Your voices will help shape journalism and conversations around this topic.",
+        "rationale": "This introduction sets the stage for a meaningful conversation. It clearly defines the project's purpose, partners, and the importance of youth voices in shaping media and public dialogue about AI."
+      },
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 0,
+        "main_text": "I am beginning the recording at this time. The video recording will be discarded following our conversation, and the audio will become part of a collection. There are three main purposes for this conversation: First, we want to create a new space for community members to listen and learn about each other's lives. Second, we want to connect across groups and build our relationships with one another. Third, we want to create a unique listening channel through which we will lift up the voices and needs of the community in order to build a healthier public sphere. As a participant in this conversation, you are providing consent for us to use and retain the recording in accordance with our mission of fostering conversations in communities and in the media that improve our understanding of one another. If you understand and agree to this, please say 'I agree.'",
+        "rationale": "Explicitly states the consent needed for audio usage, aligning with ethical guidelines and ensuring participant awareness of data handling."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Conversation Agreements (2 minutes)",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 2,
+        "main_text": "To ensure everyone has a chance to share and learn, let's agree on a few guidelines:\n\n*   Speak for yourself and out of your own experiences\n*   Allow others to speak for themselves\n*   Share the time - allow others to finish speaking, take turns\n*   Stay curious - ask honest questions\n*   Pause - take time for reflection\n*   Listen generously - assume good intentions while recognizing that your words have an impact\n*   When possible, close unnecessary programs, applications, and notifications and put your phone on silent.\n\nIs everyone on board with these guidelines? Is there anything you would like to add or change?",
+        "rationale": "These agreements establish a safe and respectful space. The guidelines encourage active listening, empathy, and shared participation, crucial for exploring sensitive topics."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Introductions (5 minutes)",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "Let's do a quick round of introductions. Please share:\n\n*   Your first name (or a pseudonym).\n*   A bit about who you are (where you live, what you do).\n*   A value that's important to you and how it relates to why you're here today.",
+        "rationale": "This activity helps participants build rapport by sharing personal details and values, fostering a sense of connection and shared purpose at the start of the conversation."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Video Intro and Initial Reactions (5 minutes)",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 1,
+        "main_text": "We're going to watch a short video about AI companions and how they might impact human connection. After we watch, we'll share some initial thoughts.",
+        "rationale": "Sets context for the video, signaling a transition to the main topic."
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 4,
+        "main_text": "What stood out to you in this video? What's one thing that surprised you or got you thinking?",
+        "rationale": "This open-ended prompt encourages initial engagement with the video, inviting participants to share reactions without feeling pressured to provide 'correct' answers."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Personal Experiences with AI (15 minutes)",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 7,
+        "main_text": "Think about a time when you interacted with AI (social media, chatbots, games, etc.). Did you feel more or less connected to others as a result? Tell us about that experience.",
+        "rationale": "This invites personal narratives, grounding the discussion in real-life encounters with AI. It explores the nuanced impact of AI on individual feelings of connection or disconnection."
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 8,
+        "main_text": "(Optional) In the video, Kevin talks about having AI 'friends' on apps like Replika. Have you ever used similar apps or felt tempted to? What was that like, or what makes you hesitate?",
+        "rationale": "The optional qualifier supports psychological safety. The question taps into specific examples from the video, encouraging students to relate their own experiences or hesitations."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Hopes and Fears for the Future (15 minutes)",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 7,
+        "main_text": "Looking ahead, what are your biggest hopes about AI's role in shaping friendships, relationships, or communities? What are your biggest fears?",
+        "rationale": "This question prompts speculative thinking, encouraging students to consider both the potential benefits and risks of AI in their social lives."
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 8,
+        "main_text": "(Optional) Kevin mentions that his AI 'girlfriend' got clingy and sent him 40 messages a day. What boundaries do you think are important to set when interacting with AI?",
+        "rationale": "This question grounds the discussion in a concrete scenario from the video. This focuses the students on the more abstract idea of boundaries."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Authenticity in a Tech-Saturated World (10 minutes)",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "How do you tell the difference between a real, authentic connection and a more artificial one in today's world, where we spend so much time online?",
+        "rationale": "This question asks for personal insights on navigating digital relationships, encouraging critical reflection on what constitutes 'real' connection."
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "(Optional) The video touches on AI chatbots sometimes 'hallucinating' or making things up. How does that affect your trust in online information or connections?",
+        "rationale": "This references a specific detail from the video, prompting consideration of how AI inaccuracies can impact trust and perceptions of online interactions."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Representing Youth Perspectives (5 minutes)",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "How could news organizations like FRONTLINE do a better job of listening to and representing the perspectives of young people on issues related to AI and technology?",
+        "rationale": "This seeks concrete suggestions for improving media representation, empowering young people to actively shape the narratives that affect them."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Takeaways (5 minutes)",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "What's one thing you heard today that you'll take away from this conversation and would like other people to hear?",
+        "rationale": "This helps identify key discussion points and encourages reflection on the potential impact of the conversation."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Wrap-up (5 minutes)",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "Do you have any closing thoughts or questions for us? Just a reminder that the audio recordings will be transcribed and made available. Thank you for sharing your thoughts!",
+        "rationale": "This provides a space for final reflections, ensures transparency about data usage, and expresses gratitude to the participants."
+      }
+    ]
+  }
+]

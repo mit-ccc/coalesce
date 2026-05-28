@@ -1,0 +1,12 @@
+{
+  "bias": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature_instructions": "Assess whether a question is biased or not. Keep in mind the following forms of bias:\n        (1) Leading questions, which are phrased in a way that suggests a particular answer is more desirable or correct. They tend to have subjective adjectives, or context-laden words that frame the question in a positive or negative light.\n        (2) Making assumptions about respondents' behaviors, attitudes, or goals. These questions tend to guess information instead of asking for it.\n        (3) Double-barreled questions, which ask about two or more things simultaneously.\n        (4) Emotionally loaded language, which has emotionally loaded terms or phrases that imply judgment or assume a particular stance. Words that carry strong positive or negative connotations can influence respondents' emotions and responses.",
+    "signature_prefix": "Bias:",
+    "extended_signature_instructions": "Assess whether a question is biased or not. Keep in mind the following forms of bias:\n        (1) Leading questions, which are phrased in a way that suggests a particular answer is more desirable or correct. They tend to have subjective adjectives, or context-laden words that frame the question in a positive or negative light.\n        (2) Making assumptions about respondents' behaviors, attitudes, or goals. These questions tend to guess information instead of asking for it.\n        (3) Double-barreled questions, which ask about two or more things simultaneously.\n        (4) Emotionally loaded language, which has emotionally loaded terms or phrases that imply judgment or assume a particular stance. Words that carry strong positive or negative connotations can influence respondents' emotions and responses.",
+    "extended_signature_prefix": "Bias:"
+  }
+}

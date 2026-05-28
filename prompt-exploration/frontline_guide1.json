@@ -1,0 +1,158 @@
+[
+  {
+    "id": 0,
+    "title": "Introduction and Consent",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "Welcome to this conversation. Thanks for agreeing to participate in this conversation! I have begun recording at this time, and I need to share a little information with you before we begin our conversation. Following our conversation today, the video recording will be discarded, and the audio will become part of a collection. There are three main purposes for this conversation: First, we want to create a new space for community members to listen and learn about each other's lives. Second, we want to connect across groups and build our relationships with one another. Third, we want to create a unique listening channel through which we will lift up the voices and needs of the community in order to build a healthier public sphere. To this end, we are inviting you to have a different type of conversation. These conversations are focused on sharing our personal stories from our lived experience, rather than beginning the conversation with our positions on issues. We are doing this in order to help build connections and to foster conversations that improve our understanding of one another. As a participant in this conversation, you are providing consent for us to use and retain the recording in accordance with our mission of fostering conversations in communities and in the media that improve our understanding of one another. If you understand and agree to this, please say “I agree”.",
+        "rationale": "This section introduces the project's purpose and ensures participants understand and consent to the recording and use of the conversation for research.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Conversation Agreements",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "We want to make sure that everyone gets a chance both to share and to learn from others in this conversation, and to support those goals we have a few guidelines for our conversation. Speak for yourself and out of your own experiences; Allow others to speak for themselves; Share the time - allow others to finish speaking, take turns; Stay curious - ask honest questions; Pause - take time for reflection; Listen generously - assume good intentions while recognizing that your words have an impact; When possible, close unnecessary programs, applications, and notifications and put your phone on silent. Is everyone on board with these guidelines? Is there anything you would like to add or change?",
+        "rationale": "This section establishes respectful communication norms, ensuring everyone feels safe and heard, and allowing for adjustments to the guidelines.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Introductions and Check-ins",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "For the ease of this conversation, we are going to use a modified “circle” process where each person will take a turn. I'll help transition us from one person to the next. You can always pass, or pass and ask for us to come back to you. Does anyone have any questions about this process? Ok, to begin, we want to do a quick round of introductions. Please share just your first name (or a pseudonym). In addition to your first name, please share ...a little bit of background info about who you are, like where you live, or what you do and ...a value that is important to you and how it is related to what brought you here today. For this first round, I'll start…",
+        "rationale": "This section helps participants get to know each other, fostering a sense of connection and understanding diverse perspectives.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Initial Reactions to AI Surveillance",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 7,
+        "main_text": "After watching the video, what are your initial reactions to the AI surveillance applications shown? What stood out to you the most?",
+        "rationale": "This question prompts students to reflect on their immediate impressions of AI surveillance, setting the stage for deeper analysis.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Comfort Levels with AI Monitoring",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 7,
+        "main_text": "How comfortable are you with different types of AI monitoring, such as facial recognition in public spaces, data collection by social media companies, or AI-driven analysis of online activity? Why?",
+        "rationale": "This question explores students' varying levels of acceptance regarding different forms of AI surveillance in everyday life.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Boundaries and Oversight",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "Where do you think appropriate boundaries should be set for government and corporate surveillance? What oversight mechanisms might be necessary to ensure these boundaries are respected?",
+        "rationale": "This question encourages students to consider limits to surveillance and potential safeguards against overreach by authorities and companies.",
+        "response_categories": []
+      },
+       {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "(Optional) Can you imagine any scenario where you'd be comfortable giving the government or corporations access to your data?",
+        "rationale": "This question encourages students to think of circumstances where surveillance might be warranted or even welcome.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Balancing Security and Privacy",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "How do you weigh the potential security benefits of AI surveillance against personal privacy concerns? Is there a point where security measures become too intrusive?",
+        "rationale": "This question challenges students to balance competing values, considering trade-offs between safety and individual liberty.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Cultural and Political Contexts",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "How do you think about these technologies in different cultural and political contexts? Are surveillance practices in one country more acceptable than in another? Why or why not?",
+        "rationale": "This question prompts students to analyze AI surveillance in relation to cultural values and political systems, promoting nuanced perspectives.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Future Implications",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "How do you predict AI surveillance might evolve in your lifetime? What role do you see yourself playing in shaping technology governance as a future citizen?",
+        "rationale": "This question encourages students to envision the future of AI surveillance and their roles as active participants in shaping technology policy.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Wrap-up",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 3,
+        "main_text": "What is one thing you heard today that you'll be taking away from this conversation and that you'd like other people to hear?",
+        "rationale": "This question allows participants to consolidate key takeaways and share important insights with others.",
+        "response_categories": []
+      },
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 2,
+        "main_text": "Those are all of the questions that we have for you. Do you have any closing thoughts that you'd like to share or other general reflections on the conversation? Do you have any questions for us? Just a reminder of what will happen with the thoughts you just shared. These recordings will be transcribed and uploaded. You will receive an invitation to join a platform and explore your conversation and others after this conversation is uploaded and transcribed. Thank you so much for joining us and sharing your thoughts!",
+        "rationale": "This section provides closure, addresses remaining questions, and expresses gratitude for participation.",
+        "response_categories": []
+      }
+    ]
+  }
+]

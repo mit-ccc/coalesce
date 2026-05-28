@@ -1,0 +1,97 @@
+{
+  "readability": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"Question about public transportation with specialized terms\", \"main_text\": \"Which type of public transit do you prefer: the funicular or the trolley?\", \"response_categories\": [{\"id\": 1, \"text\": \"Funicular\"}, {\"id\": 2, \"text\": \"Trolley\"}, {\"id\": 3, \"text\": \"No preference\"}, {\"id\": 4, \"text\": \"I don't use public transit\"}]}",
+        "reading_level": "third grade",
+        "rationale": "produce the readability. We have a question that compares two types of public transportation without defining what a funicular or trolley is, which may be unfamiliar to some respondents.",
+        "readability": "low"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"Question utilizes passive voice and incorporates a negative form, asking about satisfaction with city parks.\", \"main_text\": \"Is satisfaction not felt by you with the city parks?\", \"response_categories\": [{\"id\": 1, \"text\": \"Yes, satisfaction is not felt\"}, {\"id\": 2, \"text\": \"No, satisfaction is felt\"}]}",
+        "reading_level": "third grade",
+        "rationale": "produce the readability. We see that the question is phrased in passive voice and includes a negative form, making it more complex for a third-grade reading level.",
+        "readability": "low"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"Question not adhering to active voice.\", \"main_text\": \"By the city's public transportation system, how satisfied are you?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very satisfied\"}, {\"id\": 2, \"text\": \"Somewhat satisfied\"}, {\"id\": 3, \"text\": \"Neutral\"}, {\"id\": 4, \"text\": \"Somewhat dissatisfied\"}, {\"id\": 5, \"text\": \"Very dissatisfied\"}]}",
+        "readability": "low",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Gathering information on community gathering spaces to assess their utilization and possible need for more.\", \"main_text\": \"Where do you usually meet with friends or family outside your home?\", \"response_categories\": []}",
+        "readability": "high",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Inquiring about park usage\", \"main_text\": \"What do you do at the park?\", \"response_categories\": []}",
+        "readability": "high",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"Seeks to understand the importance of green spaces.\", \"main_text\": \"How important are green spaces like parks and gardens to you?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very important\"}, {\"id\": 2, \"text\": \"Important\"}, {\"id\": 3, \"text\": \"Somewhat important\"}, {\"id\": 4, \"text\": \"Not important at all\"}]}",
+        "readability": "high",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"This question asks about the usage of public sports facilities.\", \"main_text\": \"Do you use public sports facilities like pools or courts?\", \"response_categories\": [{\"id\": 1, \"text\": \"Frequently\"}, {\"id\": 2, \"text\": \"Occasionally\"}, {\"id\": 3, \"text\": \"Seldom\"}, {\"id\": 4, \"text\": \"Never\"}]}",
+        "readability": "high",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"A question about park usage.\", \"main_text\": \"How often do you go to the park?\", \"response_categories\": []}",
+        "readability": "high",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Inquires about satisfaction with public transportation using a double negative.\", \"main_text\": \"Isn't it untrue that you're unsatisfied with the city's public transportation system?\", \"response_categories\": []}",
+        "readability": "low",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Question about street lighting\", \"main_text\": \"Do you think our streets are well-lit at night?\", \"response_categories\": []}",
+        "readability": "high",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"Question about preference for new city services\", \"main_text\": \"What new service would you like to see in our city?\", \"response_categories\": [{\"id\": 1, \"text\": \"More parks\"}, {\"id\": 2, \"text\": \"More libraries\"}, {\"id\": 3, \"text\": \"Better transportation options\"}, {\"id\": 4, \"text\": \"More community events\"}, {\"id\": 5, \"text\": \"Other\"}]}",
+        "readability": "high",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Inquires about a transportation method without specifying its nature.\", \"main_text\": \"What are your thoughts on the Blue Line service?\", \"response_categories\": []}",
+        "readability": "medium",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"Asking about library usage without specifying it's a public library\", \"main_text\": \"How often do you visit the library each month?\", \"response_categories\": [{\"id\": 1, \"text\": \"Never\"}, {\"id\": 2, \"text\": \"1-2 times\"}, {\"id\": 3, \"text\": \"3-4 times\"}, {\"id\": 4, \"text\": \"More than 4 times\"}]}",
+        "readability": "medium",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"This question aims to gather feedback on environmental initiatives with a focus on waste management strategies, incorporating multiple aspects into one question.\", \"main_text\": \"Do you think the city should focus on expanding recycling programs, introducing compost collection for households, or implementing stricter regulations on single-use plastics, and what are your reasons?\", \"response_categories\": []}",
+        "readability": "medium",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Asking for a personal viewpoint on city park improvements.\", \"main_text\": \"How is it believed that the city parks can be improved?\", \"response_categories\": []}",
+        "readability": "medium",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Question inquiring about the absence of a community library.\", \"main_text\": \"Why doesn't our community have a library?\", \"response_categories\": []}",
+        "readability": "medium",
+        "reading_level": "third grade"
+      }
+    ],
+    "signature_instructions": "Assess the readbility of a question to high, medium, or low. Keep in the mind the following qualities, for a question to be readable:\n        (1) Question should meet a third-grade reading level.\n        (2) Question should not contain basic spelling or grammar mistakes.\n        (3) Question should be concise.\n        (4) Question should not contain potential jargon (e.g. special words or expressions that are used by a particular profession or group and are difficult for others to understand) that are not defined.\n        (5) Question should not contain any acronyms that are not defined.\n        (6) Question should not mention proper nouns (e.g. names of specific people, places, or organizations) without describing what they are.\n        (7) Question should be in active voice.\n        (8) Question should have as few propositions and logical operators as possible.\n        (9) Question should not have negatives or double negatives.",
+    "signature_prefix": "Readability:",
+    "extended_signature_instructions": "Assess the readbility of a question to high, medium, or low. Keep in the mind the following qualities, for a question to be readable:\n        (1) Question should meet a third-grade reading level.\n        (2) Question should not contain basic spelling or grammar mistakes.\n        (3) Question should be concise.\n        (4) Question should not contain potential jargon (e.g. special words or expressions that are used by a particular profession or group and are difficult for others to understand) that are not defined.\n        (5) Question should not contain any acronyms that are not defined.\n        (6) Question should not mention proper nouns (e.g. names of specific people, places, or organizations) without describing what they are.\n        (7) Question should be in active voice.\n        (8) Question should have as few propositions and logical operators as possible.\n        (9) Question should not have negatives or double negatives.",
+    "extended_signature_prefix": "Readability:"
+  }
+}

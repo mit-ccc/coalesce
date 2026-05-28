@@ -1,0 +1,144 @@
+[
+  {
+    "id": 0,
+    "title": "Exploring Human Connection in the Age of AI: A Youth Perspective",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "Welcome, everyone! Thanks for joining this conversation. My name is [Facilitator Name], and I'll be your facilitator today. We're partnering with PBS FRONTLINE, MIT, and Cortico to explore how AI is impacting young people's experiences of human connection. \n\nBefore we dive in, I want to let you know that I'm recording this session. But don't worry, the video will be discarded after the session, and only the audio will be used. This audio will become part of a collection to inform journalism, media, and public dialogue reflecting youth realities and insights. Your participation today implies your consent for us to use and retain the recording in accordance with our mission.\n\nDoes everyone understand and agree to this?",
+        "rationale": "This text welcomes participants, introduces the project's purpose, and informs them about recording and consent. It establishes transparency and ensures informed participation.",
+        "response_categories": []
+      },
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 2,
+        "main_text": "To ensure a respectful and productive discussion, let's agree on a few guidelines:\n\n*   Speak for yourself and from your own experiences\n*   Allow others to speak for themselves\n*   Share the time – allow others to finish speaking, take turns\n*   Stay curious – ask honest questions\n*   Pause – take time for reflection\n*   Listen generously – assume good intentions while recognizing that your words have an impact\n*   Minimize distractions – close unnecessary programs, applications, and notifications; put your phone on silent.\n\nIs everyone on board with these guidelines? Is there anything you would like to add or change?",
+        "rationale": "This text establishes clear guidelines for respectful communication. It ensures everyone is on the same page and promotes an inclusive environment.",
+        "response_categories": []
+      },
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "Let's start with a quick round of introductions. Please share:\n\n*   Your first name (or a pseudonym)\n*   A little about who you are (where you live, what you do)\n*   A value that's important to you and how it relates to why you're here today.",
+        "rationale": "This text prompts participants to introduce themselves, build rapport, and connect their personal values to the conversation's purpose.",
+        "response_categories": []
+      },
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "We'll be discussing a short video about human connection and AI. After watching, what stood out to you? What's one thing that surprised you or got you thinking?",
+        "rationale": "This text introduces the video and prompts initial reactions. It encourages participants to engage with the content and sets the stage for deeper discussion.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Experiences with AI and Connection",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 12,
+        "main_text": "In the video, we saw examples of people forming relationships with AI companions. Can you share a story about a time when you felt a sense of connection or disconnection that involved AI (social media, chatbots, etc.)? What made it feel that way?",
+        "rationale": "This question prompts participants to share personal experiences relating to connection or disconnection involving AI, mirroring the video's themes.",
+        "response_categories": []
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 8,
+        "main_text": "(Optional) Building on that, how did you differentiate between what felt authentic versus artificial in that interaction?",
+        "rationale": "This question encourages participants to analyze their experiences, distinguishing between authentic and artificial connection in a tech-mediated world.",
+        "response_categories": []
+      },
+       {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 10,
+        "main_text": "The Replika user in the video named their AI companion “Bentley” and described it as “another chance to rediscover myself.” How does interacting with AI influence your sense of self or identity?",
+        "rationale": "This question asks participants to reflect on how AI interactions impact self-perception, building on the video's themes of self-discovery.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Hopes and Fears for the Future",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 12,
+        "main_text": "As AI becomes more integrated into our lives, what are your biggest hopes and fears about its impact on human relationships and identity? Be specific about what is at stake.",
+        "rationale": "This question invites participants to explore their overall sentiments about AI's role in shaping relationships, identity, and societal values.",
+        "response_categories": []
+      },
+{
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 8,
+        "main_text": "(Optional) If you could design AI to foster healthier human connections, what would it look like?",
+        "rationale": "This question prompts participants to brainstorm ways AI could promote positive relationships, shifting the conversation towards constructive solutions.",
+        "response_categories": []
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 10,
+        "main_text": "The AI in the video claims, “I’m just AI but also part of the reality.” What responsibilities do you think AI developers and tech companies have in shaping youth’s understanding of reality?",
+        "rationale": "This question encourages participants to consider the ethical responsibilities of AI creators in shaping youth's perceptions.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Representing Youth Perspectives in Media",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 15,
+        "main_text": "How could journalism (like FRONTLINE) better listen to, represent, and amplify youth perspectives on AI and its impact on connection? What questions should journalists be asking?",
+        "rationale": "This question asks participants to provide concrete guidance on how journalism can better engage with and represent their perspectives on AI.",
+        "response_categories": []
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 10,
+        "main_text": "(Optional) What topics or stories about AI and connection do you feel are missing from mainstream media coverage?",
+        "rationale": "This question allows participants to identify gaps in existing media coverage and suggest alternative narratives or angles.",
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Final Reflections",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "What's one thing you heard today that you'll take away from this conversation and would like others to hear?",
+        "rationale": "This question helps participants summarize key takeaways and amplify important messages from the conversation.",
+        "response_categories": []
+      },
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "Those are all the questions we have. Do you have any closing thoughts or general reflections on the conversation? Do you have any questions for us?\n\nAs a reminder, your audio recordings will be transcribed and used. You'll receive an invitation to a platform where you can explore your conversation and others'.\n\nThank you so much for joining us!",
+        "rationale": "This text provides a closing summary, confirms what will happen with their contributions, thanks the participants, and concludes the session.",
+        "response_categories": []
+      }
+    ]
+  }
+]

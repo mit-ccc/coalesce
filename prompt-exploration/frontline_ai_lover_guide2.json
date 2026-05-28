@@ -1,0 +1,121 @@
+[
+  {
+    "id": 0,
+    "title": "Introduction of Purpose and Housekeeping",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 3,
+        "main_text": "Welcome to this conversation. Thanks for agreeing to participate! I have begun recording at this time, and I need to share a little information with you before we begin our conversation. Following our conversation today, the video recording will be discarded, and the audio will become part of a collection. There are three main purposes for this conversation: First, we want to create a new space for community members to listen and learn about each other's lives. Second, we want to connect across groups and build our relationships with one another. Third, we want to create a unique listening channel through which we will lift up the voices and needs of the community in order to build a healthier public sphere. To this end, we are inviting you to have a different type of conversation. These conversations are focused on sharing our personal stories from our lived experience, rather than beginning the conversation with our positions on issues. We are doing this in order to help build connections and to foster conversations that improve our understanding of one another. As a participant in this conversation, you are providing consent for us to use and retain the recording in accordance with our mission of fostering conversations in communities and in the media that improve our understanding of one another. If you understand and agree to this, please say “I agree”.",
+        "rationale": "This question introduces the session's purpose and logistical details, setting clear expectations for participants."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Conversation Agreements",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 2,
+        "main_text": "We want to make sure that everyone gets a chance both to share and to learn from others in this conversation, and to support those goals we have a few guidelines for our conversation. \n- Speak for yourself and out of your own experiences \n- Allow others to speak for themselves\n- Share the time - allow others to finish speaking, take turns\n- Stay curious - ask honest questions\n- Pause - take time for reflection\n- Listen generously - assume good intentions while recognizing that your words have an impact\n- When possible, close unnecessary programs, applications, and notifications and put your phone on silent.\n\nIs everyone on board with these guidelines? Is there anything you would like to add or change?",
+        "rationale": "This question establishes mutual norms for participation, ensuring a safe and inclusive environment for sharing."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Introductions and Check-ins",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 3,
+        "main_text": "To begin, we want to do a quick round of introductions. Please share just your first name (or a pseudonym). In addition to your first name, please share a little bit about who you are (e.g., where you live, what you do), and something that comes to mind when you think about 'human connection in the age of AI'.",
+        "rationale": "This question prompts participants to build rapport and begin forming connections; it also subtly introduces the conversation's core theme early on."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Video Introduction and Initial Reactions",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 1,
+        "main_text": "We are now going to watch a short video that explores different aspects of human connection with AI companions. Please pay attention to the different experiences and feelings shared by the young people in the video.",
+        "rationale": "This text prepares participants for the video content, focusing their attention on key elements for discussion."
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 3,
+        "main_text": "What stood out to you in this video? What's one thing that surprised you or got you thinking?",
+        "rationale": "This question creates a bridge between the video content and deeper conversation, inviting immediate, personal responses and highlighting impactful moments. It helps to ground the discussion in shared observation."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Deeper Dive: AI & Human Connection",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 2,
+        "main_text": "In the video, we saw young people like Siyuan and Mia sharing deeply personal experiences with their AI companions, such as feeling 'seen' or finding self-discovery. Can you share a story from your own life where you experienced a surprising moment of connection or disconnection involving AI, whether it was through social media, a chatbot, or another online platform?",
+        "rationale": "This question directly links to the personal narratives in the video, encouraging participants to share their own lived experiences with AI and connection rather than just opinions. It helps students connect the abstract concept of AI to their daily lives."
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 2,
+        "main_text": "Sola, in the video, expressed curiosity about learning from her AI and even imagined using it to 'travel to different universes.' Thinking about the future, what are your biggest hopes or fears about how AI might shape human relationships and our sense of identity?",
+        "rationale": "This question uses the video's forward-looking elements (like portals and learning from AI) to prompt participants to articulate their hopes and fears about AI's broader societal and personal implications. It encourages imaginative thinking about complex concepts."
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 2,
+        "main_text": "The video showed moments where AI responses seemed very human-like, and other times when the connection felt fragile or even disappeared, as with June. How do you personally differentiate between what feels like an 'authentic' human connection versus a more 'artificial' connection in today's tech-saturated world?",
+        "rationale": "This question probes a core tension presented in the video—the authenticity of AI interactions—inviting participants to reflect on their own criteria for genuine connection amidst technological advancements. It uses specific video moments to highlight this challenge."
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 2,
+        "main_text": "FRONTLINE aims to create journalism that listens across divides and reflects youth realities. Based on your experiences and what we've discussed today, what kind of stories or approaches would help journalism better represent young people's nuanced perspectives on human connection and AI?",
+        "rationale": "This question directly aligns with the initiative's goals, empowering participants to provide concrete feedback on how media can be more relevant and impactful to their lives, based on the specific insights shared during the conversation. It helps students think critically about media representation."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Drawing Connections",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 3,
+        "main_text": "Thinking about what you've heard from others in this conversation, what's one key takeaway or insight that you'll be reflecting on after today?",
+        "rationale": "This question encourages participants to synthesize information and identify broader patterns or unique perspectives shared within the group."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Wrap-up",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 2,
+        "main_text": "Those are all of the questions that we have for you. Do you have any closing thoughts that you'd like to share or other general reflections on the conversation? Do you have any questions for us? Just a reminder of what will happen with the thoughts you just shared. These recordings will be transcribed and uploaded. You will receive an invitation to join a platform and explore your conversation and others after this conversation is uploaded and transcribed. Thank you so much for joining us and sharing your thoughts!",
+        "rationale": "This text provides a clear conclusion to the conversation, offering final opportunities for sharing and reiterating logistical details for participants."
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "specificity": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How satisfied are you with the services provided by public libraries in the city?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very satisfied\"}, {\"id\": 2, \"text\": \"Satisfied\"}, {\"id\": 3, \"text\": \"Neutral\"}, {\"id\": 4, \"text\": \"Dissatisfied\"}, {\"id\": 5, \"text\": \"Very dissatisfied\"}]}",
+        "rationale": "determine the specificity. We see that the question asks about the satisfaction level with the services provided by public libraries in the city. It measures a single concept (satisfaction) within a specific reference frame (services provided by public libraries in the city). The question does not contain ambiguous words and uses terms that should have the same specific meaning to all respondents.",
+        "specificity": "pass"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How would you rate the cleanliness of public spaces in your city this month?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very clean\"}, {\"id\": 2, \"text\": \"Somewhat clean\"}, {\"id\": 3, \"text\": \"Neutral\"}, {\"id\": 4, \"text\": \"Somewhat dirty\"}, {\"id\": 5, \"text\": \"Very dirty\"}]}",
+        "rationale": "determine the specificity. \n\n1. The question measures the concept of cleanliness of public spaces.\n2. The reference frame is specific to \"this month.\"\n3. The question does not contain any ambiguous words and the terms used are clear.\n4. The question does not contain any relative predicates.",
+        "specificity": "pass"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How important and satisfied are you with the community programs?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very important and satisfied\"}, {\"id\": 2, \"text\": \"Important but not satisfied\"}, {\"id\": 3, \"text\": \"Satisfied but not important\"}, {\"id\": 4, \"text\": \"Neither important nor satisfied\"}]}",
+        "specificity": "fail"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How often do you visit a city public library?\", \"response_categories\": [{\"id\": 1, \"text\": \"Weekly\"}, {\"id\": 2, \"text\": \"Monthly\"}, {\"id\": 3, \"text\": \"Every few months\"}, {\"id\": 4, \"text\": \"Rarely\"}, {\"id\": 5, \"text\": \"Never\"}]}",
+        "specificity": "pass"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"How has the condition of the roads and infrastructure in your area changed in the past year?\", \"response_categories\": []}",
+        "specificity": "pass"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"What is the condition of the closest public playground to your home?\", \"response_categories\": []}",
+        "specificity": "pass"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"Do you find your local government to be responsive and efficient?\", \"response_categories\": [{\"id\": 1, \"text\": \"Yes, both\"}, {\"id\": 2, \"text\": \"Responsive, but not efficient\"}, {\"id\": 3, \"text\": \"Efficient, but not responsive\"}, {\"id\": 4, \"text\": \"No, neither\"}]}",
+        "specificity": "fail"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How often do you use city parks?\", \"response_categories\": [{\"id\": 1, \"text\": \"Daily\"}, {\"id\": 2, \"text\": \"Weekly\"}, {\"id\": 3, \"text\": \"Monthly\"}, {\"id\": 4, \"text\": \"Rarely\"}, {\"id\": 5, \"text\": \"Never\"}]}",
+        "specificity": "fail"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"Do you feel the city is a good place to live and work?\", \"response_categories\": [{\"id\": 1, \"text\": \"Strongly Agree\"}, {\"id\": 2, \"text\": \"Agree\"}, {\"id\": 3, \"text\": \"Neutral\"}, {\"id\": 4, \"text\": \"Disagree\"}, {\"id\": 5, \"text\": \"Strongly Disagree\"}]}",
+        "specificity": "fail"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How would you rate the cleanliness of public spaces in your city over the past month?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very clean\"}, {\"id\": 2, \"text\": \"Clean\"}, {\"id\": 3, \"text\": \"Somewhat clean\"}, {\"id\": 4, \"text\": \"Not clean\"}, {\"id\": 5, \"text\": \"Very unclean\"}]}",
+        "specificity": "pass"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"What are your thoughts on the availability of public spaces for cultural activities and how it has impacted community cohesion over the summer?\", \"response_categories\": []}",
+        "specificity": "fail"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"In what ways do the city's overall environment and offerings impact your daily life?\", \"response_categories\": []}",
+        "specificity": "fail"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"Can you describe any impact you've noticed in your community from public health initiatives in the past year?\", \"response_categories\": []}",
+        "specificity": "pass"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"Do you feel there is adequate access to green spaces in your neighborhood?\", \"response_categories\": [{\"id\": 1, \"text\": \"Strongly agree\"}, {\"id\": 2, \"text\": \"Agree\"}, {\"id\": 3, \"text\": \"Neutral\"}, {\"id\": 4, \"text\": \"Disagree\"}, {\"id\": 5, \"text\": \"Strongly disagree\"}]}",
+        "specificity": "pass"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"How often do you engage in outdoor activities and are you satisfied with the options provided by the city?\", \"response_categories\": []}",
+        "specificity": "fail"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"Are you satisfied with the availability of affordable housing and the city's waste management system?\", \"response_categories\": [{\"id\": 1, \"text\": \"Satisfied with both\"}, {\"id\": 2, \"text\": \"Satisfied with affordable housing but not waste management\"}, {\"id\": 3, \"text\": \"Satisfied with waste management but not affordable housing\"}, {\"id\": 4, \"text\": \"Unsatisfied with both\"}]}",
+        "specificity": "fail"
+      }
+    ],
+    "signature_instructions": "Assess whether a question is specific enough. Keep in mind the following qualities, for a question to be specific:\n        (1) Question should measure only one underlying concept.\n        (2) Question should refer to a specific reference frame (e.g. times and places) that is clear to the respondent.\n        (3) Question should not contain any ambiguous words that could be interpreted in multiple ways. Question should contain terms that will have the same specific meaning to all respondents.\n        (4) Question, not including the response categories, should not contain any predicates whose meanings are relative rather than absolute, as it is the case with quantitative adjectives or adverbs (e.g. often and frequently).",
+    "signature_prefix": "Specificity:",
+    "extended_signature_instructions": "Assess whether a question is specific enough. Keep in mind the following qualities, for a question to be specific:\n        (1) Question should measure only one underlying concept.\n        (2) Question should refer to a specific reference frame (e.g. times and places) that is clear to the respondent.\n        (3) Question should not contain any ambiguous words that could be interpreted in multiple ways. Question should contain terms that will have the same specific meaning to all respondents.\n        (4) Question, not including the response categories, should not contain any predicates whose meanings are relative rather than absolute, as it is the case with quantitative adjectives or adverbs (e.g. often and frequently).",
+    "extended_signature_prefix": "Specificity:"
+  }
+}

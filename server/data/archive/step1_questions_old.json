@@ -1,0 +1,111 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "It's important to clearly define the problem or decision to be made before engaging the public. This will help you determine what information you need from the public and how to engage them.",
+                "main_text": "What is the problem to be solved or the decision to be made?",
+                "response_categories": []
+            }
+        },
+        {
+            "id": 1,
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "Connecting the goals of the engagement to the public",
+                "main_text": "What information is needed from the public to make the decision?",
+                "response_categories": []
+            }
+        },
+        {
+            "id": 2,
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What region is the engagement focused on? (e.g., city, county, state, national, etc.)",
+                "response_categories": []
+            }
+        },
+        {
+            "id": 3,
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "closed",
+                "description": "",
+                "main_text": "Is the region urban, suburban, or rural?",
+                "response_categories": [
+                    "Urban",
+                    "Suburban",
+                    "Rural"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "Let's think broadly of who will be affected by the final decision. Some people will be directly affected, while others may be indirectly affected.",
+                "main_text": "What groups of people will be affected by the outcome of the decision?",
+                "response_categories": []
+            }
+        },
+        {
+            "id": 5,
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "Focusing on the specific groups of people that we are designing questions for.",
+                "main_text": "Which of these groups are you engaging?",
+                "response_categories": []
+            }
+        },
+        {
+            "id": 6,
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "The form of engagement impacts the type of questions we create.",
+                "main_text": "What form of engagement (e.g., virtual convenings, one-on-one interviews, focus groups, surveys) will best solicit the input needed from the communities you hope to engage?",
+                "response_categories": []
+            }
+        },
+        {
+            "id": 7,
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What is the maximum amount of time in minutes you can expect people to spend on the engagement? (e.g., 5 minutes, 30 minutes, 60 minutes, etc.)",
+                "response_categories": []
+            }
+        },
+        {
+            "id": 8,
+            "cell_details": {
+                "cell_type": "question",
+                "response_format": "slider",
+                "description": "",
+                "main_text": "Please use the slider to specify the proportion of open-ended versus closed-ended questions you'd like.",
+                "response_categories": [
+                    {
+                        "value": 0,
+                        "label": "100% closed-ended"
+                    },
+                    {
+                        "value": 50,
+                        "label": "50% closed, 50% open"
+                    },
+                    {
+                        "value": 100,
+                        "label": "100% open-ended"
+                    }
+                ]
+            }
+        }
+    ]
+}

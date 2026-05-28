@@ -1,0 +1,849 @@
+{
+  "project_title": "Understanding Community Perspectives on AI in K-12 Education",
+  "user_id": "UGrwfbddJqKFyZLq3xyMvu",
+  "analyze_topics_info": {
+    "summary": "The visualization below displays the distribution of questions across 6 topics. 2 topics have zero or very few questions, while 1 topic has many questions. You can click on a colored block in the visualization to view the existing questions for a topic and AI-generated suggestions for questions that could be added or removed.",
+    "topics": {
+      "Unclassified": {
+        "cells": [
+          "4ad08f2d-203d-4ece-84cb-80b83c14cae1",
+          "0ee46f9a-7b5b-4778-b6a2-19b87015ff39",
+          "8b692a97-2143-4224-884b-658554434f42",
+          "c1af4f15-467c-4542-b4dd-30f56ab3e770",
+          "86317459-4462-47df-ad01-edce454b9bdf"
+        ],
+        "suggestion_rationale": ""
+      },
+      "Hopes for AI in Education": {
+        "cells": [
+          "412f31fd-f3d0-4198-817f-21d1d8c3e248",
+          "4222aece-fa38-4a24-b54e-c1f34d0954a1",
+          "d5f2d8c7-4e77-4ee7-9ca2-80023fd3acdc",
+          "e145b862-1068-4319-aedc-78284d589ab8"
+        ],
+        "suggestion_rationale": "Currently 40.0% of questions are about \"Hopes for AI in Education\". You could decrease the representation of this topic by removing 1 question relating to \"Hopes for AI in Education\", which saves around 10 minute(s)."
+      },
+      "Concerns about AI in Education": {
+        "cells": [
+          "f0d13968-2a33-486f-8c7d-8e9ac80bb705",
+          "4222aece-fa38-4a24-b54e-c1f34d0954a1"
+        ],
+        "suggestion_rationale": ""
+      },
+      "AI's Impact on Student Learning and Skills": {
+        "cells": [
+          "5a895a5f-bbfd-438a-8cbb-929727fddba8",
+          "412f31fd-f3d0-4198-817f-21d1d8c3e248",
+          "d5f2d8c7-4e77-4ee7-9ca2-80023fd3acdc"
+        ],
+        "suggestion_rationale": ""
+      },
+      "AI and Workforce Readiness": {
+        "cells": [],
+        "suggestion_rationale": "Currently there are no questions about \"AI and Workforce Readiness\". You could increase the representation of this topic by adding some questions relating to \"AI and Workforce Readiness\"."
+      },
+      "AI's Role in Assessments and Homework": {
+        "cells": [],
+        "suggestion_rationale": "Currently there are no questions about \"AI's Role in Assessments and Homework\". You could increase the representation of this topic by adding some questions relating to \"AI's Role in Assessments and Homework\"."
+      },
+      "Privacy and Ethical Considerations": {
+        "cells": ["0dd77e04-80bf-43be-8a68-4b8e828b3255"],
+        "suggestion_rationale": ""
+      }
+    },
+    "last_analyzed": "2024-06-13T14:11:10.057Z",
+    "suggestions": {
+      "Hopes for AI in Education": [
+        {
+          "suggestion_type": "delete",
+          "suggestions": [
+            {
+              "cell_id": "4222aece-fa38-4a24-b54e-c1f34d0954a1",
+              "time_estimate": 10,
+              "rationale": "This question can be deleted because it is redundant. The question 'What hopes do you have for the use of AI in our schools?' already covers the topic broadly, and asking for a specific story or experience is a more detailed version of the same question."
+            }
+          ]
+        }
+      ],
+      "AI and Workforce Readiness": [
+        {
+          "suggestion_type": "add",
+          "suggestions": [
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What do you think about the current use of AI technologies in education?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to understand current perceptions of AI in education.",
+              "section_id": 3
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "How do you feel AI can change the way children learn in schools?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to gauge feelings about AI's potential changes to the learning process.",
+              "section_id": 3
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What are your main concerns about the use of AI in k-12 education?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to identify public concerns about AI in education.",
+              "section_id": 4
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What potential benefits do you see in integrating AI into the education system?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to understand perceived benefits of AI in education.",
+              "section_id": 4
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "How do you think AI in education can affect students' readiness for future jobs?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to explore impacts of AI on students' future job readiness.",
+              "section_id": 5
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "Can you identify any specific skills that might be enhanced or diminished in students due to AI use in schools?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to identify specific skills affected by AI in education.",
+              "section_id": 5
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "How do you envision the role of AI in education five years from now?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to envision AI's future role in education.",
+              "section_id": 5
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What changes would you like to see in the education system with the integration of AI?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to gather desired changes in education with AI integration.",
+              "section_id": 5
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "In what ways do you think AI in schools could impact the broader workforce?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to link AI in schools to broader workforce impacts.",
+              "section_id": 6
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "How can schools ensure that AI tools are used to prepare students effectively for future careers?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to ensure effective preparation for future careers using AI tools.",
+              "section_id": 6
+            }
+          ]
+        }
+      ],
+      "AI's Role in Assessments and Homework": [
+        {
+          "suggestion_type": "add",
+          "suggestions": [
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What are your initial thoughts on the use of AI in education, particularly in assessments and homework?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to gauge initial reactions and thoughts on AI's role in education.",
+              "section_id": 3
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "How do you currently see AI being used in K-12 education, if at all?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to understand current perceptions and awareness of AI in K-12 settings.",
+              "section_id": 3
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What concerns do you have about AI being used to assist or replace student work in assignments and assessments?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to identify specific worries related to AI in academic tasks.",
+              "section_id": 4
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "Do you think AI could negatively impact students' learning and preparation for future careers? Why or why not?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to explore concerns about the impact of AI on student readiness for future careers.",
+              "section_id": 4
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What potential benefits do you see in using AI for assessments and homework?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to uncover perceived advantages of AI in academic contexts.",
+              "section_id": 4
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "How could AI be utilized to support teachers and enhance student learning experiences?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to find out how AI could potentially support educational outcomes.",
+              "section_id": 4
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "In the long-term, how do you think AI will change the landscape of education and workforce readiness?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to predict long-term changes in education due to AI.",
+              "section_id": 5
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "What skills do you believe will become more or less important as AI becomes more prevalent in education?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to determine which skills may shift in importance with AI integration.",
+              "section_id": 5
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "Have you had any personal or observed experiences with AI in educational settings? What were they like?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to gather anecdotal evidence and personal stories about AI in education.",
+              "section_id": 3
+            },
+            {
+              "cell_details": {
+                "cell_type": "question",
+                "response_format": "open",
+                "description": "",
+                "main_text": "Based on your experiences, what do you think are the biggest challenges and opportunities with AI in K-12 education?",
+                "response_categories": []
+              },
+              "time_estimate": 5,
+              "rationale": "This question is being asked to understand perceived challenges and opportunities from personal experiences with AI.",
+              "section_id": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "human_topics": {},
+  "sections": [
+    {
+      "cells": [
+        "8c8d6c7c-7a05-4bf7-9d77-fe5ffd319450",
+        "0dd77e04-80bf-43be-8a68-4b8e828b3255"
+      ],
+      "id": 0,
+      "time_estimate": 5,
+      "title": "Introduction and Purpose"
+    },
+    {
+      "cells": ["34c6f067-4ec1-4810-b247-50610d17faaa"],
+      "id": 1,
+      "time_estimate": 5,
+      "title": "Conversation Agreements"
+    },
+    {
+      "cells": ["4ad08f2d-203d-4ece-84cb-80b83c14cae1"],
+      "id": 2,
+      "time_estimate": 5,
+      "title": "Introductions and Check-ins"
+    },
+    {
+      "cells": [
+        "5a895a5f-bbfd-438a-8cbb-929727fddba8",
+        "0ee46f9a-7b5b-4778-b6a2-19b87015ff39"
+      ],
+      "id": 3,
+      "time_estimate": 15,
+      "title": "Sharing Initial Thoughts on AI in Education"
+    },
+    {
+      "cells": [
+        "412f31fd-f3d0-4198-817f-21d1d8c3e248",
+        "f0d13968-2a33-486f-8c7d-8e9ac80bb705",
+        "4222aece-fa38-4a24-b54e-c1f34d0954a1"
+      ],
+      "id": 4,
+      "time_estimate": 20,
+      "title": "Hopes and Concerns"
+    },
+    {
+      "cells": [
+        "d5f2d8c7-4e77-4ee7-9ca2-80023fd3acdc",
+        "e145b862-1068-4319-aedc-78284d589ab8"
+      ],
+      "id": 5,
+      "time_estimate": 10,
+      "title": "Future Vision"
+    },
+    {
+      "cells": [
+        "8b692a97-2143-4224-884b-658554434f42",
+        "c1af4f15-467c-4542-b4dd-30f56ab3e770",
+        "86317459-4462-47df-ad01-edce454b9bdf"
+      ],
+      "id": 6,
+      "time_estimate": 5,
+      "title": "Drawing Connections"
+    },
+    {
+      "cells": ["25068d52-055f-430c-8704-f072188fdb8a"],
+      "id": 7,
+      "time_estimate": 5,
+      "title": "Wrap-up"
+    }
+  ],
+  "context_response": {
+    "0": {
+      "cell_details": {
+        "cell_type": "question",
+        "description": "It's important to clearly define the problem or decision to be made before engaging the public. This will help you determine what information you need from the public and how to engage them.",
+        "main_text": "What is the problem to be solved or the decision to be made?",
+        "response_categories": [],
+        "response_format": "open"
+      },
+      "response": "We are a group of municipal, industry, and thought leaders, gathering at a summit in Cambridge, Massachusetts to discuss the implications of using artificial intelligence technologies in education. During the summit, we will have breakout rooms during which some of us will be interviewing community members about their ideas and preferences. At the end of the summit, we will be putting together public recommendations that k-12 public schools will be using to determine how they will or won't use AI in their processes.",
+      "warnings": [],
+      "errors": [],
+      "checked_warnings": false,
+      "ignored_warnings": []
+    },
+    "1": {
+      "cell_details": {
+        "cell_type": "question",
+        "description": "Connecting the goals of the engagement to the public",
+        "main_text": "What information is needed from the public to make the decision?",
+        "response_categories": [],
+        "response_format": "open"
+      },
+      "response": "We need to know the general preferences (hopes, concerns) that the public, especially people who work in k-12 or people who have children in or entering k-12 education, has about the use of AI in education. We already know from prior surveys that people in our community are very concerned with this issue, especially the use of AI to write essays for students, but there are still a lot of unknowns otherwise, and we get the sense that our community has a lot of other concerns that we haven't had a chance to understand yet.",
+      "warnings": [],
+      "errors": [],
+      "checked_warnings": false,
+      "ignored_warnings": []
+    },
+    "2": {
+      "cell_details": {
+        "cell_type": "question",
+        "description": "Let's think broadly of who will be affected by the final decision. Some people will be directly affected, while others may be indirectly affected.",
+        "main_text": "What groups of people will be affected by the outcome of the decision?",
+        "response_categories": [],
+        "response_format": "open"
+      },
+      "response": "Students, teachers, and parents will be primarily affected by the outcome of the decision here. In a less direct way, the broader workforce will be affected, because education has long-term implications for workforce training and efficacy. For example, parents around here seem to be concerned about the use of AI to augment or replace student work, which might leave students less prepared to handle necessary tasks in the workplace, given whatever profession they might end up in, but especially work that might involve reading, writing, and data analysis.",
+      "warnings": [],
+      "errors": [],
+      "checked_warnings": false,
+      "ignored_warnings": []
+    },
+    "3": {
+      "cell_details": {
+        "cell_type": "question",
+        "description": "Focusing on the specific groups of people that we are designing questions for.",
+        "main_text": "Which of these groups are you engaging?",
+        "response_categories": [],
+        "response_format": "open"
+      },
+      "response": "We are most specifically trying to engage parents and teachers. We generally feel that we know where students stand on these issues.",
+      "warnings": [],
+      "errors": [],
+      "checked_warnings": false,
+      "ignored_warnings": []
+    },
+    "4": {
+      "cell_details": {
+        "cell_type": "question",
+        "description": "The form of engagement impacts the type of questions we create.",
+        "main_text": "What form of engagement (e.g., virtual convenings, one-on-one interviews, focus groups, surveys) will best solicit the input needed from the communities you hope to engage?",
+        "response_categories": ["Interview", "Survey", "Conversation Guide"],
+        "response_format": "closed"
+      },
+      "part_2_cell_details": {
+        "cell_type": "question",
+        "description": "",
+        "main_text": "(Optional) Please add more details about the form of engagement you selected.",
+        "response_categories": [],
+        "response_format": "open"
+      },
+      "part_2_response": "We'll most likely be doing break-out focus groups during our summit to better understand experiences and opinions within small groups of four to six people who share roles within the community (for example, parents in one group, teachers in another group).",
+      "response": "Conversation Guide",
+      "warnings": [],
+      "errors": [],
+      "checked_warnings": false,
+      "ignored_warnings": []
+    },
+    "5": {
+      "cell_details": {
+        "cell_type": "question",
+        "description": "",
+        "main_text": "What is the maximum amount of time in minutes you can expect people to spend on the engagement? (e.g., 5 minutes, 30 minutes, 60 minutes, etc.)",
+        "response_categories": [],
+        "response_format": "open"
+      },
+      "response": "We want people to spend at most maybe 60 minutes in the actual conversations/interviews. Not everyone will be talking at the same time, so honestly, each person might just be speaking for about 5 minutes or so. We really aren't sure.",
+      "warnings": [],
+      "errors": [],
+      "checked_warnings": false,
+      "ignored_warnings": []
+    },
+    "6": {
+      "cell_details": {
+        "cell_type": "question",
+        "description": "",
+        "main_text": "Please use the slider to specify the proportion of open-ended versus closed-ended questions you'd like.",
+        "response_categories": [
+          {
+            "label": "100% closed-ended",
+            "value": 0
+          },
+          {
+            "label": "50% closed, 50% open",
+            "value": 50
+          },
+          {
+            "label": "100% open-ended",
+            "value": 100
+          }
+        ],
+        "response_format": "slider"
+      },
+      "response": 95,
+      "warnings": [],
+      "errors": [],
+      "checked_warnings": false,
+      "ignored_warnings": []
+    },
+    "7": {
+      "cell_details": {
+        "cell_type": "question",
+        "description": "",
+        "main_text": "(Optional) Please add any additional context that may be helpful when creating questions for the project.",
+        "response_categories": [],
+        "response_format": "open"
+      },
+      "response": "",
+      "warnings": [],
+      "errors": [],
+      "checked_warnings": false,
+      "ignored_warnings": []
+    }
+  },
+  "sections_with_cells": [
+    {
+      "id": 0,
+      "title": "Introduction and Purpose",
+      "time_estimate": 5,
+      "cells": [
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "8c8d6c7c-7a05-4bf7-9d77-fe5ffd319450",
+          "cell_details": {
+            "cell_type": "text",
+            "description": "This text sets the tone and purpose of the conversation, ensuring everyone understands the context and importance of their participation.",
+            "main_text": "Welcome to this breakout session on AI in K-12 education. Thank you for participating. We aim to understand your perspectives to help shape recommendations for our public schools.",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 0,
+          "last_updated": "2024-06-13T14:11:06.911Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 1
+        },
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "0dd77e04-80bf-43be-8a68-4b8e828b3255",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question is being asked to obtain consent from participants for recording and using their input.",
+            "main_text": "Do you agree to proceed with this recorded conversation?",
+            "response_categories": [
+              {
+                "id": 1,
+                "text": "I agree"
+              },
+              {
+                "id": 2,
+                "text": "I do not agree"
+              }
+            ],
+            "response_format": "closed"
+          },
+          "section_index": 0,
+          "last_updated": "2024-06-13T14:11:06.911Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 1
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Conversation Agreements",
+      "time_estimate": 5,
+      "cells": [
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "34c6f067-4ec1-4810-b247-50610d17faaa",
+          "cell_details": {
+            "cell_type": "text",
+            "description": "This text introduces guidelines that promote respectful and productive conversation, helping to manage any challenges that may arise.",
+            "main_text": "We want to ensure everyone can share and learn from each other. Please agree to these guidelines: speak from your own experience, allow others to speak, share the time, stay curious, listen generously, and put your phone on silent. Anything you'd like to add or change?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 1,
+          "last_updated": "2024-06-13T14:11:06.911Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Introductions and Check-ins",
+      "time_estimate": 5,
+      "cells": [
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "4ad08f2d-203d-4ece-84cb-80b83c14cae1",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question helps participants build rapport and establish connections, setting a collaborative tone for the conversation.",
+            "main_text": "Please share your first name, a bit about who you are, and a value that's important to you and why it brought you here today.",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 2,
+          "last_updated": "2024-06-13T14:11:06.911Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sharing Initial Thoughts on AI in Education",
+      "time_estimate": 15,
+      "cells": [
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "5a895a5f-bbfd-438a-8cbb-929727fddba8",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question is being asked to capture participants' immediate reactions and set the stage for deeper discussion.",
+            "main_text": "What are your initial thoughts or feelings about the use of AI in K-12 education?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 3,
+          "last_updated": "2024-06-13T14:11:06.912Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 10
+        },
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "0ee46f9a-7b5b-4778-b6a2-19b87015ff39",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question encourages participants to share personal experiences that shaped their opinions, providing context and depth to their perspectives.",
+            "main_text": "(Optional) How did you come to hold these views?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 3,
+          "last_updated": "2024-06-13T14:11:06.912Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Hopes and Concerns",
+      "time_estimate": 20,
+      "cells": [
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "412f31fd-f3d0-4198-817f-21d1d8c3e248",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question is being asked to understand the positive expectations participants have regarding AI in education.",
+            "main_text": "What hopes do you have for the use of AI in our schools?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 4,
+          "last_updated": "2024-06-13T14:11:06.912Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 5
+        },
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "f0d13968-2a33-486f-8c7d-8e9ac80bb705",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question aims to uncover participants' worries or fears about AI in education, helping to identify potential risks or drawbacks.",
+            "main_text": "What concerns do you have about the use of AI in our schools?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 4,
+          "last_updated": "2024-06-13T14:11:06.912Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 5
+        },
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "4222aece-fa38-4a24-b54e-c1f34d0954a1",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question encourages storytelling, allowing participants to illustrate their points with concrete examples, making the discussion more relatable and impactful.",
+            "main_text": "(Optional) Can you share a story or experience that highlights these hopes or concerns?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 4,
+          "last_updated": "2024-06-13T14:11:06.912Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 10
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Future Vision",
+      "time_estimate": 10,
+      "cells": [
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "d5f2d8c7-4e77-4ee7-9ca2-80023fd3acdc",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question asks participants to envision a positive future, fostering creative thinking and constructive ideas for AI implementation.",
+            "main_text": "Imagine it is 5 years from now, and AI has been integrated into our schools. What does an ideal scenario look like to you?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 5,
+          "last_updated": "2024-06-13T14:11:06.912Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 7
+        },
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "e145b862-1068-4319-aedc-78284d589ab8",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question seeks practical suggestions for achieving the envisioned future, helping to translate ideas into actionable recommendations.",
+            "main_text": "(Optional) What steps do you think we need to take to achieve this ideal scenario?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 5,
+          "last_updated": "2024-06-13T14:11:06.912Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Drawing Connections",
+      "time_estimate": 5,
+      "cells": [
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "8b692a97-2143-4224-884b-658554434f42",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question empowers participants to voice their key takeaways, helping to ensure important points are communicated to decision-makers.",
+            "main_text": "What one thing would you want your local representatives to hear from this conversation?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 6,
+          "last_updated": "2024-06-13T14:11:06.912Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 2
+        },
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "c1af4f15-467c-4542-b4dd-30f56ab3e770",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question encourages participants to think beyond their group, fostering a broader dialogue and consideration of diverse perspectives.",
+            "main_text": "If you could ask a question to another group that is gathering, what would it be?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 6,
+          "last_updated": "2024-06-13T14:11:06.913Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 2
+        },
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "86317459-4462-47df-ad01-edce454b9bdf",
+          "cell_details": {
+            "cell_type": "question",
+            "description": "This question prompts reflection, helping participants to consolidate their learning and identify key insights from the discussion.",
+            "main_text": "What is one thing you heard today that you'll be taking away from this conversation?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 6,
+          "last_updated": "2024-06-13T14:11:06.913Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Wrap-up",
+      "time_estimate": 5,
+      "cells": [
+        {
+          "project_id": "666afdf4ba8706d6b05f9a01",
+          "cell_id": "25068d52-055f-430c-8704-f072188fdb8a",
+          "cell_details": {
+            "cell_type": "text",
+            "description": "This text ensures participants understand the next steps and provides an opportunity for final reflections and questions, bringing closure to the session.",
+            "main_text": "Thank you for your participation. These recordings will be transcribed and uploaded. You will receive an invitation to join a platform and explore your conversation and others. Do you have any closing thoughts or questions for us?",
+            "response_categories": [],
+            "response_format": "open"
+          },
+          "section_index": 7,
+          "last_updated": "2024-06-13T14:11:06.913Z",
+          "is_ai_generated": 1,
+          "human_ai_status": "ai",
+          "ai_rationale": "",
+          "time_estimate": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4927 @@
+[
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the satisfaction with public transportation improvements.",
+      "main_text": "How satisfied are you with the incredible improvements to our public transportation system?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the necessity of more parks.",
+      "main_text": "Considering the undeniable benefits parks bring to our community's health and happiness, how necessary do you feel it is to invest more in them?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding public opinion on healthcare facilities.",
+      "main_text": "How do you feel about the state-of-the-art healthcare facilities in our city that have been significantly improving lives?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about educational resources.",
+      "main_text": "Given the critical importance of education for our children's future, how would you rate the adequacy of educational resources available in our city?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding city safety.",
+      "main_text": "How much safer do you feel now in our city after the recent increase in police patrols and security measures?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about recycling initiatives.",
+      "main_text": "How do you view the city's groundbreaking recycling initiatives that are leading us towards a greener future?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question intended to elicit a response favorable towards increased funding for public transportation",
+      "main_text": "Don't you agree that our city\u2019s future depends on investing more in our outdated public transportation system to ensure it meets the growing demand?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question leading towards a positive view on the development of new parks",
+      "main_text": "How important is it for our community to combat the concrete jungle by developing more green spaces and parks for our children to play in?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question that implies a negative view on the current state of city cleanliness",
+      "main_text": "How frustrated are you with the current level of cleanliness in our city streets and public spaces?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question suggesting the need for more community policing",
+      "main_text": "Wouldn\u2019t our neighborhoods be safer and more inviting with an increased presence of community policing?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question that implies a positive outcome from reducing city service hours",
+      "main_text": "How beneficial do you think it would be for our city\u2019s budget to slightly reduce the hours of non-essential city services?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question leading towards a negative view on current public transportation cleanliness",
+      "main_text": "How concerned are you with the cleanliness and hygiene standards of our public transportation vehicles?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about public transportation improvements",
+      "main_text": "How pleased are you with the city's initiative to expand environmentally friendly public transportation options?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about park maintenance",
+      "main_text": "Considering the undeniable beauty and upkeep of our city parks, what additional enhancements would you suggest?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about city cleanliness",
+      "main_text": "With the city's commendable efforts in maintaining cleanliness, what areas do you think still require attention?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about public safety",
+      "main_text": "Given our city's exceptional record in reducing crime, what further safety measures would you consider important?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about cultural events",
+      "main_text": "How much do you value the city's investment in diverse and inclusive cultural events?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about local education",
+      "main_text": "In light of our schools' outstanding achievements, what improvements or additions would you propose for our educational system?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question suggesting that green spaces have a positive impact on mental health.",
+      "main_text": "How has the presence of more green spaces in the city greatly improved your mental health and overall well-being?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question implying that reduced traffic congestion is solely due to recent city initiatives.",
+      "main_text": "In what ways have the city's recent initiatives dramatically reduced traffic congestion in your experience?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question suggesting that public libraries are underutilized.",
+      "main_text": "Why do you think people are not taking full advantage of the vast resources offered by our public libraries?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question implying that crime rates have dropped because of increased policing.",
+      "main_text": "How has the increase in police patrols made you feel safer and contributed to the noticeable drop in crime rates?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question suggesting that public transportation is the best option for commuting.",
+      "main_text": "Can you describe how switching to public transportation has significantly improved your daily commute?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "A question hinting that local businesses are thriving due to city policies.",
+      "main_text": "How have the city's supportive policies led to a visible boom in local businesses around you?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about public transportation satisfaction.",
+      "main_text": "How satisfied are you with the city's public transportation options, and why?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about improvements to parks and recreational areas.",
+      "main_text": "What improvements, if any, would you like to see in the city's parks and recreational areas?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the accessibility of city services.",
+      "main_text": "How accessible do you find the city services to be, and in what ways could accessibility be improved?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about concerns regarding public safety.",
+      "main_text": "What are your main concerns regarding public safety in the city?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about community engagement activities.",
+      "main_text": "What types of community engagement activities would you be interested in participating in?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about environmental sustainability initiatives.",
+      "main_text": "What environmental sustainability initiatives do you believe should be prioritized by the city?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding public transportation experiences",
+      "main_text": "How would you describe your experiences using public transportation in the city?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about city park facilities",
+      "main_text": "What improvements would you like to see in the city's park facilities?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question on waste management services",
+      "main_text": "Can you share your thoughts on the city's waste management services?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about access to healthcare services",
+      "main_text": "What has been your experience with accessing healthcare services in the city?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question on community safety initiatives",
+      "main_text": "How do you feel about the community safety initiatives in place within the city?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about educational resources",
+      "main_text": "What are your views on the availability and quality of educational resources in the city?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asks for the community member's personal experience with city parks.",
+      "main_text": "How would you describe your experiences with the city's parks and recreational facilities?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquires about the community member's perspective on public transportation.",
+      "main_text": "What are your thoughts on the current state of public transportation in the city?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Seeks suggestions for city infrastructure improvements.",
+      "main_text": "What improvements would you suggest for the city's infrastructure?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Gathers opinions on the effectiveness of current city services.",
+      "main_text": "How effective do you find the current city services? Please elaborate.",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asks for feedback on community engagement initiatives.",
+      "main_text": "Can you share your feedback on any community engagement initiatives you've participated in or are aware of?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquires about priorities for future city projects.",
+      "main_text": "What should be the priorities for future city projects in your opinion?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Gathering opinions on public transportation improvements",
+      "main_text": "What improvements, if any, would you like to see in our public transportation system?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Assessing satisfaction with the current state of city parks",
+      "main_text": "How satisfied are you with the current state of the city's parks?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Identifying needs for new city services",
+      "main_text": "Are there any city services not currently provided that you believe should be? Please specify.",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Evaluating the need for more green spaces",
+      "main_text": "Do you think the city needs more green spaces?",
+      "response_categories": [
+        { "id": 1, "text": "Yes" },
+        { "id": 2, "text": "No" },
+        { "id": 3, "text": "Unsure" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Feedback on city's waste management practices",
+      "main_text": "How do you think the city could improve its waste management practices?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Determining the popularity of cycling lanes",
+      "main_text": "How often do you use the city's cycling lanes?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Weekly" },
+        { "id": 3, "text": "Monthly" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Leading question about public transportation improvements",
+      "main_text": "Don't you agree that our city should prioritize the expansion of environmentally friendly public transportation options to reduce traffic?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Disagree" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Leading question about park safety",
+      "main_text": "Considering the obvious benefits, should the city invest more in ensuring our parks are safe and well-lit at night?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, definitely" },
+        { "id": 2, "text": "Probably yes" },
+        { "id": 3, "text": "Not sure" },
+        { "id": 4, "text": "Probably not" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Leading question about city cleanliness",
+      "main_text": "Do you also feel proud when our streets are cleaner than those in neighboring cities?",
+      "response_categories": [
+        { "id": 1, "text": "Very proud" },
+        { "id": 2, "text": "Somewhat proud" },
+        { "id": 3, "text": "Indifferent" },
+        { "id": 4, "text": "Not proud at all" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Leading question about city-sponsored events",
+      "main_text": "Isn't it fantastic that our city hosts free cultural events for everyone to enjoy?",
+      "response_categories": [
+        { "id": 1, "text": "Absolutely fantastic" },
+        { "id": 2, "text": "Nice, but not a priority" },
+        { "id": 3, "text": "Indifferent" },
+        { "id": 4, "text": "Not necessary" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Leading question about educational resources",
+      "main_text": "Wouldn't you agree that investing in state-of-the-art educational facilities is crucial for our children\u2019s future?",
+      "response_categories": [
+        { "id": 1, "text": "Completely agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Disagree" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Leading question about historical preservation",
+      "main_text": "How important is it to you that our city continues to honor its history by preserving old buildings?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely important" },
+        { "id": 2, "text": "Somewhat important" },
+        { "id": 3, "text": "Not very important" },
+        { "id": 4, "text": "Not important at all" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about public transportation improvements",
+      "main_text": "How much do you agree that our city's award-winning public transportation system greatly needs additional funding for improvements?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Disagree" },
+        { "id": 5, "text": "Strongly disagree" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about park cleanliness",
+      "main_text": "Don't you think it's time we finally address the litter problem in our beautiful parks?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, immediately" },
+        { "id": 2, "text": "Yes, but it's not urgent" },
+        { "id": 3, "text": "No opinion" },
+        { "id": 4, "text": "No, it's fine as it is" },
+        { "id": 5, "text": "No, there are more important issues" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about increasing police presence",
+      "main_text": "Considering the noticeable decrease in crime, do you support the proposal to further increase police presence in high-risk areas?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly support" },
+        { "id": 2, "text": "Support" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Oppose" },
+        { "id": 5, "text": "Strongly oppose" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about expanding the public library's hours",
+      "main_text": "How much would you appreciate the highly beneficial expansion of our public library's operational hours?",
+      "response_categories": [
+        { "id": 1, "text": "Greatly appreciate" },
+        { "id": 2, "text": "Appreciate" },
+        { "id": 3, "text": "Indifferent" },
+        { "id": 4, "text": "Do not appreciate" },
+        { "id": 5, "text": "Strongly do not appreciate" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about city-sponsored fitness programs",
+      "main_text": "Isn't it vital for our city to invest more in free, city-sponsored fitness programs to promote healthier lifestyles among residents?",
+      "response_categories": [
+        { "id": 1, "text": "Absolutely vital" },
+        { "id": 2, "text": "Somewhat vital" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Not very vital" },
+        { "id": 5, "text": "Not vital at all" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about reducing business taxes",
+      "main_text": "How strongly do you agree with the idea that reducing business taxes will unleash unprecedented economic growth in our city?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Disagree" },
+        { "id": 5, "text": "Strongly disagree" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question subtly suggesting that parks are currently not well-maintained",
+      "main_text": "Don't you agree that our city should allocate more resources to significantly improve the maintenance of our beautiful parks?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Somewhat agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat disagree" },
+        { "id": 5, "text": "Strongly disagree" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question leading towards the necessity of more public transportation options",
+      "main_text": "With traffic congestion getting worse, isn't it vital for our well-being to expand our efficient public transportation system?",
+      "response_categories": [
+        { "id": 1, "text": "Very vital" },
+        { "id": 2, "text": "Somewhat vital" },
+        { "id": 3, "text": "Not sure" },
+        { "id": 4, "text": "Not very vital" },
+        { "id": 5, "text": "Not vital at all" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question implying that crime rates are high due to inadequate policing",
+      "main_text": "Given the concerning rise in crime rates, don't you think our brave police force needs more funding to protect us effectively?",
+      "response_categories": [
+        { "id": 1, "text": "Absolutely" },
+        { "id": 2, "text": "Probably" },
+        { "id": 3, "text": "Unsure" },
+        { "id": 4, "text": "Probably not" },
+        { "id": 5, "text": "Not at all" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question that leads to the answer that schools are underfunded",
+      "main_text": "Considering the future of our children, do you also feel that investing more in our underfunded schools is an urgent necessity?",
+      "response_categories": [
+        { "id": 1, "text": "Highly urgent" },
+        { "id": 2, "text": "Moderately urgent" },
+        { "id": 3, "text": "Slightly urgent" },
+        { "id": 4, "text": "Not urgent" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question suggesting dissatisfaction with current waste management",
+      "main_text": "Are you too frustrated with our current waste management services and demand immediate improvements for a cleaner city?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely frustrated" },
+        { "id": 2, "text": "Somewhat frustrated" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Not very frustrated" },
+        { "id": 5, "text": "Not frustrated at all" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question implying the need for more community centers",
+      "main_text": "Don't you agree that our community's quality of life would greatly benefit from the addition of more vibrant community centers?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Disagree" },
+        { "id": 5, "text": "Strongly disagree" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "This question suggests that improving public transportation is a widely supported idea.",
+      "main_text": "Do you also think improving our public transportation system should be a top priority to enhance city life?",
+      "response_categories": [
+        { "id": 1, "text": "Absolutely" },
+        { "id": 2, "text": "Yes" },
+        { "id": 3, "text": "Unsure" },
+        { "id": 4, "text": "No" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "This question implies that most people are dissatisfied with the current state of public parks.",
+      "main_text": "Like many others, do you feel our public parks need more maintenance and security?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Disagree" },
+        { "id": 4, "text": "Strongly disagree" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "The phrasing suggests that reducing carbon footprint is an obvious and immediate need.",
+      "main_text": "Given the urgent need to reduce our carbon footprint, do you support the city's initiative to expand bike lanes?",
+      "response_categories": [
+        { "id": 1, "text": "Fully support" },
+        { "id": 2, "text": "Somewhat support" },
+        { "id": 3, "text": "Somewhat oppose" },
+        { "id": 4, "text": "Completely oppose" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "This question presumes that the idea of increasing local business support is already popular.",
+      "main_text": "Do you agree with the popular opinion that the city should invest more in supporting local businesses to boost the economy?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Disagree" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Implies that there's an evident lack of cultural events, leading the respondent towards agreeing.",
+      "main_text": "Considering the apparent lack of cultural events, would you be in favor of increasing the city's budget for arts and culture?",
+      "response_categories": [
+        { "id": 1, "text": "Highly in favor" },
+        { "id": 2, "text": "In favor" },
+        { "id": 3, "text": "Indifferent" },
+        { "id": 4, "text": "Opposed" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "This question suggests that most would find the existing public safety measures inadequate.",
+      "main_text": "Do you also feel that the current public safety measures are not enough to ensure our community's wellbeing?",
+      "response_categories": [
+        { "id": 1, "text": "Definitely" },
+        { "id": 2, "text": "Probably" },
+        { "id": 3, "text": "Not sure" },
+        { "id": 4, "text": "Not at all" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Gauge public opinion on the effectiveness of current public transportation options.",
+      "main_text": "How would you rate the effectiveness of the city's public transportation system?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat ineffective" },
+        { "id": 5, "text": "Very ineffective" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Determine the level of satisfaction with the city's waste management services.",
+      "main_text": "How satisfied are you with the city's waste management services?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Assess community interest in more parks and recreational areas.",
+      "main_text": "How important is the addition of more parks and recreational areas in the city to you?",
+      "response_categories": [
+        { "id": 1, "text": "Very important" },
+        { "id": 2, "text": "Somewhat important" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat unimportant" },
+        { "id": 5, "text": "Not at all important" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Understand public opinion on current city safety measures.",
+      "main_text": "How safe do you feel in the city with the current safety measures in place?",
+      "response_categories": [
+        { "id": 1, "text": "Very safe" },
+        { "id": 2, "text": "Somewhat safe" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat unsafe" },
+        { "id": 5, "text": "Very unsafe" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Gather feedback on the availability of health facilities.",
+      "main_text": "How would you rate the availability of health facilities in your area?",
+      "response_categories": [
+        { "id": 1, "text": "Very good" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Evaluate the level of community engagement in city planning.",
+      "main_text": "How would you describe your level of engagement in city planning and decision-making processes?",
+      "response_categories": [
+        { "id": 1, "text": "Very engaged" },
+        { "id": 2, "text": "Somewhat engaged" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat disengaged" },
+        { "id": 5, "text": "Very disengaged" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question regarding satisfaction with public transportation options",
+      "main_text": "How satisfied are you with the public transportation options available in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on the frequency of using city parks",
+      "main_text": "How often do you use city parks?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Weekly" },
+        { "id": 3, "text": "Monthly" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the level of trust in the local police department",
+      "main_text": "How much do you trust the local police department to ensure your safety?",
+      "response_categories": [
+        { "id": 1, "text": "A great deal" },
+        { "id": 2, "text": "A fair amount" },
+        { "id": 3, "text": "Not much" },
+        { "id": 4, "text": "Not at all" },
+        { "id": 5, "text": "No opinion" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the quality of water supply",
+      "main_text": "How would you rate the quality of the water supply in your area?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on the effectiveness of waste management services",
+      "main_text": "How effective do you find the city's waste management services?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Not very effective" },
+        { "id": 5, "text": "Not effective at all" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on the accessibility of public health facilities",
+      "main_text": "How accessible do you find the public health facilities in your area?",
+      "response_categories": [
+        { "id": 1, "text": "Very accessible" },
+        { "id": 2, "text": "Somewhat accessible" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat inaccessible" },
+        { "id": 5, "text": "Very inaccessible" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Survey on public transportation satisfaction",
+      "main_text": "How satisfied are you with the city's public transportation system?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat unsatisfied" },
+        { "id": 5, "text": "Very unsatisfied" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the frequency of park visits",
+      "main_text": "How often do you visit city parks?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Weekly" },
+        { "id": 3, "text": "Monthly" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Inquiry on public safety perception",
+      "main_text": "How safe do you feel in the city after dark?",
+      "response_categories": [
+        { "id": 1, "text": "Very safe" },
+        { "id": 2, "text": "Somewhat safe" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat unsafe" },
+        { "id": 5, "text": "Very unsafe" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Exploration of library usage frequency",
+      "main_text": "How frequently do you use city library services?",
+      "response_categories": [
+        { "id": 1, "text": "Very frequently" },
+        { "id": 2, "text": "Occasionally" },
+        { "id": 3, "text": "Rarely" },
+        { "id": 4, "text": "Never" },
+        { "id": 5, "text": "I wasn't aware of city library services" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Assessment of satisfaction with city waste management",
+      "main_text": "How would you rate your satisfaction with the city's waste management services?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Unsatisfied" },
+        { "id": 5, "text": "Very unsatisfied" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Evaluation of city's efforts in environmental sustainability",
+      "main_text": "How would you rate the city's efforts towards environmental sustainability?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Evaluating the condition of public parks",
+      "main_text": "How would you rate the overall condition of public parks in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Poor" },
+        { "id": 2, "text": "Fair" },
+        { "id": 3, "text": "Good" },
+        { "id": 4, "text": "Very Good" },
+        { "id": 5, "text": "Excellent" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Understanding public interest in recycling programs",
+      "main_text": "How interested are you in participating in city recycling programs?",
+      "response_categories": [
+        { "id": 1, "text": "Not interested" },
+        { "id": 2, "text": "Slightly interested" },
+        { "id": 3, "text": "Moderately interested" },
+        { "id": 4, "text": "Very interested" },
+        { "id": 5, "text": "Extremely interested" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Gauging perception of city safety",
+      "main_text": "How safe do you feel in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Very unsafe" },
+        { "id": 2, "text": "Somewhat unsafe" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat safe" },
+        { "id": 5, "text": "Very safe" }
+      ]
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes the respondent uses public parks frequently and has a negative view of their maintenance.",
+      "main_text": "Why do you think the city has been neglecting the maintenance of public parks you frequently visit?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Presumes the respondent is aware and disapproves of the city's environmental policies.",
+      "main_text": "How has the city's failure to implement effective environmental policies affected your daily life?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes the respondent has a critical perspective on the local police department's effectiveness.",
+      "main_text": "What are the key areas where you believe the local police department has failed in ensuring public safety?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Implies the respondent has been negatively impacted by the city's zoning decisions.",
+      "main_text": "In what ways have the city\u2019s recent zoning changes disadvantaged you or your community?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes the respondent is unhappy with the public transportation options available.",
+      "main_text": "What improvements do you think are necessary for the public transportation options you reluctantly use?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Presumes the respondent believes the city's education system is underfunded.",
+      "main_text": "How has the apparent underfunding of the city's education system impacted students, in your opinion?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question assumes that all respondents use and are familiar with the city's park services.",
+      "main_text": "How do the city's parks enhance your daily routine?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question assumes that respondents believe city-funded arts programs are beneficial to the community.",
+      "main_text": "In what ways have the city-funded arts programs improved your community?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question assumes that respondents have a negative view of the city's handling of waste management.",
+      "main_text": "What issues have you encountered with the city's waste management services?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question presumes that respondents use public libraries and view them as essential.",
+      "main_text": "How has the closure of public libraries impacted your personal development or leisure activities?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question assumes that respondents are affected by and disapprove of the city's traffic management.",
+      "main_text": "How has the city's traffic management policies negatively affected your daily commute?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question assumes that respondents are aware of and have opinions on the city's emergency response services.",
+      "main_text": "How do you feel the city's emergency response services could be more effectively managed?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes the respondent uses and relies on city parks for leisure.",
+      "main_text": "How often do you find the city parks overcrowded when you visit?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes the respondent experiences issues with waste management services.",
+      "main_text": "What is the most common problem you encounter with the city's waste management services?",
+      "response_categories": [
+        { "id": 1, "text": "Irregular pickups" },
+        { "id": 2, "text": "Poor recycling options" },
+        { "id": 3, "text": "Lack of composting services" },
+        { "id": 4, "text": "Customer service issues" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes the respondent has a negative view of city infrastructure maintenance.",
+      "main_text": "What disappoints you the most about the city's infrastructure maintenance?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Presumes the respondent has children using the public school system.",
+      "main_text": "How satisfied are you with the level of safety measures in public schools?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Not satisfied" },
+        { "id": 4, "text": "Not applicable/I don't know" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes the respondent is affected by local traffic conditions.",
+      "main_text": "In what ways has the city's traffic situation impacted your daily commute?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Implies the respondent has opinions on the efficiency of city services.",
+      "main_text": "Which city service do you believe requires immediate improvement?",
+      "response_categories": [
+        { "id": 1, "text": "Public transportation" },
+        { "id": 2, "text": "Waste management" },
+        { "id": 3, "text": "Water supply" },
+        { "id": 4, "text": "Electricity supply" },
+        { "id": 5, "text": "Public safety" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes dissatisfaction with city healthcare initiatives.",
+      "main_text": "How have the city's inadequate healthcare initiatives forced you to seek alternatives?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Presumes negative impact of city development projects.",
+      "main_text": "In what ways have ongoing city development projects disrupted your life or work?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes personal impact due to lack of cultural investment.",
+      "main_text": "How has the lack of investment in cultural facilities limited your personal or community growth?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Suggests dissatisfaction with waste management.",
+      "main_text": "In what ways has the city's poor waste management system affected your neighborhood's cleanliness?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Implies negative consequences of city's housing policies.",
+      "main_text": "How have the city's housing policies contributed to difficulties in finding affordable housing?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes negative viewpoint on city's efforts to support small businesses.",
+      "main_text": "In what ways have the city's insufficient efforts to support small businesses impacted your shopping or dining habits?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asks for the respondent's view on the city's support for local businesses without assuming the nature of the support.",
+      "main_text": "How do you perceive the city's support for local businesses?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquires about the respondent's personal experience with city services without implying any level of satisfaction.",
+      "main_text": "Can you describe your experiences with using city services?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Requests the respondent's opinion on future city projects without assuming awareness or interest.",
+      "main_text": "What are your thoughts on future projects planned by the city?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Seeks to understand the respondent's perspective on community engagement initiatives without implying effectiveness.",
+      "main_text": "How do you view the effectiveness of community engagement initiatives in the city?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asks for the respondent's preferences for city resource allocation without suggesting any priorities.",
+      "main_text": "What are your priorities for city resource allocation?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquires about the respondent's personal use of public spaces without assuming frequency or reasons.",
+      "main_text": "How do you typically use public spaces in the city?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking for general feedback on city services without assuming dissatisfaction.",
+      "main_text": "How would you describe your experiences with the city's services?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquiring about personal priorities in city planning without implying neglect or failure.",
+      "main_text": "What areas of city planning do you think should be prioritized for future development?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Seeking input on environmental initiatives without assuming the city's efforts are ineffective.",
+      "main_text": "What kinds of environmental initiatives would you like to see more of in the city?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Gathering opinions on public safety without suggesting failure on the part of local law enforcement.",
+      "main_text": "How do you feel about the level of public safety in the city?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about community engagement without assuming a lack of opportunities.",
+      "main_text": "In what ways do you think the city could improve community engagement?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Soliciting views on education without implying underfunding or mismanagement.",
+      "main_text": "What are your thoughts on the current state and future direction of education in the city?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about general use of city parks without assuming frequency of visit.",
+      "main_text": "How do you use the city parks, and what has been your experience?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquiring about public transportation without assuming dissatisfaction or reluctance in use.",
+      "main_text": "Can you describe your experiences with the city's public transportation options?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Questioning about local police department performance without assuming failure.",
+      "main_text": "What are your thoughts on the performance of the local police department in ensuring public safety?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about environmental policies without assuming they are ineffective.",
+      "main_text": "How do you perceive the city's environmental policies and their impact?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Questioning on the topic of city's education system without assuming underfunding or impact.",
+      "main_text": "What are your observations regarding the city's education system?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquiring about zoning changes without assuming disadvantage.",
+      "main_text": "What has been your experience or observation with recent zoning changes in the city?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking for general feedback on city services",
+      "main_text": "What are your thoughts on the range and quality of city services currently available?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquiring about areas for improvement without assuming dissatisfaction",
+      "main_text": "Can you identify any areas where you think city services could be improved or expanded?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Gathering insights on public space usage without assuming neglect",
+      "main_text": "How do you typically use the city's public spaces, and what has your experience been like?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about environmental policy awareness without assuming failure",
+      "main_text": "Are you aware of any of the city's environmental policies? If so, what do you think about them?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Soliciting feedback on public safety measures without assuming failure",
+      "main_text": "How would you describe your level of safety in the city, and what do you attribute it to?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Requesting information on the impact of zoning changes without assuming disadvantage",
+      "main_text": "Have recent zoning changes in the city had any impact on you or your community? If so, how?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondent believes city spending is wasteful",
+      "main_text": "How much of the city's spending do you believe is wasted on unnecessary projects?",
+      "response_categories": [
+        { "id": 1, "text": "Most of it" },
+        { "id": 2, "text": "A significant portion" },
+        { "id": 3, "text": "Some of it" },
+        { "id": 4, "text": "A small amount" },
+        { "id": 5, "text": "None at all" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondent is affected by traffic congestion",
+      "main_text": "How often does the city's poor traffic management affect your daily commute?",
+      "response_categories": [
+        { "id": 1, "text": "Every day" },
+        { "id": 2, "text": "Several times a week" },
+        { "id": 3, "text": "Occasionally" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondent dislikes new construction developments",
+      "main_text": "How strongly do you oppose the new construction developments in your neighborhood?",
+      "response_categories": [
+        { "id": 1, "text": "Very strongly" },
+        { "id": 2, "text": "Strongly" },
+        { "id": 3, "text": "Somewhat" },
+        { "id": 4, "text": "Not at all" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondent thinks city officials are out of touch",
+      "main_text": "To what extent do you agree that city officials are out of touch with the needs of your community?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Disagree" },
+        { "id": 5, "text": "Strongly disagree" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondent perceives a decline in public safety",
+      "main_text": "How significant is the decline in public safety you have experienced in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Very significant" },
+        { "id": 2, "text": "Significant" },
+        { "id": 3, "text": "Moderate" },
+        { "id": 4, "text": "Slight" },
+        { "id": 5, "text": "No decline" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondent is dissatisfied with the cleanliness of public spaces",
+      "main_text": "How dissatisfied are you with the cleanliness of public spaces in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Very dissatisfied" },
+        { "id": 2, "text": "Dissatisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Satisfied" },
+        { "id": 5, "text": "Very satisfied" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondents are negatively impacted by traffic.",
+      "main_text": "How much has increased traffic congestion decreased your quality of life?",
+      "response_categories": [
+        { "id": 1, "text": "Significantly decreased" },
+        { "id": 2, "text": "Somewhat decreased" },
+        { "id": 3, "text": "Slightly decreased" },
+        { "id": 4, "text": "Not at all" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondents believe that the city's nightlife is too loud.",
+      "main_text": "How much do you agree that the city's nightlife is excessively loud and needs regulation?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Disagree" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondents are aware and disapprove of city spending choices.",
+      "main_text": "To what extent do you think the city's budget is being wasted on unnecessary projects?",
+      "response_categories": [
+        { "id": 1, "text": "To a great extent" },
+        { "id": 2, "text": "To some extent" },
+        { "id": 3, "text": "To a little extent" },
+        { "id": 4, "text": "Not at all" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Presumes dissatisfaction with green spaces.",
+      "main_text": "How inadequate do you find the amount of green space in your neighborhood?",
+      "response_categories": [
+        { "id": 1, "text": "Highly inadequate" },
+        { "id": 2, "text": "Somewhat inadequate" },
+        { "id": 3, "text": "Slightly inadequate" },
+        { "id": 4, "text": "Not inadequate at all" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes a negative impact from new building developments.",
+      "main_text": "How negatively have new building developments affected your community's character?",
+      "response_categories": [
+        { "id": 1, "text": "Very negatively" },
+        { "id": 2, "text": "Negatively" },
+        { "id": 3, "text": "Slightly negatively" },
+        { "id": 4, "text": "Not negatively at all" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondents think city services are declining.",
+      "main_text": "In your experience, how much have city services declined in the past year?",
+      "response_categories": [
+        { "id": 1, "text": "Significantly" },
+        { "id": 2, "text": "Moderately" },
+        { "id": 3, "text": "Slightly" },
+        { "id": 4, "text": "Not at all" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondents believe the city's healthcare system is inadequate.",
+      "main_text": "How effective do you find the city's inadequate healthcare services in meeting your needs?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Not very effective" },
+        { "id": 4, "text": "Not effective at all" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondents are unhappy with the current state of local businesses.",
+      "main_text": "To what extent do you believe the city's neglect has led to the decline of local businesses?",
+      "response_categories": [
+        { "id": 1, "text": "To a great extent" },
+        { "id": 2, "text": "To some extent" },
+        { "id": 3, "text": "To a little extent" },
+        { "id": 4, "text": "Not at all" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondents have a negative perception of city-led housing projects.",
+      "main_text": "How do you feel about the city's habit of prioritizing expensive housing projects over affordable ones?",
+      "response_categories": [
+        { "id": 1, "text": "Very frustrated" },
+        { "id": 2, "text": "Somewhat frustrated" },
+        { "id": 3, "text": "Indifferent" },
+        { "id": 4, "text": "Somewhat pleased" },
+        { "id": 5, "text": "Very pleased" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondents have faced issues due to poor city planning.",
+      "main_text": "How often do you encounter problems due to the city's poor planning and infrastructure?",
+      "response_categories": [
+        { "id": 1, "text": "Very often" },
+        { "id": 2, "text": "Often" },
+        { "id": 3, "text": "Sometimes" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes all respondents use public libraries.",
+      "main_text": "Why do you think the city's public libraries are not as well-stocked or modern as they should be?",
+      "response_categories": [
+        { "id": 1, "text": "Lack of funding" },
+        { "id": 2, "text": "Poor management" },
+        { "id": 3, "text": "Low public interest" },
+        { "id": 4, "text": "Other" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Assumes respondents are directly affected by traffic congestion.",
+      "main_text": "How has the city's inaction on traffic congestion directly impacted your daily commute?",
+      "response_categories": [
+        { "id": 1, "text": "Significantly increased my commute time" },
+        { "id": 2, "text": "Somewhat increased my commute time" },
+        { "id": 3, "text": "Made my commute more stressful" },
+        { "id": 4, "text": "Had no impact on my commute" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question assumes dissatisfaction with community health services",
+      "main_text": "How often do you find the local health clinics overcrowded due to the city's poor planning?",
+      "response_categories": [
+        { "id": 1, "text": "Always" },
+        { "id": 2, "text": "Often" },
+        { "id": 3, "text": "Sometimes" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question assumes negative feelings towards city's cultural initiatives",
+      "main_text": "How do you feel about the city allocating an excessive budget to cultural events while other services suffer?",
+      "response_categories": [
+        { "id": 1, "text": "Very frustrated" },
+        { "id": 2, "text": "Frustrated" },
+        { "id": 3, "text": "Indifferent" },
+        { "id": 4, "text": "Supportive" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question assumes dissatisfaction with the state of local roads and infrastructure",
+      "main_text": "How often do you encounter dangerous potholes on city roads that have been ignored by the authorities?",
+      "response_categories": [
+        { "id": 1, "text": "Every day" },
+        { "id": 2, "text": "Regularly" },
+        { "id": 3, "text": "Occasionally" },
+        { "id": 4, "text": "Never" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Inquiring about public transportation frequency satisfaction",
+      "main_text": "How satisfied are you with the frequency of the city's public transportation services?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Asking about the importance of maintaining public parks",
+      "main_text": "How important is it to you that the city maintains its public parks well?",
+      "response_categories": [
+        { "id": 1, "text": "Very important" },
+        { "id": 2, "text": "Somewhat important" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Not very important" },
+        { "id": 5, "text": "Not at all important" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Querying perceptions on local police effectiveness",
+      "main_text": "How effective do you think the local police department is in ensuring public safety?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Not very effective" },
+        { "id": 5, "text": "Not at all effective" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Gauging interest in environmental policies",
+      "main_text": "How interested are you in the city implementing more effective environmental policies?",
+      "response_categories": [
+        { "id": 1, "text": "Very interested" },
+        { "id": 2, "text": "Somewhat interested" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Not very interested" },
+        { "id": 5, "text": "Not at all interested" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Asking about the level of engagement with public transportation options",
+      "main_text": "How often do you use the city's public transportation options?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Several times a week" },
+        { "id": 3, "text": "Weekly" },
+        { "id": 4, "text": "Monthly" },
+        { "id": 5, "text": "Rarely or never" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Inquiring about the impact of city's education system quality",
+      "main_text": "How would you rate the quality of the city's education system?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Average" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about perception of city's environmental efforts",
+      "main_text": "How would you rate the city's efforts towards improving environmental sustainability?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat ineffective" },
+        { "id": 5, "text": "Very ineffective" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about engagement with public transportation",
+      "main_text": "Do you use the city's public transportation options?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, regularly" },
+        { "id": 2, "text": "Yes, occasionally" },
+        { "id": 3, "text": "No, but I have in the past" },
+        { "id": 4, "text": "No, I have never used it" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about public safety",
+      "main_text": "How safe do you feel in your city?",
+      "response_categories": [
+        { "id": 1, "text": "Very safe" },
+        { "id": 2, "text": "Somewhat safe" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat unsafe" },
+        { "id": 5, "text": "Very unsafe" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about city's education services",
+      "main_text": "How satisfied are you with the city's education services?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about city zoning policies",
+      "main_text": "Are you aware of the city's recent zoning changes?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, fully aware" },
+        { "id": 2, "text": "Yes, somewhat aware" },
+        { "id": 3, "text": "Heard about it, but not informed" },
+        { "id": 4, "text": "No, not aware at all" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "This question aims to understand the frequency of public transportation use without assuming dissatisfaction or reluctance.",
+      "main_text": "How often do you use the city's public transportation?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Several times a week" },
+        { "id": 3, "text": "Weekly" },
+        { "id": 4, "text": "Monthly" },
+        { "id": 5, "text": "Rarely or never" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "This question seeks to gauge general satisfaction with public parks without assuming neglect.",
+      "main_text": "How satisfied are you with the state of public parks in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "This question asks for opinions on environmental policies without assuming their effectiveness.",
+      "main_text": "How important is it for the city to implement effective environmental policies?",
+      "response_categories": [
+        { "id": 1, "text": "Very important" },
+        { "id": 2, "text": "Somewhat important" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Not very important" },
+        { "id": 5, "text": "Not at all important" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "This question inquires about perceptions of public safety without assuming failure on the part of the local police.",
+      "main_text": "How safe do you feel in your community?",
+      "response_categories": [
+        { "id": 1, "text": "Very safe" },
+        { "id": 2, "text": "Somewhat safe" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat unsafe" },
+        { "id": 5, "text": "Very unsafe" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "This question seeks opinions on zoning changes without implying disadvantage.",
+      "main_text": "How well do you think recent zoning changes reflect the needs of your community?",
+      "response_categories": [
+        { "id": 1, "text": "Very well" },
+        { "id": 2, "text": "Somewhat well" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Not very well" },
+        { "id": 5, "text": "Not at all well" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "This question asks about the perceived adequacy of funding for city's education system without assuming underfunding.",
+      "main_text": "How adequate do you believe the funding for the city's education system is?",
+      "response_categories": [
+        { "id": 1, "text": "Very adequate" },
+        { "id": 2, "text": "Somewhat adequate" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat inadequate" },
+        { "id": 5, "text": "Very inadequate" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question regarding the frequency of using public libraries",
+      "main_text": "How often do you use the city's public libraries?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Weekly" },
+        { "id": 3, "text": "Monthly" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question regarding the availability of recreational spaces",
+      "main_text": "Do you feel the city provides sufficient recreational spaces?",
+      "response_categories": [
+        { "id": 1, "text": "Yes" },
+        { "id": 2, "text": "Somewhat" },
+        { "id": 3, "text": "No" },
+        { "id": 4, "text": "Unsure" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the perception of city's effort in environmental conservation",
+      "main_text": "How would you rate the city's efforts in environmental conservation?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very Poor" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on the importance of cultural events organized by the city",
+      "main_text": "How important are the cultural events organized by the city to you?",
+      "response_categories": [
+        { "id": 1, "text": "Very Important" },
+        { "id": 2, "text": "Somewhat Important" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Not Very Important" },
+        { "id": 5, "text": "Not at All Important" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the efficiency of waste management services",
+      "main_text": "Are you satisfied with the city's waste management services?",
+      "response_categories": [
+        { "id": 1, "text": "Very Satisfied" },
+        { "id": 2, "text": "Satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Dissatisfied" },
+        { "id": 5, "text": "Very Dissatisfied" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question regarding the accessibility of public services for people with disabilities",
+      "main_text": "How accessible do you find the city's public services for people with disabilities?",
+      "response_categories": [
+        { "id": 1, "text": "Very Accessible" },
+        { "id": 2, "text": "Accessible" },
+        { "id": 3, "text": "Somewhat Accessible" },
+        { "id": 4, "text": "Not Accessible" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "This question aims to understand the frequency of public transportation usage without assuming dissatisfaction or satisfaction.",
+      "main_text": "How often do you use the city's public transportation system?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Several times a week" },
+        { "id": 3, "text": "Weekly" },
+        { "id": 4, "text": "Monthly" },
+        { "id": 5, "text": "Rarely or never" }
+      ]
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Asks about satisfaction with both public transportation and park maintenance.",
+      "main_text": "How satisfied are you with the city's efforts in maintaining public transportation systems and public parks?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Asks about the impact of environmental policies and public safety measures.",
+      "main_text": "How do you think the city\u2019s implementation of environmental policies and public safety measures have influenced your quality of life?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Asks about the disadvantages of zoning changes and education system funding.",
+      "main_text": "In what ways have the city\u2019s zoning changes and the funding for the education system disadvantaged you or your community?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Asks about the adequacy of waste management services and the frequency of using public transportation.",
+      "main_text": "How satisfied are you with the city\u2019s waste management services and how often do you find yourself using public transportation?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Asks about the effects of underfunding in education and public park maintenance.",
+      "main_text": "How have the underfunding of the city\u2019s education system and neglect in maintaining public parks affected you or your community?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Asks about feelings of safety in the community and satisfaction with local police efforts.",
+      "main_text": "How safe do you feel in your community and how satisfied are you with the efforts of the local police department in ensuring public safety?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about the impact of road maintenance and traffic management on residents' commute.",
+      "main_text": "How do the city's road maintenance efforts and traffic management policies simultaneously affect your daily commute and overall satisfaction with living in the city?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Questioning the effectiveness of waste management and environmental sustainability efforts.",
+      "main_text": "How do you feel the city's waste management services and efforts towards environmental sustainability are impacting both the cleanliness of your neighborhood and the local climate?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Combining issues of public health services and emergency response times.",
+      "main_text": "Can you discuss how the availability of public health services and the efficiency of emergency response teams have influenced your sense of security and health outcomes in the city?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Linking community programs to both cultural enrichment and social cohesion.",
+      "main_text": "In what ways do you believe the city's community programs serve to enhance cultural enrichment and foster social cohesion among residents?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Addressing the relationship between local schools' performance and the availability of extracurricular activities.",
+      "main_text": "How do the performance of local schools and the availability of extracurricular activities collectively impact the development and well-being of children in the community?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Exploring the intersection of public space maintenance and community engagement.",
+      "main_text": "How do the maintenance of public spaces and the opportunities for community engagement work together to influence your enjoyment and use of these spaces?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question asks about the quality of the city's healthcare services and the accessibility of sports facilities simultaneously.",
+      "main_text": "How do you rate the quality of healthcare services in the city and the accessibility of sports facilities for maintaining your physical health?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question combines inquiries about satisfaction with local businesses and the effectiveness of the city's support for these businesses.",
+      "main_text": "How satisfied are you with the local businesses in your area and the city\u2019s efforts to support them during economic downturns?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question asks about the condition of roads and the efficiency of the city's waste disposal services together.",
+      "main_text": "What are your thoughts on the condition of the roads you daily commute on and the efficiency of waste disposal services in your neighborhood?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question inquires about the effectiveness of the city's efforts to promote renewable energy and to reduce homelessness.",
+      "main_text": "How effective do you believe the city has been in promoting renewable energy sources and addressing homelessness?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question combines topics about the public library services and the city's strategies for dealing with natural disasters.",
+      "main_text": "How adequate do you find the public library services and the city's preparedness for natural disasters?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "This question asks about the transparency of the city's budget allocations and the inclusivity of city-sponsored events.",
+      "main_text": "How transparent do you find the city's budget allocations regarding public services and how inclusive do you find city-sponsored events?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question asking about both public transportation and park maintenance.",
+      "main_text": "How does the quality of the city's public transportation compare to the maintenance of public parks, and how do both affect your daily life?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question asking about environmental policies and public safety.",
+      "main_text": "In what ways do you believe the city's environmental policies and the effectiveness of the local police department in ensuring public safety are interconnected?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question asking about zoning changes and education funding.",
+      "main_text": "How have the city\u2019s recent zoning changes and the funding for the education system together impacted your community or family?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question asking about waste management services and use of public spaces.",
+      "main_text": "How satisfied are you with the city's waste management services and the availability and maintenance of public spaces like parks and recreational areas?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about public transportation and environmental policies.",
+      "main_text": "Can you discuss the impact of the city\u2019s public transportation system on local environmental policies and how both areas meet or fail your expectations?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question asking about the local police department and education funding.",
+      "main_text": "How do the efforts of the local police department in ensuring public safety relate to the adequacy of funding for the city's education system, in your perspective?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding satisfaction with city health services",
+      "main_text": "How satisfied are you with the accessibility and quality of city health services?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding the condition of roads and infrastructure",
+      "main_text": "What is your opinion on the current condition of roads and public infrastructure in your area?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding access to public spaces",
+      "main_text": "Have you faced any difficulties in accessing public spaces in the city? Please describe your experience.",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding communication from city officials",
+      "main_text": "How would you rate the effectiveness of communication from city officials regarding important updates and decisions?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding city support for local businesses",
+      "main_text": "In what ways do you think the city could better support local businesses?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Exploring residents' experiences with local healthcare services",
+      "main_text": "How do you perceive the availability and quality of healthcare services in the city?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Understanding residents' views on the support for local businesses",
+      "main_text": "What is your opinion on the level of support the city provides to local businesses?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Gauging the condition and accessibility of green spaces",
+      "main_text": "Can you describe your experiences with the city's green spaces and parks?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Assessing pedestrian safety measures in the city",
+      "main_text": "How effective do you think the city's pedestrian safety measures are?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Collecting views on the availability of community events",
+      "main_text": "How satisfied are you with the variety and frequency of community events in the city?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Understanding the impact of city policies on affordable housing",
+      "main_text": "How have the city\u2019s policies affected the availability of affordable housing, in your view?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Gathering insights on health services",
+      "main_text": "What is your level of satisfaction with the city's health services, and why?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Assessing usage of recreational facilities",
+      "main_text": "How often do you use the city's recreational facilities?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Weekly" },
+        { "id": 3, "text": "Monthly" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Feedback on community events",
+      "main_text": "What types of community events would you like to see more of in the city?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Evaluating road maintenance",
+      "main_text": "How would you rate the city's road maintenance?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very Poor" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Opinions on utilities",
+      "main_text": "What issues, if any, have you experienced with the city's water and electricity services?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Assessing satisfaction with city's efforts to improve utilities",
+      "main_text": "Do you believe the city is making adequate efforts to improve water and electricity services?",
+      "response_categories": [
+        { "id": 1, "text": "Yes" },
+        { "id": 2, "text": "No" },
+        { "id": 3, "text": "Unsure" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding the effectiveness of the city's recycling programs.",
+      "main_text": "What are your thoughts on the effectiveness of the city's recycling programs?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the availability and condition of public restrooms in the city.",
+      "main_text": "Can you describe your experiences with the availability and condition of public restrooms in the city?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question on the impact of street lighting on community safety.",
+      "main_text": "How do you think the quality of street lighting affects community safety in your area?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the accessibility of healthcare services in the city.",
+      "main_text": "What has been your experience accessing healthcare services in the city?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the community's involvement in city planning decisions.",
+      "main_text": "How do you think the community could be more involved in city planning decisions?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the accessibility of city services for the disabled",
+      "main_text": "How accessible do you find the city's services and facilities for people with disabilities?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding the impact of city policies on youth",
+      "main_text": "What impact do you believe the city's policies have on the youth and their futures?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding community involvement in city decisions",
+      "main_text": "In what ways do you think the city could improve how it involves the community in decision-making processes?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the impact of public art and cultural initiatives",
+      "main_text": "How do public art and cultural initiatives within the city impact your sense of community and well-being?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding the effectiveness of city's efforts to address homelessness",
+      "main_text": "How effective do you find the city's efforts in addressing homelessness, and what suggestions do you have for improvement?",
+      "response_categories": []
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question asking about satisfaction with public transportation and its impact on local businesses",
+      "main_text": "How satisfied are you with the city's public transportation system and its contribution to local business success?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question asking about the maintenance of public parks and their accessibility",
+      "main_text": "How would you rate the maintenance of public parks and their accessibility for people with disabilities?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question asking about the enforcement of environmental policies and the quality of air and water",
+      "main_text": "How effective do you think the city's enforcement of environmental policies is in ensuring clean air and water?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Not sure" },
+        { "id": 4, "text": "Not very effective" },
+        { "id": 5, "text": "Not effective at all" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question asking about public safety and the adequacy of street lighting",
+      "main_text": "How safe do you feel in your community and how adequate do you find the street lighting at night?",
+      "response_categories": [
+        { "id": 1, "text": "Very safe and adequate" },
+        { "id": 2, "text": "Somewhat safe and adequate" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat unsafe and inadequate" },
+        { "id": 5, "text": "Very unsafe and inadequate" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question asking about funding for education and the availability of extracurricular activities",
+      "main_text": "How adequate do you believe the funding for the city's education system is and how satisfactory are the extracurricular activities offered?",
+      "response_categories": [
+        { "id": 1, "text": "Both are very adequate/satisfactory" },
+        { "id": 2, "text": "Both are somewhat adequate/satisfactory" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Both are somewhat inadequate/unsatisfactory" },
+        { "id": 5, "text": "Both are very inadequate/unsatisfactory" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question asking about satisfaction with waste management services and the frequency of recycling pickup",
+      "main_text": "How satisfied are you with the city's waste management services and the frequency of recycling pickup?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Double-barreled question combining satisfaction with public transportation and park maintenance",
+      "main_text": "How satisfied are you with both the city's public transportation system and the maintenance of public parks?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied with both" },
+        { "id": 2, "text": "Satisfied with transportation but not parks" },
+        { "id": 3, "text": "Satisfied with parks but not transportation" },
+        { "id": 4, "text": "Dissatisfied with both" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Double-barreled question about the city's environmental policies and support for local businesses",
+      "main_text": "Do you think the city's environmental policies and support for local businesses are adequate?",
+      "response_categories": [
+        { "id": 1, "text": "Both are adequate" },
+        { "id": 2, "text": "Only environmental policies are adequate" },
+        { "id": 3, "text": "Only support for local businesses is adequate" },
+        { "id": 4, "text": "Neither are adequate" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Double-barreled question about feeling safe and the effectiveness of local police",
+      "main_text": "How safe do you feel in your community and how effective do you think the local police department is?",
+      "response_categories": [
+        { "id": 1, "text": "Feel safe and police are effective" },
+        { "id": 2, "text": "Feel safe but police are not effective" },
+        { "id": 3, "text": "Do not feel safe but police are effective" },
+        { "id": 4, "text": "Do not feel safe and police are not effective" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Double-barreled question about the adequacy of city funding for education and public health services",
+      "main_text": "Is the city's funding for both education and public health services adequate?",
+      "response_categories": [
+        { "id": 1, "text": "Both are adequately funded" },
+        { "id": 2, "text": "Only education is adequately funded" },
+        { "id": 3, "text": "Only public health is adequately funded" },
+        { "id": 4, "text": "Neither are adequately funded" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Double-barreled question about satisfaction with waste management services and the condition of local roads",
+      "main_text": "How satisfied are you with the city's waste management services and the condition of local roads?",
+      "response_categories": [
+        { "id": 1, "text": "Satisfied with both" },
+        { "id": 2, "text": "Satisfied with waste management but not roads" },
+        { "id": 3, "text": "Satisfied with roads but not waste management" },
+        { "id": 4, "text": "Dissatisfied with both" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Double-barreled question about the frequency of using public transportation and visiting parks",
+      "main_text": "How often do you use the city's public transportation and visit public parks?",
+      "response_categories": [
+        { "id": 1, "text": "Frequently use both" },
+        { "id": 2, "text": "Frequently use transportation but not parks" },
+        {
+          "id": 3,
+          "text": "Frequently visit parks but not use transportation"
+        },
+        { "id": 4, "text": "Rarely use both" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about satisfaction with city's health services and accessibility of those services.",
+      "main_text": "How satisfied are you with the city's healthcare services and their ease of accessibility?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied with both" },
+        { "id": 2, "text": "Satisfied with healthcare, not accessibility" },
+        { "id": 3, "text": "Satisfied with accessibility, not healthcare" },
+        { "id": 4, "text": "Unsatisfied with both" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the efficiency of the city's emergency services and public awareness programs.",
+      "main_text": "Do you believe the city's emergency services are efficient and that public awareness programs are adequately informative?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, both are adequate" },
+        { "id": 2, "text": "Emergency services only" },
+        { "id": 3, "text": "Public awareness programs only" },
+        { "id": 4, "text": "No, neither are adequate" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question regarding the quality of road maintenance and traffic management.",
+      "main_text": "Are you satisfied with the quality of road maintenance and the effectiveness of traffic management in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Satisfied with both" },
+        { "id": 2, "text": "Satisfied with road maintenance only" },
+        { "id": 3, "text": "Satisfied with traffic management only" },
+        { "id": 4, "text": "Unsatisfied with both" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on the availability of affordable housing and employment opportunities.",
+      "main_text": "Is the city doing enough to provide affordable housing and create employment opportunities?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, both" },
+        { "id": 2, "text": "Affordable housing only" },
+        { "id": 3, "text": "Employment opportunities only" },
+        { "id": 4, "text": "No, neither" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's efforts in preserving historical sites and promoting cultural activities.",
+      "main_text": "Do you think the city adequately preserves historical sites and promotes cultural activities?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, both adequately" },
+        { "id": 2, "text": "Preserves historical sites only" },
+        { "id": 3, "text": "Promotes cultural activities only" },
+        { "id": 4, "text": "No, neither adequately" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on residents' perception of water quality and the availability of green spaces.",
+      "main_text": "How would you rate the city's water quality and the availability of green spaces?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent both" },
+        { "id": 2, "text": "Good water quality, poor green spaces" },
+        { "id": 3, "text": "Poor water quality, good green spaces" },
+        { "id": 4, "text": "Poor both" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "This question asks about satisfaction with both water quality and public park cleanliness in one question.",
+      "main_text": "How satisfied are you with both the quality of tap water and the cleanliness of public parks?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied with both" },
+        { "id": 2, "text": "Satisfied with both" },
+        { "id": 3, "text": "Satisfied with one, not the other" },
+        { "id": 4, "text": "Not satisfied with either" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "This question combines the efficiency of public transportation and the accessibility of healthcare services.",
+      "main_text": "Do you believe the city's public transportation is efficient and healthcare services are accessible?",
+      "response_categories": [
+        { "id": 1, "text": "Agree with both" },
+        { "id": 2, "text": "Agree with public transportation efficiency only" },
+        { "id": 3, "text": "Agree with healthcare accessibility only" },
+        { "id": 4, "text": "Disagree with both" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "This question inquires about the effectiveness of the local government in both creating jobs and reducing crime.",
+      "main_text": "How effective do you think the local government has been in creating jobs and reducing crime?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective at both" },
+        { "id": 2, "text": "Somewhat effective at both" },
+        { "id": 3, "text": "Effective at one, not the other" },
+        { "id": 4, "text": "Not effective at either" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "This question asks about agreement with the city's budget allocations for both education and infrastructure.",
+      "main_text": "Do you agree with the city's budget allocations for education and infrastructure?",
+      "response_categories": [
+        { "id": 1, "text": "Agree with both" },
+        { "id": 2, "text": "Agree with education only" },
+        { "id": 3, "text": "Agree with infrastructure only" },
+        { "id": 4, "text": "Disagree with both" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "This question combines concerns about environmental policy effectiveness and support for local businesses.",
+      "main_text": "Do you think the city's environmental policies are effective and supportive of local businesses?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, effective and supportive" },
+        { "id": 2, "text": "Effective but not supportive" },
+        { "id": 3, "text": "Supportive but not effective" },
+        { "id": 4, "text": "Neither effective nor supportive" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "This question asks about the respondent's views on the adequacy of public spaces and the effectiveness of waste management together.",
+      "main_text": "Do you find the city's public spaces adequate and its waste management system effective?",
+      "response_categories": [
+        { "id": 1, "text": "Adequate and effective" },
+        { "id": 2, "text": "Adequate only" },
+        { "id": 3, "text": "Effective only" },
+        { "id": 4, "text": "Neither adequate nor effective" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the frequency of using public parks",
+      "main_text": "How often do you use public parks for recreational activities?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Several times a week" },
+        { "id": 3, "text": "Once a week" },
+        { "id": 4, "text": "Once a month" },
+        { "id": 5, "text": "Rarely or never" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the public's perception of the city's efforts to support mental health services",
+      "main_text": "How satisfied are you with the city's efforts to support mental health services?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the level of satisfaction with the city's handling of noise pollution",
+      "main_text": "How satisfied are you with how the city handles noise pollution?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the accessibility of city healthcare services",
+      "main_text": "How accessible do you find the city's healthcare services?",
+      "response_categories": [
+        { "id": 1, "text": "Very accessible" },
+        { "id": 2, "text": "Somewhat accessible" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat inaccessible" },
+        { "id": 5, "text": "Very inaccessible" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the quality of city water services",
+      "main_text": "How would you rate the quality of the city's water supply?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about satisfaction with city's efforts to promote recreational activities",
+      "main_text": "How satisfied are you with the city's efforts to promote recreational activities?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the effectiveness of city's communication with residents",
+      "main_text": "How effective do you find the city's communication with its residents?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat ineffective" },
+        { "id": 5, "text": "Very ineffective" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the condition of city roads",
+      "main_text": "How would you rate the condition of the city roads?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the availability of public spaces in the city",
+      "main_text": "How would you rate the availability of public spaces in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the effectiveness of the city's health services",
+      "main_text": "How would you rate the effectiveness of the city's health services?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat ineffective" },
+        { "id": 5, "text": "Very ineffective" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the condition of city roads and infrastructure",
+      "main_text": "How would you rate the condition of the city's roads and infrastructure?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very Poor" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the availability of recreational facilities",
+      "main_text": "Are you satisfied with the availability of recreational facilities in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's efforts to promote renewable energy",
+      "main_text": "How satisfied are you with the city's efforts to promote renewable energy?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the level of noise pollution in residential areas",
+      "main_text": "How concerned are you about the level of noise pollution in residential areas?",
+      "response_categories": [
+        { "id": 1, "text": "Very concerned" },
+        { "id": 2, "text": "Somewhat concerned" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat unconcerned" },
+        { "id": 5, "text": "Not concerned at all" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the support for homeless people provided by the city",
+      "main_text": "How do you rate the support for homeless people provided by the city?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very Poor" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about satisfaction with healthcare services provided by the city",
+      "main_text": "How satisfied are you with the healthcare services provided by the city?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neither satisfied nor dissatisfied" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about usage of city-provided recreational facilities other than parks",
+      "main_text": "How often do you use recreational facilities provided by the city, excluding parks?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Weekly" },
+        { "id": 3, "text": "Monthly" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the perception of efforts made by the city to improve environmental conditions",
+      "main_text": "How effective do you believe the city's efforts are in improving environmental conditions?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat ineffective" },
+        { "id": 5, "text": "Very ineffective" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's support for the elderly",
+      "main_text": "How well do you think the city supports the needs of the elderly population?",
+      "response_categories": [
+        { "id": 1, "text": "Very well" },
+        { "id": 2, "text": "Well" },
+        { "id": 3, "text": "Adequately" },
+        { "id": 4, "text": "Poorly" },
+        { "id": 5, "text": "Very poorly" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the availability and quality of children's services",
+      "main_text": "How would you rate the availability and quality of services for children (e.g., childcare, education programs) in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the use of digital services provided by the city",
+      "main_text": "How often do you use digital services (e.g., website, apps) provided by the city for various tasks like bill payments, complaints, etc.?",
+      "response_categories": [
+        { "id": 1, "text": "Very frequently" },
+        { "id": 2, "text": "Frequently" },
+        { "id": 3, "text": "Occasionally" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "double_barreled"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about the emotional impact of the city's housing policies",
+      "main_text": "How have the city's heartless housing policies impacted you or people you know?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Questioning the support for vulnerable populations",
+      "main_text": "What are your thoughts on the city's shameful lack of support for the homeless and vulnerable populations during recent crises?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about the respondent's perception of healthcare services provided by the city.",
+      "main_text": "How would you describe your experiences with the healthcare services provided by the city?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquiring about the respondent's views on community events organized by the city.",
+      "main_text": "What are your thoughts on the quality and frequency of community events organized by the city?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question implying disappointment with the city's efforts in affordable housing",
+      "main_text": "How dismayed are you by the city's lackluster efforts to provide affordable housing?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely dismayed" },
+        { "id": 2, "text": "Very dismayed" },
+        { "id": 3, "text": "Somewhat dismayed" },
+        { "id": 4, "text": "Not at all dismayed" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question suggesting the city's community development projects are insufficient",
+      "main_text": "How insufficient do you find the city\u2019s initiatives for community development?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely insufficient" },
+        { "id": 2, "text": "Very insufficient" },
+        { "id": 3, "text": "Somewhat insufficient" },
+        { "id": 4, "text": "Not at all insufficient" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "This question gauges the perception of city health services.",
+      "main_text": "How would you rate the quality of the city's health services?",
+      "response_categories": [
+        { "id": 1, "text": "Very Poor" },
+        { "id": 2, "text": "Poor" },
+        { "id": 3, "text": "Average" },
+        { "id": 4, "text": "Good" },
+        { "id": 5, "text": "Very Good" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "This question seeks to understand the utilization and satisfaction with city sporting facilities.",
+      "main_text": "How often do you use the city's sporting facilities?",
+      "response_categories": [
+        { "id": 1, "text": "Never" },
+        { "id": 2, "text": "Rarely" },
+        { "id": 3, "text": "Sometimes" },
+        { "id": 4, "text": "Often" },
+        { "id": 5, "text": "Very Often" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the emotional impact of city infrastructure projects",
+      "main_text": "How do you feel about the city's heartless decision to prioritize flashy infrastructure projects over community well-being?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the city's handling of cultural events",
+      "main_text": "What are your thoughts on the city's shameful lack of support for local cultural events that used to bring us together?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the city's allocation of resources to wealthy areas",
+      "main_text": "How does it make you feel knowing the city allocates resources preferentially to wealthy neighborhoods while ignoring less affluent ones?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the impact of city policies on small businesses",
+      "main_text": "How have the city's shortsighted policies tragically impacted your favorite local small businesses?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the transparency of city officials",
+      "main_text": "In what ways do you think city officials have been deceitful or opaque in their communications with the public?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the emotional impact of city's environmental neglect",
+      "main_text": "How heartbreaking do you find the city's blatant disregard for environmental conservation efforts in your area?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the city's handling of healthcare",
+      "main_text": "How do you feel about the city's heartless approach to healthcare services for its most vulnerable citizens?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the city's investment in public spaces",
+      "main_text": "What are your thoughts on the city\u2019s shameful neglect of community spaces that were once full of life and joy?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about housing policies",
+      "main_text": "How has the city's greed-driven housing policies impacted your sense of security and belonging in your neighborhood?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about employment opportunities",
+      "main_text": "What's your take on the city's inadequate efforts to create meaningful employment opportunities for its residents?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the city's cultural initiatives",
+      "main_text": "How do you perceive the city's obvious disregard for promoting and preserving local culture and heritage?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the city's infrastructure development",
+      "main_text": "How has the city's blatant prioritization of flashy infrastructural projects over basic community needs affected your daily life?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding the impact of city's neglect on heritage sites",
+      "main_text": "How do you feel about the city's disgraceful disregard for preserving historical landmarks?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the perception of city's effort in supporting the homeless population",
+      "main_text": "What are your thoughts on the city's woefully inadequate efforts to assist the homeless community?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question on the respondent's view on the city's handling of economic development",
+      "main_text": "How has the city's selfish focus on commercial development over residential well-being impacted your view of urban planning?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the city's investment in arts and culture",
+      "main_text": "In what ways has the city's pitiful investment in arts and cultural initiatives stifled local creativity?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question on the effectiveness of the city's communication with its residents",
+      "main_text": "How do you perceive the city's communication efforts with its residents, given its notorious history of miscommunication and opacity?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about personal impact of city's traffic management",
+      "main_text": "How has the city's abysmal traffic management affected your daily commute and overall quality of life?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the emotional impact of local healthcare services",
+      "main_text": "How have you been let down by the city's healthcare services during times when you needed them the most?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question on the perceived neglect towards affordable housing",
+      "main_text": "In what ways do you feel the city has turned its back on providing affordable housing options for its less fortunate residents?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the impact of community development projects",
+      "main_text": "How have the city's community development projects fallen short of addressing the real needs of your neighborhood?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding the support for the homeless population",
+      "main_text": "What are your thoughts on the city's glaring failure to support and protect its homeless population?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about residents' experience with city healthcare services",
+      "main_text": "Can you describe your experiences accessing healthcare services in the city?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the availability of recreational spaces",
+      "main_text": "What has been your experience with the availability and condition of recreational spaces in the city?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about communication from the city government",
+      "main_text": "How would you describe the effectiveness of communication from the city government about available services and initiatives?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about city efforts in sustainability",
+      "main_text": "What are your observations on the city's efforts towards sustainability and environmental conservation?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about city support for the homeless",
+      "main_text": "Can you share your thoughts on how the city is addressing homelessness?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about cultural and community events",
+      "main_text": "How do you feel about the variety and frequency of cultural and community events in the city?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the efficiency of public utilities",
+      "main_text": "How do you evaluate the efficiency of the city's public utilities, such as water and electricity?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about community health services accessibility",
+      "main_text": "Can you describe your experiences accessing community health services in the city?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about usage of recreational facilities",
+      "main_text": "What has been your usage pattern of city recreational facilities over the past year?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about city's environmental initiatives",
+      "main_text": "What is your awareness level of the city\u2019s current environmental initiatives?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about city planning and development communication",
+      "main_text": "How well do you think the city communicates its planning and development projects to the public?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Question about support for local businesses",
+      "main_text": "What kind of support do you believe local businesses need most from the city?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquiry about healthcare services provided by the city",
+      "main_text": "What has been your experience with the city's healthcare services?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about the availability and condition of recreational facilities",
+      "main_text": "Can you describe the availability and condition of recreational facilities in your area?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Understanding public utility satisfaction",
+      "main_text": "How would you rate your satisfaction with the city's public utilities, such as water and electricity?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Gathering opinions on community outreach programs",
+      "main_text": "What are your thoughts on the effectiveness of community outreach programs in your area?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Evaluating communication channels between city officials and residents",
+      "main_text": "How effective do you find the communication channels between city officials and residents?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Assessing resident involvement in city planning and decision-making",
+      "main_text": "In what ways do you believe residents could be more involved in city planning and decision-making processes?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking for an evaluation of public spaces maintenance without implying neglect or poor maintenance.",
+      "main_text": "How would you evaluate the current state of maintenance in public parks and spaces in the city?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking for personal impact without implying failure of environmental policies.",
+      "main_text": "Can you describe any changes in your daily life that may be related to the city's environmental policies?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquiring about public safety perceptions without implying failure on the part of the local police department.",
+      "main_text": "What are your thoughts on the effectiveness of the local police department in ensuring public safety?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asking for personal opinion on city zoning changes without assuming disadvantage.",
+      "main_text": "What is your perspective on the recent zoning changes in the city?",
+      "response_categories": []
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question regarding residents' feelings about the city's efforts in addressing homelessness",
+      "main_text": "How dismayed are you by the city's heartless approach to solving homelessness?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely dismayed" },
+        { "id": 2, "text": "Very dismayed" },
+        { "id": 3, "text": "Somewhat dismayed" },
+        { "id": 4, "text": "Not at all dismayed" },
+        { "id": 5, "text": "I see no issue with the city's approach" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's efforts in preserving historical landmarks",
+      "main_text": "How outraged are you that the city neglects our precious historical landmarks?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely outraged" },
+        { "id": 2, "text": "Very outraged" },
+        { "id": 3, "text": "Somewhat outraged" },
+        { "id": 4, "text": "Not at all outraged" },
+        { "id": 5, "text": "I believe the city is doing enough" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's handling of traffic congestion",
+      "main_text": "How frustrated are you with the city's inadequate measures to curb traffic congestion?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely frustrated" },
+        { "id": 2, "text": "Very frustrated" },
+        { "id": 3, "text": "Somewhat frustrated" },
+        { "id": 4, "text": "Not at all frustrated" },
+        { "id": 5, "text": "I think the measures are adequate" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on the perceived bias in city funding allocation",
+      "main_text": "How concerned are you about the city's biased allocation of funds favoring certain neighborhoods over others?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely concerned" },
+        { "id": 2, "text": "Very concerned" },
+        { "id": 3, "text": "Somewhat concerned" },
+        { "id": 4, "text": "Not at all concerned" },
+        { "id": 5, "text": "I see no bias in funding allocation" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's commitment to renewable energy",
+      "main_text": "How let down do you feel by the city's sluggish adoption of renewable energy solutions?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely let down" },
+        { "id": 2, "text": "Very let down" },
+        { "id": 3, "text": "Somewhat let down" },
+        { "id": 4, "text": "Not at all let down" },
+        { "id": 5, "text": "I think the city is making good progress" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on the city's efforts to support the homeless population",
+      "main_text": "How disappointed are you with the city's lackluster support for our homeless population?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely disappointed" },
+        { "id": 2, "text": "Very disappointed" },
+        { "id": 3, "text": "Somewhat disappointed" },
+        { "id": 4, "text": "Not at all disappointed" },
+        { "id": 5, "text": "I believe the city's support is adequate" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's handling of homeless population with emotionally loaded language",
+      "main_text": "How heartbroken are you by the city's abysmal treatment of the homeless community?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely heartbroken" },
+        { "id": 2, "text": "Very heartbroken" },
+        { "id": 3, "text": "Somewhat heartbroken" },
+        { "id": 4, "text": "Not heartbroken at all" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's support for small businesses with emotionally loaded language",
+      "main_text": "Do you feel the city has betrayed local small businesses by favoring large corporations?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Disagree" },
+        { "id": 5, "text": "Strongly disagree" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the emotional impact of the city's environmental conditions",
+      "main_text": "How outraged are you by the city's blatant disregard for our beautiful natural parks?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely outraged" },
+        { "id": 2, "text": "Very outraged" },
+        { "id": 3, "text": "Somewhat outraged" },
+        { "id": 4, "text": "Not outraged at all" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the perception of city's efforts to improve road conditions with emotionally loaded language",
+      "main_text": "How frustrated are you with the city's endless excuses for the deteriorating road conditions?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely frustrated" },
+        { "id": 2, "text": "Very frustrated" },
+        { "id": 3, "text": "Somewhat frustrated" },
+        { "id": 4, "text": "Not frustrated at all" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's handling of cultural initiatives with emotionally loaded language",
+      "main_text": "Do you believe the city has shamefully neglected cultural initiatives that bring our community together?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Disagree" },
+        { "id": 5, "text": "Strongly disagree" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's commitment to sustainable development with emotionally loaded language",
+      "main_text": "How disappointed are you with the city's lack of commitment to sustainable development?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely disappointed" },
+        { "id": 2, "text": "Very disappointed" },
+        { "id": 3, "text": "Somewhat disappointed" },
+        { "id": 4, "text": "Not disappointed at all" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on the city's approach to homelessness",
+      "main_text": "How disheartened are you by the city's heartless approach to resolving homelessness?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely disheartened" },
+        { "id": 2, "text": "Very disheartened" },
+        { "id": 3, "text": "Somewhat disheartened" },
+        { "id": 4, "text": "Not at all disheartened" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on air quality management",
+      "main_text": "How concerned are you about the city's blatant disregard for improving air quality?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely concerned" },
+        { "id": 2, "text": "Very concerned" },
+        { "id": 3, "text": "Somewhat concerned" },
+        { "id": 4, "text": "Not concerned" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on community development efforts",
+      "main_text": "How frustrated are you with the city's lackluster efforts in community development?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely frustrated" },
+        { "id": 2, "text": "Very frustrated" },
+        { "id": 3, "text": "Somewhat frustrated" },
+        { "id": 4, "text": "Not frustrated" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on road maintenance",
+      "main_text": "How unacceptable do you find the city's negligence in maintaining our roads?",
+      "response_categories": [
+        { "id": 1, "text": "Completely unacceptable" },
+        { "id": 2, "text": "Mostly unacceptable" },
+        { "id": 3, "text": "Somewhat unacceptable" },
+        { "id": 4, "text": "Not at all unacceptable" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on children's playgrounds",
+      "main_text": "How outraged are you by the city's failure to provide safe playgrounds for our children?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely outraged" },
+        { "id": 2, "text": "Very outraged" },
+        { "id": 3, "text": "Somewhat outraged" },
+        { "id": 4, "text": "Not outraged" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on support for the elderly",
+      "main_text": "How disappointed are you with the city's insufficient support for the elderly?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely disappointed" },
+        { "id": 2, "text": "Very disappointed" },
+        { "id": 3, "text": "Somewhat disappointed" },
+        { "id": 4, "text": "Not disappointed" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the emotional impact of the city's nightlife management",
+      "main_text": "How outraged are you by the city's blatant disregard for promoting a vibrant nightlife?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely outraged" },
+        { "id": 2, "text": "Very outraged" },
+        { "id": 3, "text": "Somewhat outraged" },
+        { "id": 4, "text": "Not very outraged" },
+        { "id": 5, "text": "Not outraged at all" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about resident's feelings towards the city's handling of historical preservation",
+      "main_text": "How heartbroken are you by the city's neglect of our cherished historical sites?",
+      "response_categories": [
+        { "id": 1, "text": "Completely heartbroken" },
+        { "id": 2, "text": "Very heartbroken" },
+        { "id": 3, "text": "Somewhat heartbroken" },
+        { "id": 4, "text": "Not very heartbroken" },
+        { "id": 5, "text": "Not heartbroken at all" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's efforts in supporting the homeless population",
+      "main_text": "How disappointed are you with the city's feeble efforts to support our homeless population?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely disappointed" },
+        { "id": 2, "text": "Very disappointed" },
+        { "id": 3, "text": "Somewhat disappointed" },
+        { "id": 4, "text": "Not very disappointed" },
+        { "id": 5, "text": "Not disappointed at all" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the impact of the city's policies on small businesses",
+      "main_text": "How frustrated are you with the city's oppressive policies towards small businesses?",
+      "response_categories": [
+        { "id": 1, "text": "Extremely frustrated" },
+        { "id": 2, "text": "Very frustrated" },
+        { "id": 3, "text": "Somewhat frustrated" },
+        { "id": 4, "text": "Not very frustrated" },
+        { "id": 5, "text": "Not frustrated at all" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on the effectiveness of city's health services",
+      "main_text": "How would you rate the effectiveness of city's health services?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat ineffective" },
+        { "id": 5, "text": "Very ineffective" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the condition of city roads",
+      "main_text": "How would you rate the overall condition of the city roads?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very Poor" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on the availability of green spaces",
+      "main_text": "Do you think there are enough green spaces in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, definitely" },
+        { "id": 2, "text": "Yes, somewhat" },
+        { "id": 3, "text": "Not sure" },
+        { "id": 4, "text": "No, not really" },
+        { "id": 5, "text": "No, not at all" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the effectiveness of the city's emergency services",
+      "main_text": "How effective do you find the city's emergency services (e.g., fire, police, medical)?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat ineffective" },
+        { "id": 5, "text": "Very ineffective" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question on resident participation in city council meetings",
+      "main_text": "How often do you attend city council meetings or watch them online?",
+      "response_categories": [
+        { "id": 1, "text": "Every meeting" },
+        { "id": 2, "text": "Most meetings" },
+        { "id": 3, "text": "Some meetings" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the frequency of engaging with community events",
+      "main_text": "How often do you participate in city-organized community events?",
+      "response_categories": [
+        { "id": 1, "text": "Very often" },
+        { "id": 2, "text": "Occasionally" },
+        { "id": 3, "text": "Rarely" },
+        { "id": 4, "text": "Never" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the perception of street cleanliness",
+      "main_text": "How would you rate the cleanliness of your city's streets?",
+      "response_categories": [
+        { "id": 1, "text": "Very clean" },
+        { "id": 2, "text": "Somewhat clean" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat unclean" },
+        { "id": 5, "text": "Very unclean" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the efficiency of emergency services",
+      "main_text": "How satisfied are you with the response time of emergency services in your area?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the accessibility of healthcare services",
+      "main_text": "How accessible do you find the healthcare services in your city?",
+      "response_categories": [
+        { "id": 1, "text": "Very accessible" },
+        { "id": 2, "text": "Somewhat accessible" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat inaccessible" },
+        { "id": 5, "text": "Very inaccessible" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about satisfaction with local government communication",
+      "main_text": "How satisfied are you with the communication from your local government?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the availability of recreational spaces",
+      "main_text": "How would you rate the availability of recreational spaces in your city?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the frequency of using recreational facilities",
+      "main_text": "How often do you use the city\u2019s recreational facilities (e.g., sports complexes, pools)?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Weekly" },
+        { "id": 3, "text": "Monthly" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about satisfaction with emergency services",
+      "main_text": "How satisfied are you with the city\u2019s emergency services (e.g., fire, police, ambulance)?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about participation in city planning",
+      "main_text": "Have you ever participated in city planning or community meetings?",
+      "response_categories": [
+        { "id": 1, "text": "Yes" },
+        { "id": 2, "text": "No" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about perception of city's efforts to improve air quality",
+      "main_text": "How would you rate the city's efforts to improve air quality?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the city's support for cultural activities",
+      "main_text": "How well does the city support cultural activities and events?",
+      "response_categories": [
+        { "id": 1, "text": "Very well" },
+        { "id": 2, "text": "Well" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Poorly" },
+        { "id": 5, "text": "Very poorly" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the availability of public spaces",
+      "main_text": "How would you rate the availability of public spaces (e.g., squares, parks) in your area?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the frequency of engaging with city-sponsored events",
+      "main_text": "How often do you participate in city-sponsored events?",
+      "response_categories": [
+        { "id": 1, "text": "Very often" },
+        { "id": 2, "text": "Often" },
+        { "id": 3, "text": "Sometimes" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the effectiveness of the city's recycling programs",
+      "main_text": "How effective do you find the city's recycling programs?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat ineffective" },
+        { "id": 5, "text": "Very ineffective" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the level of satisfaction with the city's efforts to improve road conditions",
+      "main_text": "How satisfied are you with the city's efforts to improve road conditions?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the accessibility of city services online",
+      "main_text": "How would you rate the accessibility of city services online?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very Poor" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the availability of green spaces within the city",
+      "main_text": "How would you rate the availability of green spaces within the city?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very Poor" }
+      ]
+    },
+    "bias_type": "emotional_language"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Asks for the respondent's view on city's efforts in promoting renewable energy without implying any preconceived notion about the city's performance.",
+      "main_text": "What are your thoughts on the efforts made by the city to promote renewable energy sources?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Seeks an unbiased perspective on the availability and quality of public spaces for community gatherings.",
+      "main_text": "Can you describe your experiences with the availability and quality of public spaces for community gatherings in the city?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "false",
+    "question": {
+      "response_format": "open",
+      "description": "Inquires about the respondent's personal experiences and observations on the city's approach to historical preservation without suggesting a failure or success.",
+      "main_text": "How do you perceive the city's approach to preserving historical landmarks and sites?",
+      "response_categories": []
+    },
+    "bias_type": "leading_question"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes the respondent has witnessed or experienced inefficiency in the city's handling of emergency services.",
+      "main_text": "How has the city's slow response to emergencies negatively impacted your trust in local government?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes the respondent is aware of and affected by the city's allocation of resources to certain neighborhoods over others.",
+      "main_text": "What are your thoughts on the city's obvious prioritization of wealthier neighborhoods over yours when it comes to allocating resources?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  },
+  {
+    "bias": "true",
+    "question": {
+      "response_format": "open",
+      "description": "Assumes the respondent has been negatively affected by the city's cultural or recreational services.",
+      "main_text": "In what ways has the lack of investment in cultural and recreational services deprived you of valuable community experiences?",
+      "response_categories": []
+    },
+    "bias_type": "assumptions"
+  }
+]

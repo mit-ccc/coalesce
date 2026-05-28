@@ -1,0 +1,77 @@
+{
+  "bias": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How would you rate the quality of the city's health services?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very Poor\"}, {\"id\": 2, \"text\": \"Poor\"}, {\"id\": 3, \"text\": \"Average\"}, {\"id\": 4, \"text\": \"Good\"}, {\"id\": 5, \"text\": \"Very Good\"}]}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"What are your thoughts on the effectiveness of the city's recycling programs?\", \"response_categories\": []}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"Don't you agree that our city should prioritize the expansion of environmentally friendly public transportation options to reduce traffic?\", \"response_categories\": [{\"id\": 1, \"text\": \"Strongly agree\"}, {\"id\": 2, \"text\": \"Agree\"}, {\"id\": 3, \"text\": \"Neutral\"}, {\"id\": 4, \"text\": \"Disagree\"}]}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How satisfied are you with the city's healthcare services and their ease of accessibility?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very satisfied with both\"}, {\"id\": 2, \"text\": \"Satisfied with healthcare, not accessibility\"}, {\"id\": 3, \"text\": \"Satisfied with accessibility, not healthcare\"}, {\"id\": 4, \"text\": \"Unsatisfied with both\"}]}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"What is the most common problem you encounter with the city's waste management services?\", \"response_categories\": [{\"id\": 1, \"text\": \"Irregular pickups\"}, {\"id\": 2, \"text\": \"Poor recycling options\"}, {\"id\": 3, \"text\": \"Lack of composting services\"}, {\"id\": 4, \"text\": \"Customer service issues\"}]}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"Which city service do you believe requires immediate improvement?\", \"response_categories\": [{\"id\": 1, \"text\": \"Public transportation\"}, {\"id\": 2, \"text\": \"Waste management\"}, {\"id\": 3, \"text\": \"Water supply\"}, {\"id\": 4, \"text\": \"Electricity supply\"}, {\"id\": 5, \"text\": \"Public safety\"}]}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"How do you perceive the city's communication efforts with its residents, given its notorious history of miscommunication and opacity?\", \"response_categories\": []}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"How well do you think the city communicates its planning and development projects to the public?\", \"response_categories\": []}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"What has been your experience accessing healthcare services in the city?\", \"response_categories\": []}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"How would you describe your level of safety in the city, and what do you attribute it to?\", \"response_categories\": []}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How satisfied are you with the city's education services?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very satisfied\"}, {\"id\": 2, \"text\": \"Somewhat satisfied\"}, {\"id\": 3, \"text\": \"Neutral\"}, {\"id\": 4, \"text\": \"Somewhat dissatisfied\"}, {\"id\": 5, \"text\": \"Very dissatisfied\"}]}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"In what ways do you think the city could improve community engagement?\", \"response_categories\": []}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"Do you think the city's environmental policies and support for local businesses are adequate?\", \"response_categories\": [{\"id\": 1, \"text\": \"Both are adequate\"}, {\"id\": 2, \"text\": \"Only environmental policies are adequate\"}, {\"id\": 3, \"text\": \"Only support for local businesses is adequate\"}, {\"id\": 4, \"text\": \"Neither are adequate\"}]}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"Are you aware of any of the city's environmental policies? If so, what do you think about them?\", \"response_categories\": []}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How often do you use public parks for recreational activities?\", \"response_categories\": [{\"id\": 1, \"text\": \"Daily\"}, {\"id\": 2, \"text\": \"Several times a week\"}, {\"id\": 3, \"text\": \"Once a week\"}, {\"id\": 4, \"text\": \"Once a month\"}, {\"id\": 5, \"text\": \"Rarely or never\"}]}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How often do you visit city parks?\", \"response_categories\": [{\"id\": 1, \"text\": \"Daily\"}, {\"id\": 2, \"text\": \"Weekly\"}, {\"id\": 3, \"text\": \"Monthly\"}, {\"id\": 4, \"text\": \"Rarely\"}, {\"id\": 5, \"text\": \"Never\"}]}",
+        "bias": "false"
+      }
+    ],
+    "signature_instructions": "Assess whether a question is biased or not. Keep in mind the following forms of bias:\n        (1) Leading questions, which are phrased in a way that suggests a particular answer is more desirable or correct. They tend to have subjective adjectives, or context-laden words that frame the question in a positive or negative light.\n        (2) Making assumptions about respondents' behaviors, attitudes, or goals. These questions tend to guess information instead of asking for it.\n        (3) Double-barreled questions, which ask about two or more things simultaneously.\n        (4) Emotionally loaded language, which has emotionally loaded terms or phrases that imply judgment or assume a particular stance. Words that carry strong positive or negative connotations can influence respondents' emotions and responses.",
+    "signature_prefix": "Bias:",
+    "extended_signature_instructions": "Assess whether a question is biased or not. Keep in mind the following forms of bias:\n        (1) Leading questions, which are phrased in a way that suggests a particular answer is more desirable or correct. They tend to have subjective adjectives, or context-laden words that frame the question in a positive or negative light.\n        (2) Making assumptions about respondents' behaviors, attitudes, or goals. These questions tend to guess information instead of asking for it.\n        (3) Double-barreled questions, which ask about two or more things simultaneously.\n        (4) Emotionally loaded language, which has emotionally loaded terms or phrases that imply judgment or assume a particular stance. Words that carry strong positive or negative connotations can influence respondents' emotions and responses.",
+    "extended_signature_prefix": "Bias:"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "bias": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"open\", \"description\": \"Presumes the respondent is aware and disapproves of the city's environmental policies.\", \"main_text\": \"How has the city's failure to implement effective environmental policies affected your daily life?\", \"response_categories\": []}",
+        "rationale": "produce the bias. We can see that the question assumes that the respondent is aware of the city's environmental policies and that they disapprove of them, which can lead to biased responses.",
+        "bias": "true"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"open\", \"description\": \"Asks for the respondent's view on the city's support for local businesses without assuming the nature of the support.\", \"main_text\": \"How do you perceive the city's support for local businesses?\", \"response_categories\": []}",
+        "rationale": "false",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"Question about the support for homeless people provided by the city\", \"main_text\": \"How do you rate the support for homeless people provided by the city?\", \"response_categories\": [{\"id\": 1, \"text\": \"Excellent\"}, {\"id\": 2, \"text\": \"Good\"}, {\"id\": 3, \"text\": \"Fair\"}, {\"id\": 4, \"text\": \"Poor\"}, {\"id\": 5, \"text\": \"Very Poor\"}]}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Question on waste management services\", \"main_text\": \"Can you share your thoughts on the city's waste management services?\", \"response_categories\": []}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"This question suggests that most would find the existing public safety measures inadequate.\", \"main_text\": \"Do you also feel that the current public safety measures are not enough to ensure our community's wellbeing?\", \"response_categories\": [{\"id\": 1, \"text\": \"Definitely\"}, {\"id\": 2, \"text\": \"Probably\"}, {\"id\": 3, \"text\": \"Not sure\"}, {\"id\": 4, \"text\": \"Not at all\"}]}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"This question assumes that respondents are affected by and disapprove of the city's traffic management.\", \"main_text\": \"How has the city's traffic management policies negatively affected your daily commute?\", \"response_categories\": []}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"This question assumes that respondents have a negative view of the city's handling of waste management.\", \"main_text\": \"What issues have you encountered with the city's waste management services?\", \"response_categories\": []}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Question regarding communication from city officials\", \"main_text\": \"How would you rate the effectiveness of communication from city officials regarding important updates and decisions?\", \"response_categories\": []}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Assumes the respondent is affected by local traffic conditions.\", \"main_text\": \"In what ways has the city's traffic situation impacted your daily commute?\", \"response_categories\": []}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"A question that implies a positive outcome from reducing city service hours\", \"main_text\": \"How beneficial do you think it would be for our city\\u2019s budget to slightly reduce the hours of non-essential city services?\", \"response_categories\": []}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"Assumes the respondent experiences issues with waste management services.\", \"main_text\": \"What is the most common problem you encounter with the city's waste management services?\", \"response_categories\": [{\"id\": 1, \"text\": \"Irregular pickups\"}, {\"id\": 2, \"text\": \"Poor recycling options\"}, {\"id\": 3, \"text\": \"Lack of composting services\"}, {\"id\": 4, \"text\": \"Customer service issues\"}]}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"Determining the popularity of cycling lanes\", \"main_text\": \"How often do you use the city's cycling lanes?\", \"response_categories\": [{\"id\": 1, \"text\": \"Daily\"}, {\"id\": 2, \"text\": \"Weekly\"}, {\"id\": 3, \"text\": \"Monthly\"}, {\"id\": 4, \"text\": \"Rarely\"}, {\"id\": 5, \"text\": \"Never\"}]}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Question on the perceived neglect towards affordable housing\", \"main_text\": \"In what ways do you feel the city has turned its back on providing affordable housing options for its less fortunate residents?\", \"response_categories\": []}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Question regarding community involvement in city decisions\", \"main_text\": \"In what ways do you think the city could improve how it involves the community in decision-making processes?\", \"response_categories\": []}",
+        "bias": "false"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Questioning the support for vulnerable populations\", \"main_text\": \"What are your thoughts on the city's shameful lack of support for the homeless and vulnerable populations during recent crises?\", \"response_categories\": []}",
+        "bias": "true"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"Assessment of satisfaction with city waste management\", \"main_text\": \"How would you rate your satisfaction with the city's waste management services?\", \"response_categories\": [{\"id\": 1, \"text\": \"Very satisfied\"}, {\"id\": 2, \"text\": \"Satisfied\"}, {\"id\": 3, \"text\": \"Neutral\"}, {\"id\": 4, \"text\": \"Unsatisfied\"}, {\"id\": 5, \"text\": \"Very unsatisfied\"}]}",
+        "bias": "false"
+      }
+    ],
+    "signature_instructions": "Assess whether a question is biased or not. Keep in mind the following forms of bias:\n        (1) Leading questions, which are phrased in a way that suggests a particular answer is more desirable or correct. They tend to have subjective adjectives, or context-laden words that frame the question in a positive or negative light.\n        (2) Making assumptions about respondents' behaviors, attitudes, or goals. These questions tend to guess information instead of asking for it.\n        (3) Double-barreled questions, which ask about two or more things simultaneously.\n        (4) Emotionally loaded language, which has emotionally loaded terms or phrases that imply judgment or assume a particular stance. Words that carry strong positive or negative connotations can influence respondents' emotions and responses.",
+    "signature_prefix": "Bias:",
+    "extended_signature_instructions": "Assess whether a question is biased or not. Keep in mind the following forms of bias:\n        (1) Leading questions, which are phrased in a way that suggests a particular answer is more desirable or correct. They tend to have subjective adjectives, or context-laden words that frame the question in a positive or negative light.\n        (2) Making assumptions about respondents' behaviors, attitudes, or goals. These questions tend to guess information instead of asking for it.\n        (3) Double-barreled questions, which ask about two or more things simultaneously.\n        (4) Emotionally loaded language, which has emotionally loaded terms or phrases that imply judgment or assume a particular stance. Words that carry strong positive or negative connotations can influence respondents' emotions and responses.",
+    "extended_signature_prefix": "Bias:"
+  }
+}

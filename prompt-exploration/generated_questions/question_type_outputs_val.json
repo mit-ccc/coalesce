@@ -1,0 +1,217 @@
+[
+  {
+    "question_type": "demographic",
+    "question": {
+      "response_format": "open",
+      "description": "",
+      "main_text": "Could you please describe your educational background?",
+      "response_categories": []
+    }
+  },
+  {
+    "question_type": "demographic",
+    "question": {
+      "response_format": "open",
+      "description": "",
+      "main_text": "Can you please tell us about your current employment status?",
+      "response_categories": []
+    }
+  },
+  {
+    "question_type": "demographic",
+    "question": {
+      "response_format": "open",
+      "description": "",
+      "main_text": "Can you describe your current living situation?",
+      "response_categories": []
+    }
+  },
+  {
+    "question_type": "attitudinal",
+    "question": {
+      "response_format": "open",
+      "description": "",
+      "main_text": "In your own words, how do you perceive the impact of climate change in your daily life?",
+      "response_categories": []
+    }
+  },
+  {
+    "question_type": "attitudinal",
+    "question": {
+      "response_format": "open",
+      "description": "",
+      "main_text": "What is your opinion on the role of social media in shaping public opinion?",
+      "response_categories": []
+    }
+  },
+  {
+    "question_type": "attitudinal",
+    "question": {
+      "response_format": "open",
+      "description": "",
+      "main_text": "How important do you think it is to prioritize mental health in today's society?",
+      "response_categories": []
+    }
+  },
+  {
+    "question_type": "behavioral",
+    "question": {
+      "response_format": "open",
+      "description": "",
+      "main_text": "How often do you exercise, and what does your typical workout routine look like?",
+      "response_categories": []
+    }
+  },
+  {
+    "question_type": "behavioral",
+    "question": {
+      "response_format": "open",
+      "description": "",
+      "main_text": "Can you describe a specific task at your work that you perform regularly, and how you usually go about it?",
+      "response_categories": []
+    }
+  },
+  {
+    "question_type": "behavioral",
+    "question": {
+      "response_format": "open",
+      "description": "",
+      "main_text": "How do you typically spend your weekends?",
+      "response_categories": []
+    }
+  },
+  {
+    "question_type": "demographic",
+    "question": {
+      "response_format": "closed",
+      "description": "",
+      "main_text": "What is your age group?",
+      "response_categories": [
+        { "id": 1, "text": "Under 18" },
+        { "id": 2, "text": "18-25" },
+        { "id": 3, "text": "26-35" },
+        { "id": 4, "text": "36-45" },
+        { "id": 5, "text": "46 and above" }
+      ]
+    }
+  },
+  {
+    "question_type": "demographic",
+    "question": {
+      "response_format": "closed",
+      "description": "",
+      "main_text": "What is your gender?",
+      "response_categories": [
+        { "id": 1, "text": "Male" },
+        { "id": 2, "text": "Female" },
+        { "id": 3, "text": "Prefer not to say" },
+        { "id": 4, "text": "Other" }
+      ]
+    }
+  },
+  {
+    "question_type": "demographic",
+    "question": {
+      "response_format": "closed",
+      "description": "",
+      "main_text": "What is your occupation?",
+      "response_categories": [
+        { "id": 1, "text": "Student" },
+        { "id": 2, "text": "Employed" },
+        { "id": 3, "text": "Self-employed" },
+        { "id": 4, "text": "Unemployed" },
+        { "id": 5, "text": "Retired" }
+      ]
+    }
+  },
+  {
+    "question_type": "attitudinal",
+    "question": {
+      "response_format": "closed",
+      "description": "",
+      "main_text": "How concerned are you about environmental issues?",
+      "response_categories": [
+        { "id": 1, "text": "Not concerned at all" },
+        { "id": 2, "text": "Slightly concerned" },
+        { "id": 3, "text": "Moderately concerned" },
+        { "id": 4, "text": "Very concerned" },
+        { "id": 5, "text": "Extremely concerned" }
+      ]
+    }
+  },
+  {
+    "question_type": "attitudinal",
+    "question": {
+      "response_format": "closed",
+      "description": "",
+      "main_text": "How important is physical fitness to you?",
+      "response_categories": [
+        { "id": 1, "text": "Not important at all" },
+        { "id": 2, "text": "Slightly important" },
+        { "id": 3, "text": "Moderately important" },
+        { "id": 4, "text": "Very important" },
+        { "id": 5, "text": "Extremely important" }
+      ]
+    }
+  },
+  {
+    "question_type": "attitudinal",
+    "question": {
+      "response_format": "closed",
+      "description": "",
+      "main_text": "How satisfied are you with the current political climate in your country?",
+      "response_categories": [
+        { "id": 1, "text": "Not satisfied at all" },
+        { "id": 2, "text": "Slightly satisfied" },
+        { "id": 3, "text": "Moderately satisfied" },
+        { "id": 4, "text": "Very satisfied" },
+        { "id": 5, "text": "Extremely satisfied" }
+      ]
+    }
+  },
+  {
+    "question_type": "behavioral",
+    "question": {
+      "response_format": "closed",
+      "description": "",
+      "main_text": "How often do you exercise in a week?",
+      "response_categories": [
+        { "id": 1, "text": "Never" },
+        { "id": 2, "text": "1-2 times" },
+        { "id": 3, "text": "3-4 times" },
+        { "id": 4, "text": "5-6 times" },
+        { "id": 5, "text": "Daily" }
+      ]
+    }
+  },
+  {
+    "question_type": "behavioral",
+    "question": {
+      "response_format": "closed",
+      "description": "",
+      "main_text": "How do you usually consume news?",
+      "response_categories": [
+        { "id": 1, "text": "Newspaper" },
+        { "id": 2, "text": "TV" },
+        { "id": 3, "text": "Online" },
+        { "id": 4, "text": "Social Media" },
+        { "id": 5, "text": "Radio" }
+      ]
+    }
+  },
+  {
+    "question_type": "behavioral",
+    "question": {
+      "response_format": "closed",
+      "description": "",
+      "main_text": "How many books do you read in a month?",
+      "response_categories": [
+        { "id": 1, "text": "None" },
+        { "id": 2, "text": "1-2 books" },
+        { "id": 3, "text": "3-4 books" },
+        { "id": 4, "text": "5-6 books" },
+        { "id": 5, "text": "More than 6 books" }
+      ]
+    }
+  }
+]

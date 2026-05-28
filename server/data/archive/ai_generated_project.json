@@ -1,0 +1,134 @@
+{
+  "project_id": "6601cc4a2588f4be65f1fd9f",
+  "project_title": "AI Generated Test Project",
+  "sections": [
+    {
+      "id": 0,
+      "title": "Background Information",
+      "time_estimate": 1,
+      "cells": ["c39abd4a-cb56-471c-b430-8998b2f38857"]
+    },
+    {
+      "id": 1,
+      "title": "Favorite Parts of the Park",
+      "time_estimate": 5,
+      "cells": [
+        "35157eab-ec84-46d8-9878-52abdbedfe04",
+        "346b0c9a-1205-40ff-9b05-196e73023eba"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Areas of Improvement",
+      "time_estimate": 5,
+      "cells": [
+        "9e3378e9-306e-4ac5-9a98-af3e7a69205b",
+        "9e3378e9-306e-4ac5-9a98-af3e7a69205d"
+      ]
+    }
+  ],
+  "cells": {
+    "c39abd4a-cb56-471c-b430-8998b2f38857": {
+      "section_index": 0,
+      "cell_details": {
+        "cell_type": "text",
+        "response_format": "",
+        "description": "",
+        "main_text": "We will be renovating X park. Before creating any designs, we want to hear about what you like and wish was better about X park.",
+        "response_categories": []
+      },
+      "question_type": "",
+      "last_updated": "",
+      "checks": [],
+      "last_run_check": "",
+      "is_ai_generated": 1,
+      "human_ai_status": "ai",
+      "ai_rationale": ""
+    },
+    "35157eab-ec84-46d8-9878-52abdbedfe04": {
+      "section_index": 1,
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "closed",
+        "description": "Asking this question to understand what people already use",
+        "main_text": "Which of the following park amenities do you use?",
+        "response_categories": [
+          {
+            "id": 0,
+            "text": "Playground"
+          },
+          {
+            "id": 1,
+            "text": "Tennis courts"
+          },
+          {
+            "id": 2,
+            "text": "Basketball courts"
+          },
+          {
+            "id": 3,
+            "text": "Pickleball courts"
+          }
+        ]
+      },
+      "question_type": "behavioral",
+      "last_updated": "",
+      "checks": [],
+      "last_run_check": "",
+      "is_ai_generated": 1,
+      "human_ai_status": "ai",
+      "ai_rationale": ""
+    },
+    "346b0c9a-1205-40ff-9b05-196e73023eba": {
+      "section_index": 1,
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "open",
+        "description": "",
+        "main_text": "What is a favorite experience or memory you have at X Park?",
+        "response_categories": []
+      },
+      "question_type": "behavioral",
+      "last_updated": "",
+      "checks": [],
+      "last_run_check": "",
+      "is_ai_generated": 1,
+      "human_ai_status": "ai",
+      "ai_rationale": ""
+    },
+    "9e3378e9-306e-4ac5-9a98-af3e7a69205b": {
+      "section_index": 2,
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "open",
+        "description": "",
+        "main_text": "What challenges or issues have you encountered while visiting X Park? Whether it's related to facilities, safety, or any other aspect, we value your feedback in helping us address concerns and improve the overall experience for everyone. Please share any specific difficulties you've faced or observed. ",
+        "response_categories": []
+      },
+      "question_type": "behavioral",
+      "last_updated": "",
+      "checks": [],
+      "last_run_check": "",
+      "is_ai_generated": 1,
+      "human_ai_status": "ai",
+      "ai_rationale": ""
+    },
+    "9e3378e9-306e-4ac5-9a98-af3e7a69205d": {
+      "section_index": 2,
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "open",
+        "description": "",
+        "main_text": "How much do you trust your local government's decisions on public parks and how often do you visit these parks?",
+        "response_categories": []
+      },
+      "question_type": "behavioral",
+      "last_updated": "",
+      "checks": [],
+      "last_run_check": "",
+      "is_ai_generated": 1,
+      "human_ai_status": "ai",
+      "ai_rationale": ""
+    }
+  }
+}

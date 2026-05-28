@@ -1,0 +1,78 @@
+services:
+  redis:
+      image: redis:7
+      ports:
+        - "6379:6379"
+      restart: always
+
+  backend:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+      target: app-dev
+    ports:
+      - "5001:5000"
+    environment:
+      - FLASK_APP=server.py
+      - FLASK_ENV=development
+      - RUNNING_IN_DOCKER=true
+      - REDIS_BROKER_URL=redis://redis:6379/0
+    env_file:
+      - ./server/.env
+    depends_on:
+      - redis
+    restart: always
+
+  celery-worker:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+      target: app-dev
+    command: celery -A server.celery worker --loglevel=INFO
+    environment:
+      - FLASK_APP=server.py
+      - FLASK_ENV=development
+      - RUNNING_IN_DOCKER=true
+      - REDIS_BROKER_URL=redis://redis:6379/0
+    env_file:
+      - ./server/.env
+    depends_on:
+      - redis
+      - backend
+    restart: always
+
+  backend-prod:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+      target: app-prod
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_APP=server.py
+      - FLASK_ENV=production
+      - RUNNING_IN_DOCKER=true
+      - REDIS_BROKER_URL=redis://redis:6379/0
+    env_file:
+      - ./server/.env
+    depends_on:
+      - redis
+    restart: always
+  
+  celery-worker-prod:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+      target: app-prod
+    command: celery -A server.celery worker --loglevel=INFO --concurrency=2 --prefetch-multiplier=1 --max-tasks-per-child=100
+    environment:
+      - FLASK_APP=server.py
+      - FLASK_ENV=production
+      - RUNNING_IN_DOCKER=true
+      - REDIS_BROKER_URL=redis://redis:6379/0
+    env_file:
+      - ./server/.env
+    depends_on:
+      - redis
+      - backend-prod
+    restart: always

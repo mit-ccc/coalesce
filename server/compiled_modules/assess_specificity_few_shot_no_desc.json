@@ -1,0 +1,39 @@
+{
+  "specificity": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"Can you share experiences with public services and community events in the city?\", \"response_categories\": []}",
+        "rationale": "determine the specificity. We can see that the question is quite broad and lacks a specific reference frame or underlying concept to measure. The term \"experiences\" and \"community events\" can be interpreted in various ways by different respondents, leading to ambiguous responses.",
+        "specificity": "fail"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"How would you rate the air quality in your neighborhood?\", \"response_categories\": [{\"id\": 1, \"text\": \"Excellent\"}, {\"id\": 2, \"text\": \"Good\"}, {\"id\": 3, \"text\": \"Fair\"}, {\"id\": 4, \"text\": \"Poor\"}, {\"id\": 5, \"text\": \"Very poor\"}]}",
+        "rationale": "determine the specificity. The question is focused on one specific concept, which is the air quality in the respondent's neighborhood. The reference frame is clear as it pertains to the respondent's neighborhood. The terms used in the question, such as \"air quality\" and the response categories, should have a specific meaning to all respondents. There are no ambiguous words or relative predicates in the question.",
+        "specificity": "pass"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"How would you rate the quality of street lighting in your neighborhood on a scale from 1 to 10?\", \"response_categories\": []}",
+        "rationale": "determine the specificity. The question is asking for a specific rating on a scale from 1 to 10 for the quality of street lighting in the respondent's neighborhood. It measures the concept of street lighting quality in a specific reference frame of the respondent's neighborhood. The question does not contain any ambiguous terms and uses a clear quantitative scale for respondents to provide their rating.",
+        "specificity": "pass"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"What are your thoughts on the community outreach programs available?\", \"response_categories\": []}",
+        "specificity": "fail"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"In the last 6 months, how often have you used the city's public library services?\", \"response_categories\": [{\"id\": 1, \"text\": \"At least once a week\"}, {\"id\": 2, \"text\": \"A few times a month\"}, {\"id\": 3, \"text\": \"Once a month\"}, {\"id\": 4, \"text\": \"Less than once a month\"}, {\"id\": 5, \"text\": \"Never\"}]}",
+        "specificity": "pass"
+      }
+    ],
+    "signature_instructions": "Assess whether a question is specific enough. Keep in mind the following qualities, for a question to be specific:\n        (1) Question should measure only one underlying concept.\n        (2) Question should refer to a specific reference frame (e.g. times and places) that is clear to the respondent.\n        (3) Question should not contain any ambiguous words that could be interpreted in multiple ways. Question should contain terms that will have the same specific meaning to all respondents.\n        (4) Question, not including the response categories, should not contain any predicates whose meanings are relative rather than absolute, as it is the case with quantitative adjectives or adverbs (e.g. often and frequently).",
+    "signature_prefix": "Specificity:",
+    "extended_signature_instructions": "Assess whether a question is specific enough. Keep in mind the following qualities, for a question to be specific:\n        (1) Question should measure only one underlying concept.\n        (2) Question should refer to a specific reference frame (e.g. times and places) that is clear to the respondent.\n        (3) Question should not contain any ambiguous words that could be interpreted in multiple ways. Question should contain terms that will have the same specific meaning to all respondents.\n        (4) Question, not including the response categories, should not contain any predicates whose meanings are relative rather than absolute, as it is the case with quantitative adjectives or adverbs (e.g. often and frequently).",
+    "extended_signature_prefix": "Specificity:"
+  }
+}

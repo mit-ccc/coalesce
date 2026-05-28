@@ -1,0 +1,39 @@
+{
+  "specificity": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"open\", \"description\": \"A question that merges different services and lacks temporal specificity.\", \"main_text\": \"Can you share experiences with public services and community events in the city?\", \"response_categories\": []}",
+        "rationale": "determine the specificity. We can see that this question combines the topics of public services and community events without specifying a particular time frame. This lack of temporal specificity can lead to ambiguous responses as respondents may have different experiences at different times. Additionally, the question is not focused on measuring a single underlying concept, as it merges different services and events. Therefore, this question lacks the necessary specificity.",
+        "specificity": "fail"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"Gauges perception of air quality\", \"main_text\": \"How would you rate the air quality in your neighborhood?\", \"response_categories\": [{\"id\": 1, \"text\": \"Excellent\"}, {\"id\": 2, \"text\": \"Good\"}, {\"id\": 3, \"text\": \"Fair\"}, {\"id\": 4, \"text\": \"Poor\"}, {\"id\": 5, \"text\": \"Very poor\"}]}",
+        "rationale": "determine the specificity. The question focuses on one specific concept - air quality in the respondent's neighborhood. It also refers to a specific reference frame (neighborhood) that is clear to the respondent. The question does not contain any ambiguous terms and uses response categories that should have the same specific meaning to all respondents.",
+        "specificity": "pass"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"open\", \"description\": \"Question uses ambiguous terminology concerning city amenities.\", \"main_text\": \"What do you think about the accessibility of city amenities?\", \"response_categories\": []}",
+        "rationale": "determine the specificity. The question \"What do you think about the accessibility of city amenities?\" is vague as it does not specify which city amenities are being referred to, leading to potential confusion among respondents.",
+        "specificity": "fail"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"Missing a clear reference to a specific program or initiative\", \"main_text\": \"What are your thoughts on the community outreach programs available?\", \"response_categories\": []}",
+        "specificity": "fail"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"Question about frequency of library use\", \"main_text\": \"In the last 6 months, how often have you used the city's public library services?\", \"response_categories\": [{\"id\": 1, \"text\": \"At least once a week\"}, {\"id\": 2, \"text\": \"A few times a month\"}, {\"id\": 3, \"text\": \"Once a month\"}, {\"id\": 4, \"text\": \"Less than once a month\"}, {\"id\": 5, \"text\": \"Never\"}]}",
+        "specificity": "pass"
+      }
+    ],
+    "signature_instructions": "Assess whether a question is specific enough. Keep in mind the following qualities, for a question to be specific:\n        (1) Question should measure only one underlying concept.\n        (2) Question should refer to a specific reference frame (e.g. times and places) that is clear to the respondent.\n        (3) Question should not contain any ambiguous words that could be interpreted in multiple ways. Question should contain terms that will have the same specific meaning to all respondents.\n        (4) Question, not including the response categories, should not contain any predicates whose meanings are relative rather than absolute, as it is the case with quantitative adjectives or adverbs (e.g. often and frequently).",
+    "signature_prefix": "Specificity:",
+    "extended_signature_instructions": "Assess whether a question is specific enough. Keep in mind the following qualities, for a question to be specific:\n        (1) Question should measure only one underlying concept.\n        (2) Question should refer to a specific reference frame (e.g. times and places) that is clear to the respondent.\n        (3) Question should not contain any ambiguous words that could be interpreted in multiple ways. Question should contain terms that will have the same specific meaning to all respondents.\n        (4) Question, not including the response categories, should not contain any predicates whose meanings are relative rather than absolute, as it is the case with quantitative adjectives or adverbs (e.g. often and frequently).",
+    "extended_signature_prefix": "Specificity:"
+  }
+}

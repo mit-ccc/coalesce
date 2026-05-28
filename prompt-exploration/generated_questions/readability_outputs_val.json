@@ -1,0 +1,950 @@
+[
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Asking about the level of satisfaction with public transportation.",
+      "main_text": "How is the satisfaction with public transportation described by you?",
+      "response_categories": [
+        { "id": 1, "text": "Very satisfied" },
+        { "id": 2, "text": "Somewhat satisfied" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat dissatisfied" },
+        { "id": 5, "text": "Very dissatisfied" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 7 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Questions if there's a dissatisfaction with local government response times negatively.",
+      "main_text": "Are you not dissatisfied with the local government's response times?",
+      "response_categories": [
+        { "id": 1, "text": "Yes" },
+        { "id": 2, "text": "No" },
+        { "id": 3, "text": "Somewhat" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 9 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question involving an undefined acronym, not meeting quality 5",
+      "main_text": "How frequently do you utilize the PM2.5 AQI to assess outdoor activity safety?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Weekly" },
+        { "id": 3, "text": "Monthly" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "alignment_level": "uphold none"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Asks if public services are not meeting needs with a negative structure.",
+      "main_text": "Are the public services not meeting your needs?",
+      "response_categories": [
+        { "id": 1, "text": "Yes" },
+        { "id": 2, "text": "No" },
+        { "id": 3, "text": "Partially" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 9 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the public's opinion on the complexity of the city's recycling regulations.",
+      "main_text": "Do you find the regulations surrounding the city's recycling initiatives to be overly convoluted for the average resident to comprehend fully?",
+      "response_categories": [
+        { "id": 1, "text": "Completely agree" },
+        { "id": 2, "text": "Somewhat agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat disagree" },
+        { "id": 5, "text": "Completely disagree" }
+      ]
+    },
+    "alignment_level": "uphold none"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Question about city's cleanliness",
+      "main_text": "How clean do you find the streets and public places in your city?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Asking about preferred community event without explaining the event type",
+      "main_text": "Which event do you like more?",
+      "response_categories": [
+        { "id": 1, "text": "Summer Splash" },
+        { "id": 2, "text": "Winter Wonder" },
+        { "id": 3, "text": "Autumn Fest" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 6 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Inquires about usage of digital city services.",
+      "main_text": "Do you use the city's website or app for information?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, often" },
+        { "id": 2, "text": "Yes, sometimes" },
+        { "id": 3, "text": "No" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Inquires about participation in recycling.",
+      "main_text": "Do you recycle at home?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, always" },
+        { "id": 2, "text": "Yes, sometimes" },
+        { "id": 3, "text": "No" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about water quality",
+      "main_text": "How do you find the tap water quality in your home?",
+      "response_categories": [
+        { "id": 1, "text": "Excellent" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Don't drink tap water" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "A question about the frequency of library visits formulated in passive voice.",
+      "main_text": "How often is the library visited by you?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Weekly" },
+        { "id": 3, "text": "Monthly" },
+        { "id": 4, "text": "Rarely" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 7 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Assessing satisfaction with city maintenance",
+      "main_text": "How happy are you with how clean the city is?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "Inquiring about library resources without specifying the library.",
+      "main_text": "What do you usually do at the library?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 6 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Opinions on public safety measures",
+      "main_text": "How efficacious do you perceive the implementation of public safety protocols in your immediate environment to be?",
+      "response_categories": [
+        { "id": 1, "text": "Very effective" },
+        { "id": 2, "text": "Somewhat effective" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Not very effective" },
+        { "id": 5, "text": "Ineffective" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 1 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Identifying potential areas for new facilities based on community activities.",
+      "main_text": "What activities do you wish you could do in our city but currently cannot?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "A question about public transport.",
+      "main_text": "What is your favorite way to travel around the city?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Querying about participation in local government meetings.",
+      "main_text": "Do you attend city council meetings?",
+      "response_categories": [
+        { "id": 1, "text": "Yes, regularly" },
+        { "id": 2, "text": "Sometimes" },
+        { "id": 3, "text": "No, but I want to" },
+        { "id": 4, "text": "No, not interested" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question uses passive voice and includes a double negative, not concise due to logical operators.",
+      "main_text": "Isn't it uncommon for garbage collection services to not be on time?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly disagree" },
+        { "id": 2, "text": "Disagree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Agree" },
+        { "id": 5, "text": "Strongly agree" }
+      ]
+    },
+    "alignment_level": "purposefully break qualities 7, 8, and 9 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Asking about the preferred time for city council meetings.",
+      "main_text": "When are city council meetings preferred to be attended by you?",
+      "response_categories": [
+        { "id": 1, "text": "Morning" },
+        { "id": 2, "text": "Afternoon" },
+        { "id": 3, "text": "Evening" },
+        { "id": 4, "text": "No preference" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 7 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "This question seeks to understand public interest in community events.",
+      "main_text": "Do you attend community events?",
+      "response_categories": [
+        { "id": 1, "text": "Often" },
+        { "id": 2, "text": "Sometimes" },
+        { "id": 3, "text": "Rarely" },
+        { "id": 4, "text": "Never" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "This question inquires about personal actions towards the environment, indirectly touching upon public services related to environmental management.",
+      "main_text": "What have you done lately to help the environment around your home?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 5 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "Question inquiring about community event participation with a conditional structure",
+      "main_text": "What community event did you last attend, and if you have not attended one in the past year, which type would you like to see organized?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 8 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Question asking about satisfaction with park maintenance, intentionally using passive voice.",
+      "main_text": "How satisfied were you by the maintenance done at the parks?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break qualities 7, 8, and 9 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Understanding the community's perception of public safety measures to guide policy and resource allocation.",
+      "main_text": "How could we make our city safer for everyone?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding public transportation with multiple components",
+      "main_text": "How do you use the city's public transportation system and what improvements would make your experience better?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 8 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Asking about satisfaction with street lighting",
+      "main_text": "How good is the street lighting in your area?",
+      "response_categories": [
+        { "id": 1, "text": "Very good" },
+        { "id": 2, "text": "Good" },
+        { "id": 3, "text": "Fair" },
+        { "id": 4, "text": "Poor" },
+        { "id": 5, "text": "Very poor" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "This question inquires about community events participation without using active voice, breaking quality 7 but upholding the rest.",
+      "main_text": "What is felt by you about the number of community events in the city?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 7 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question asking if there's a lack of knowledge about city services, containing logical operators.",
+      "main_text": "Do you agree or disagree that more information about city services is not available enough?",
+      "response_categories": [
+        { "id": 1, "text": "Agree" },
+        { "id": 2, "text": "Disagree" },
+        { "id": 3, "text": "Neutral" }
+      ]
+    },
+    "alignment_level": "purposefully break qualities 8 and 9 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Inquires about community preferences for green spaces using technical terms.",
+      "main_text": "What are your thoughts on implementing biophilic design principles in our urban parks?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 4 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Asks about experience with public health services",
+      "main_text": "What has been your experience with public health services?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Inquiring about improvements to public spaces.",
+      "main_text": "What changes would you like to see in our public spaces?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Asks about preference for park improvements without describing the park.",
+      "main_text": "Would you like more slides or swings in Central Park?",
+      "response_categories": [
+        { "id": 1, "text": "More slides" },
+        { "id": 2, "text": "More swings" },
+        { "id": 3, "text": "No change needed" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 6 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Question about community safety measures",
+      "main_text": "Could you discuss the efficacy of current community safety measures and suggest potential areas for improvement, including but not limited to policing and neighborhood watch programs?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold none"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Queries about the use of city resources with multiple propositions.",
+      "main_text": "When it is not raining and if you have free time, do you not prefer to use the city's recreational facilities or stay indoors?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break qualities 8 and 9 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Inquires about public library activities preference, with a complex question structure.",
+      "main_text": "When you visit the library, do you prefer attending story hours or participating in book clubs, or are you looking for new activities?",
+      "response_categories": [
+        { "id": 1, "text": "Attend story hours" },
+        { "id": 2, "text": "Participate in book clubs" },
+        { "id": 3, "text": "Looking for new activities" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 8 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Inquires about community event participation without detailing the events.",
+      "main_text": "Which community event do you attend most often?",
+      "response_categories": [
+        { "id": 1, "text": "Summer Fair" },
+        { "id": 2, "text": "Winter Market" },
+        { "id": 3, "text": "Spring Parade" },
+        { "id": 4, "text": "Fall Festival" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 6 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Asks about library services usage",
+      "main_text": "Do you use the library for borrowing books or for studying and attending events?",
+      "response_categories": [
+        { "id": 1, "text": "Borrowing books" },
+        { "id": 2, "text": "Studying and attending events" },
+        { "id": 3, "text": "Both" },
+        { "id": 4, "text": "Neither" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 8 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "Seeks opinions on existing city services by applying a negative frame.",
+      "main_text": "Which city services aren't helping you or your family?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 9 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "Inquiring about improvements to parks without using active voice.",
+      "main_text": "What improvements are desired for the local parks?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 7 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about public transportation usage.",
+      "main_text": "How often do you use public transportation?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question intentionally using complex sentence structure and jargon.",
+      "main_text": "How do you rate the efficiency of the municipal waste management's bi-weekly kerbside collection service?",
+      "response_categories": [
+        { "id": 1, "text": "Very efficient" },
+        { "id": 2, "text": "Somewhat efficient" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat inefficient" },
+        { "id": 5, "text": "Very inefficient" }
+      ]
+    },
+    "alignment_level": "uphold none"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Asks about satisfaction with trash collection services",
+      "main_text": "How happy are you with the trash pickup service?",
+      "response_categories": [
+        { "id": 1, "text": "Very happy" },
+        { "id": 2, "text": "Somewhat happy" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat unhappy" },
+        { "id": 5, "text": "Very unhappy" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "Asks about improving city parks without directly suggesting improvements.",
+      "main_text": "Why shouldn't we add more flowers or trees to our city parks?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 9 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about street cleanliness",
+      "main_text": "How clean do you find the streets in your neighborhood?",
+      "response_categories": [
+        { "id": 1, "text": "Very clean" },
+        { "id": 2, "text": "Somewhat clean" },
+        { "id": 3, "text": "Neither clean nor dirty" },
+        { "id": 4, "text": "Somewhat dirty" },
+        { "id": 5, "text": "Very dirty" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "Inquires about public transportation improvements in a negative form.",
+      "main_text": "What don't you like about using the city buses?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 9 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Question regarding the utilization of city parks",
+      "main_text": "Could you elucidate on the manner in which the multiplicity of city parks are currently being utilized by the populace, and propose any enhancements?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold none"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about library service improvements",
+      "main_text": "When you think about the various ways the city's public library services could be enhanced or made better in order to meet the needs of its patrons, which of the following options do you think should be given the highest priority for improvements?",
+      "response_categories": [
+        { "id": 1, "text": "Extending operating hours" },
+        { "id": 2, "text": "Increasing the selection of books and materials" },
+        { "id": 3, "text": "Adding more online resources" },
+        { "id": 4, "text": "Offering more community programs" },
+        { "id": 5, "text": "Improving the physical space" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 3 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Queries about the absence of safety in community areas using a negative statement.",
+      "main_text": "Do you feel the community areas are not safe?",
+      "response_categories": [
+        { "id": 1, "text": "Yes" },
+        { "id": 2, "text": "No" },
+        { "id": 3, "text": "Sometimes" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 9 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Question about waste management",
+      "main_text": "Could you please share your comprehensive thoughts on the city's waste management services, including trash collection, recycling, and composting, detailing what is working well and what isn't, and propose any improvements you believe could enhance these services for every household and business?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 3 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the frequency of public transportation use.",
+      "main_text": "How offten do you use public transportaion?",
+      "response_categories": [
+        { "id": 1, "text": "Daily" },
+        { "id": 2, "text": "Several times a week" },
+        { "id": 3, "text": "Once a week" },
+        { "id": 4, "text": "Less than once a week" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 2 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "closed",
+      "description": "Question asking if residents would prefer the city to allocate resources to improving roads and public transportation at the same time, instead of focusing on only one.",
+      "main_text": "Would you prefer the city to allocate resources to improving roads and public transportation at the same time, instead of focusing on only one or neither?",
+      "response_categories": [
+        { "id": 1, "text": "Prefer both" },
+        { "id": 2, "text": "Prefer roads" },
+        { "id": 3, "text": "Prefer public transportation" },
+        { "id": 4, "text": "No preference" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 8 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Asks about the frequency of park visits in a passive voice with multiple propositions.",
+      "main_text": "By you, how often is the park visited?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break qualities 7 and 8 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Asks about the frequency of using public transportation",
+      "main_text": "How often do you ride the bus or train?",
+      "response_categories": [
+        { "id": 1, "text": "Every day" },
+        { "id": 2, "text": "A few times a week" },
+        { "id": 3, "text": "Once a week" },
+        { "id": 4, "text": "A few times a month" },
+        { "id": 5, "text": "Never" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "Question about park usage that involves multiple considerations",
+      "main_text": "What activities do you do in the park and how does it make you feel about the community?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 8 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question with potential jargon, not meeting quality 4",
+      "main_text": "In your opinion, does the city's current zoning ordinance favorably impact the urban heat island effect mitigation?",
+      "response_categories": [
+        { "id": 1, "text": "Strongly agree" },
+        { "id": 2, "text": "Somewhat agree" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat disagree" },
+        { "id": 5, "text": "Strongly disagree" }
+      ]
+    },
+    "alignment_level": "uphold none"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about the efficiency of public service hotlines.",
+      "main_text": "How quickly do public service hotlines answer your call?",
+      "response_categories": [
+        { "id": 1, "text": "Very quickly" },
+        { "id": 2, "text": "Fairly quickly" },
+        { "id": 3, "text": "Neutral" },
+        { "id": 4, "text": "Somewhat slowly" },
+        { "id": 5, "text": "Very slowly" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question uses passive voice to inquire about the frequency of feeling unsafe in the neighborhood.",
+      "main_text": "How often is feeling unsafe experienced by you in your neighborhood?",
+      "response_categories": [
+        { "id": 1, "text": "Never" },
+        { "id": 2, "text": "Rarely" },
+        { "id": 3, "text": "Sometimes" },
+        { "id": 4, "text": "Often" },
+        { "id": 5, "text": "Always" }
+      ]
+    },
+    "alignment_level": "purposefully break qualities 7 and 9 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Ask about the frequency of engaging in physical activity without defining 'physical activity'.",
+      "main_text": "How many days per week do you engage in PA?",
+      "response_categories": [
+        { "id": 1, "text": "0 days" },
+        { "id": 2, "text": "1-2 days" },
+        { "id": 3, "text": "3-4 days" },
+        { "id": 4, "text": "5-6 days" },
+        { "id": 5, "text": "Every day" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 5 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Inquires about the cleanliness of streets in the neighborhood",
+      "main_text": "How clean are the streets in your neighborhood?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about public transport usage without specifying the mode of transport.",
+      "main_text": "How often do you use public transport?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 6 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about street maintenance",
+      "main_text": "Are the streets near your home well-maintained?",
+      "response_categories": [
+        { "id": 1, "text": "Yes" },
+        { "id": 2, "text": "No" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Question including undefined jargon, a proper noun without description, and in passive voice.",
+      "main_text": "What impacts have been observed following the implementation of the BRT system by the city's Transit Authority?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold none"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Asking about the use of public restrooms.",
+      "main_text": "Do you use public restrooms in the city?",
+      "response_categories": [
+        { "id": 1, "text": "Often" },
+        { "id": 2, "text": "Sometimes" },
+        { "id": 3, "text": "Rarely" },
+        { "id": 4, "text": "Never" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about urban planning preferences with specialized language",
+      "main_text": "In city planning, should we focus more on greenbelts or mixed-use developments?",
+      "response_categories": [
+        { "id": 1, "text": "Greenbelts" },
+        { "id": 2, "text": "Mixed-use developments" },
+        { "id": 3, "text": "Both equally" },
+        { "id": 4, "text": "I'm not sure" }
+      ]
+    },
+    "alignment_level": "purposefully break quality 4 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Asks about the participant's feelings towards parks without directly mentioning their personal actions.",
+      "main_text": "How is the maintenance of public parks perceived by you?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break qualities 7 and 9 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "This question asks for feedback on garbage collection services without using active voice, breaking quality 7 but upholding the rest.",
+      "main_text": "How is the city's garbage collection service found by you?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 7 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about the impact of city policies on small businesses.",
+      "main_text": "In contemplation of the myriad policies enacted by our city's governing bodies, how have these legislative measures impacted the operational sustainability and growth trajectories of small-scale entrepreneurial ventures within our jurisdiction?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold none"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Question about community safety concerns with a spelling mistake",
+      "main_text": "What are yur main concerns regarding safety in our community?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 2 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Question about the availability of parks",
+      "main_text": "How many parks can you walk to from your home?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Asking for feedback on city services.",
+      "main_text": "How can we make our city services better for you?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "open",
+      "description": "Asking about improving local transportation options",
+      "main_text": "What innovative methodologies could be employed to enhance the efficacy and sustainability of our local transportation infrastructure?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 1 but uphold the rest"
+  },
+  {
+    "readability": "medium",
+    "question": {
+      "response_format": "open",
+      "description": "Asking for feedback on a project without detailing the project.",
+      "main_text": "What feedback do you have about the Sunrise Development Project?",
+      "response_categories": []
+    },
+    "alignment_level": "purposefully break quality 6 but uphold the rest"
+  },
+  {
+    "readability": "low",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about participation in city events",
+      "main_text": "By you, how often are city-organized events attended?",
+      "response_categories": [
+        { "id": 1, "text": "Very often" },
+        { "id": 2, "text": "Occasionally" },
+        { "id": 3, "text": "Rarely" },
+        { "id": 4, "text": "Never" }
+      ]
+    },
+    "alignment_level": "purposefully break qualities 7 and 8 but uphold the rest"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "open",
+      "description": "Question about city's green spaces",
+      "main_text": "What do you think about the green spaces in your city?",
+      "response_categories": []
+    },
+    "alignment_level": "uphold all"
+  },
+  {
+    "readability": "high",
+    "question": {
+      "response_format": "closed",
+      "description": "Question about satisfaction with street lighting",
+      "main_text": "How bright do you find the street lights at night?",
+      "response_categories": [
+        { "id": 1, "text": "Very bright" },
+        { "id": 2, "text": "Bright enough" },
+        { "id": 3, "text": "Could be brighter" },
+        { "id": 4, "text": "Not bright at all" },
+        { "id": 5, "text": "I don't go out at night" }
+      ]
+    },
+    "alignment_level": "uphold all"
+  }
+]

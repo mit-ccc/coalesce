@@ -1,0 +1,115 @@
+{
+  "question_order": [
+    "4",
+    "0",
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7"
+  ],
+  "questions": {
+    "4": {
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "closed",
+        "description": "The form of engagement impacts the type of questions we create.",
+        "main_text": "What form of engagement (e.g., virtual convenings, one-on-one interviews, focus groups, surveys) will best solicit the input needed from the communities you hope to engage?",
+        "response_categories": ["Interview", "Survey", "Conversation Guide", "BridgeUSA Discussion Guide"]
+      },
+      "part_2_cell_details": {
+        "cell_type": "question",
+        "response_format": "open",
+        "description": "",
+        "main_text": "(Optional) Please add more details about the form of engagement you selected.",
+        "response_categories": []
+      },
+      "response": "",
+      "part_2_response": ""
+    },
+    "0": {
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "open",
+        "description": "Being specific about your goals will help shape questions that gather meaningful and relevant information. Consider how you would define success or the desired impact of this project.",
+        "main_text": "What are you hoping to learn or accomplish through this engagement?",
+        "response_categories": []
+      },
+      "response": ""
+    },
+    "1": {
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "open",
+        "description": "Connecting the goals of your engagement to the information you need. Consider specific questions you are hoping to explore, or topics you are curious about.",
+        "main_text": "What information are you hoping to gather from people?",
+        "response_categories": []
+      },
+      "response": ""
+    },
+    "2": {
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "open",
+        "description": "Identifying your target audience is critical for designing effective questions. Think about all the stakeholders, beneficiaries, or communities whose perspectives would be valuable.",
+        "main_text": "Who do you want to hear from?",
+        "response_categories": []
+      },
+      "response": ""
+    },
+    "3": {
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "open",
+        "description": "Understanding your audience's context helps create questions that resonate and yield meaningful insights. This information will guide how questions are framed and what topics to address.",
+        "main_text": "Why is it crucial to gather insights from this population? What key knowledge about this group should we understand, including any specific challenges they may encounter?",
+        "response_categories": []
+      },
+      "response": ""
+    },
+    "5": {
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "open",
+        "description": "",
+        "main_text": "What is the maximum amount of time in minutes you can expect people to spend on the engagement? (e.g., 5 minutes, 30 minutes, 60 minutes, etc.)",
+        "response_categories": []
+      },
+      "response": ""
+    },
+    "6": {
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "slider",
+        "description": "",
+        "main_text": "Please use the slider to specify the proportion of open-ended versus closed-ended questions you'd like.",
+        "response_categories": [
+          {
+            "value": 0,
+            "label": "100% closed-ended"
+          },
+          {
+            "value": 50,
+            "label": "50% closed, 50% open"
+          },
+          {
+            "value": 100,
+            "label": "100% open-ended"
+          }
+        ]
+      },
+      "response": ""
+    },
+    "7": {
+      "cell_details": {
+        "cell_type": "question",
+        "response_format": "open",
+        "description": "",
+        "main_text": "(Optional) Please add any additional context that may be helpful when creating questions for the project.",
+        "response_categories": []
+      },
+      "response": ""
+    }
+  }
+}

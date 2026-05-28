@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Coalesce
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Cassandra
+    family-names: Overney
+  - given-names: Julia
+    family-names: Matthews
+  - given-names: Ali
+    family-names: Klemencic
+  - given-names: Suyash
+    family-names: Fulay
+repository-code: "https://github.com/mit-ccc/coalesce"
+license: MIT

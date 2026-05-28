@@ -1,0 +1,160 @@
+[
+  {
+    "id": 0,
+    "title": "Welcome and Purpose",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 3,
+        "main_text": "Welcome! Thanks for participating in this conversation about AI. I'm recording this session. The video will be deleted, but the audio will be kept to help us understand youth perspectives on AI. We want to create a space for young people to share their thoughts, connect with each other, and inform public media about the issues that matter to you. By participating, you're giving us permission to use the recording for these purposes. Do you agree?",
+        "rationale": "This question welcomes the participants and informs them of the project's purpose, while also gaining their consent to record the session." ,
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Conversation Agreements",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 2,
+        "main_text": "To make sure everyone has a chance to speak and learn from each other, let's agree to: Speak for yourself; Allow others to speak; Share the time; Stay curious; Pause to reflect; Listen generously; Silence phones. Is everyone on board with these guidelines? Anything to add or change?",
+        "rationale": "This question establishes the guidelines for the conversation, ensuring a respectful and inclusive environment for all participants." ,
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Introductions",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "Let's do a quick round of introductions. Please share your first name and: a little bit about who you are (where you live, what you do) and a hope you have for the future.",
+        "rationale": "This question starts the conversation by inviting participants to introduce themselves and share a hope for the future." ,
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Video Reactions",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "We're going to watch a short video about AI and surveillance. After watching, what stood out to you?",
+        "rationale": "This question sets the stage for the conversation by introducing a video about AI, prompting the participants to share their initial reactions." ,
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "AI in Your Life",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 10,
+        "main_text": "How do you see AI showing up in your daily life? Think about apps you use, social media, school, or even just things you hear about. Can you give an example?",
+        "rationale": "This question encourages participants to consider the presence of AI in their everyday activities." ,
+        "response_categories": []
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "(Optional) Does AI make you feel more or less in control of your life? Why?",
+        "rationale": "This question helps the participants to reflect on how AI might impact their sense of autonomy." ,
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Hopes and Fears",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 10,
+        "main_text": "What are you most excited about when you think about the future of AI?",
+        "rationale": "This question invites participants to discuss what they find promising about AI's potential." ,
+        "response_categories": []
+      },
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 10,
+        "main_text": "What worries you most about AI? Think about what you saw in the video, like tracking people's movements. Does that concern you? What other concerns do you have?",
+        "rationale": "This question seeks to uncover participants' concerns about the potential risks and challenges of AI." ,
+        "response_categories": []
+      },
+       {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "(Optional) What's one thing you wish AI could do, or NOT do?",
+        "rationale": "This question asks the participants what they would like AI to do in the future and it allows them to define boundaries." ,
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Fairness and Power",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 10,
+        "main_text": "In the video, it showed how AI can track people's faces and movements. Who do you think benefits from AI like that? Who might be left out or negatively affected?",
+        "rationale": "This question prompts participants to think about how AI might impact marginalized groups." ,
+        "response_categories": []
+      },
+       {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 10,
+        "main_text": "Do you think AI systems are fair? Why or why not? How could we make AI more fair and accountable?",
+        "rationale": "This question invites participants to express their opinions on the fairness of AI and suggest possible solutions." ,
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Drawing Connections",
+    "cells": [
+      {
+        "cell_type": "question",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "What's one thing you heard today that you'll be taking away from this conversation and that you'd like other people to hear?",
+        "rationale": "This question serves as a moment for reflection at the end of the discussion, prompting the participants to share their takeaways." ,
+        "response_categories": []
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Wrap-up",
+    "cells": [
+      {
+        "cell_type": "text",
+        "response_format": "open",
+        "time_estimate": 5,
+        "main_text": "Those are all of the questions that we have for you. Do you have any closing thoughts that you'd like to share or other general reflections on the conversation? Do you have any questions for us? Just a reminder of what will happen with the thoughts you just shared. These recordings will be transcribed and uploaded. You will receive an invitation to join a platform and explore your conversation and others after this conversation is uploaded and transcribed. Thank you so much for joining us and sharing your thoughts!",
+        "rationale": "This question wraps up the conversation with a final prompt to share closing thoughts, and also provides logistical information." ,
+        "response_categories": []
+      }
+    ]
+  }
+]

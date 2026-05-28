@@ -1,0 +1,116 @@
+{
+    "questions": {
+      "0": {
+        "cell_details": {
+          "cell_type": "question",
+          "response_format": "open",
+          "description": "It's important to clearly define the problem or decision to be made before engaging the public. This will help you determine what information you need from the public and how to engage them.",
+          "main_text": "What is the problem to be solved or the decision to be made?",
+          "response_categories": []
+        },
+        "response": "The Parks Department (\"PD\") of a relatively small Massachusetts city (\"Freeburg\") was recently granted state funds to make improvements to local parks. The PD doesn't often receive grants of this size, so they want to make sure they use the funds effectively; if they use all the funds, they may be eligible for another grant next year. Freeburg has 13 parks. Some are quite small, and would only require minimal improvements (e.g., tree-planting, de-weeding), whereas others will require major improvements to address safety and usability concerns. Parks in wealthier neighborhoods of Freeburg tend to be nicer, which some residents believe may reflect a discrepancy in how tax funds are used and distributed by the city. The residents who take issue with these distributions tend to be lower-income and tend to live farther away from these parks, which have \"higher-class\" amenities, like tennis courts, public bathrooms, and water fountains with ground-level dog-bowl attachments."
+      },
+      "1": {
+        "cell_details": {
+          "cell_type": "question",
+          "response_format": "open",
+          "description": "Connecting the goals of the engagement to the public",
+          "main_text": "What information is needed from the public to make the decision?",
+          "response_categories": []
+        },
+        "response": "The parks were once well-kept, but in recent years, have been in a state of disarray, reflecting economic challenges that hit Freeburg hard during the COVID-19 pandemic. The PD needs to survey the residents of the Freeburg community to understand their needs, interests, and priorities as they relate to the local parks; this information will be used to inform what kinds of improvements are made to the parks. The PD acknowledges that some improvements made by grant funds may lead to downstream costs that would not be covered by the grant, but the PD wishes to explore these anyway, due to their impact and long-term value for community members. For example, installing stationary trash and recycling bins in each park will help to reduce litter and improve the health and safety of the parks. However, while the state grant would pay for these bins to be installed, they would not pay for any future repairs or replacements, nor would they pay for the bins to be emptied regularly, which would be the task of the local Waste Management (\"WM\") service maintained by the city."
+      },
+      "2": {
+        "cell_details": {
+          "cell_type": "question",
+          "response_format": "open",
+          "description": "",
+          "main_text": "What region is the engagement focused on? (e.g., city, county, state, national, etc.)",
+          "response_categories": []
+        },
+        "response": "Freeburg, Massachusetts"
+      },
+      "3": {
+        "cell_details": {
+          "cell_type": "question",
+          "response_format": "closed",
+          "description": "",
+          "main_text": "Is the region urban, suburban, or rural?",
+          "response_categories": ["Urban", "Suburban", "Rural"]
+        },
+        "response": "Suburban"
+      },
+      "4": {
+        "cell_details": {
+          "cell_type": "question",
+          "response_format": "open",
+          "description": "Let's think broadly of who will be affected by the final decision. Some people will be directly affected, while others may be indirectly affected.",
+          "main_text": "What groups of people will be affected by the outcome of the decision?",
+          "response_categories": []
+        },
+        "response": "Some of the parks sit on the line with a nearby municipality, whose residents often use the parks. This may be viewed as either a challenge or opportunity by Freeburg residents, who may wish for the improved parks to be kept for their own private use, or who may wish for the parks to be shared (as they have been in the past) to expand the kinds of activities that the parks may host (for example, elementary school sporting events). There are several groups of constituents in the city, marked by demographic and geographic differences. Freeburg has a lower-altitude downtown (\"DT\") that tends to have lower-income housing, in part due to historically long-standing social divisions, and in part due to the relatively high rate of flooding. The DT area has most of the city's parks, but they tend to be far worse in quality, and are commonly policed (to many residents' discomfort) to mitigate perceived issues with crime, which may or may not be the case. The DT area houses about 70% of the city's residents, who are primarily from minority backgrounds. Freeburg also has a higher-altitude uptown (\"UT\") area, whose residents tend to be higher-income. The UT area is the city's financial and commerce district; as such, it brings in more out-of-city tourism and houses more of the city's long-standing shopping (e.g., malls) entertainment venues (e.g., movie theaters). Residents of Freeburg are also divided by language. About 40% of the city's residents are primarily Spanish-speaking, 8% are primarily Haitian-speaking, and 52% are primarily English-speaking. Throughout the city, signage (specifically, the languages used on public signage, such as those placed on parks) are an ongoing problem."
+      },
+      "5": {
+        "cell_details": {
+          "cell_type": "question",
+          "response_format": "open",
+          "description": "Focusing on the specific groups of people that we are designing questions for.",
+          "main_text": "Which of these groups are you engaging?",
+          "response_categories": []
+        },
+        "response": "We will engage with residents in both the lower-altitude downtown (\"DT\") and higher-altitude uptown (\"UT\") areas."
+      },
+      "6": {
+        "cell_details": {
+          "cell_type": "question",
+          "response_format": "closed",
+          "description": "The form of engagement impacts the type of questions we create.",
+          "main_text": "What form of engagement (e.g., virtual convenings, one-on-one interviews, focus groups, surveys) will best solicit the input needed from the communities you hope to engage?",
+          "response_categories": ["Interview", "Survey", "Conversation Guide"]
+        },
+        "part_2_cell_details": {
+          "cell_type": "question",
+          "response_format": "open",
+          "description": "",
+          "main_text": "(Optional) Please add more details about the form of engagement you selected.",
+          "response_categories": []
+        },
+        "response": "Survey",
+        "part_2_response": "Online Survey"
+      },
+      "7": {
+        "cell_details": {
+          "cell_type": "question",
+          "response_format": "open",
+          "description": "",
+          "main_text": "What is the maximum amount of time in minutes you can expect people to spend on the engagement? (e.g., 5 minutes, 30 minutes, 60 minutes, etc.)",
+          "response_categories": []
+        },
+        "response": "10 minutes maximum"
+      },
+      "8": {
+        "cell_details": {
+          "cell_type": "question",
+          "response_format": "slider",
+          "description": "",
+          "main_text": "Please use the slider to specify the proportion of open-ended versus closed-ended questions you'd like.",
+          "response_categories": [
+            {
+              "value": 0,
+              "label": "100% closed-ended"
+            },
+            {
+              "value": 50,
+              "label": "50% closed, 50% open"
+            },
+            {
+              "value": 100,
+              "label": "100% open-ended"
+            }
+          ]
+        },
+        "response": 20
+      }
+    }
+  }
+  

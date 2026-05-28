@@ -1,0 +1,12 @@
+{
+  "specificity": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature_instructions": "Assess whether a question is specific enough. Keep in mind the following qualities, for a question to be specific:\n        (1) Question should measure only one underlying concept.\n        (2) Question should refer to a specific reference frame (e.g. times and places) that is clear to the respondent.\n        (3) Question should not contain any ambiguous words that could be interpreted in multiple ways. Question should contain terms that will have the same specific meaning to all respondents.\n        (4) Question, not including the response categories, should not contain any predicates whose meanings are relative rather than absolute, as it is the case with quantitative adjectives or adverbs (e.g. often and frequently).",
+    "signature_prefix": "Specificity:",
+    "extended_signature_instructions": "Assess whether a question is specific enough. Keep in mind the following qualities, for a question to be specific:\n        (1) Question should measure only one underlying concept.\n        (2) Question should refer to a specific reference frame (e.g. times and places) that is clear to the respondent.\n        (3) Question should not contain any ambiguous words that could be interpreted in multiple ways. Question should contain terms that will have the same specific meaning to all respondents.\n        (4) Question, not including the response categories, should not contain any predicates whose meanings are relative rather than absolute, as it is the case with quantitative adjectives or adverbs (e.g. often and frequently).",
+    "extended_signature_prefix": "Specificity:"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "topics": {
+    "Some topic": {
+      "cells": [
+        "35157eab-ec84-46d8-9878-52abdbedfe04",
+        "346b0c9a-1205-40ff-9b05-196e73023eba"
+      ],
+      "suggestion_rationale": "",
+      "suggestions": []
+    },
+    "Positives": {
+      "cells": [
+        "35157eab-ec84-46d8-9878-52abdbedfe04",
+        "346b0c9a-1205-40ff-9b05-196e73023eba"
+      ],
+      "suggestion_rationale": "Some rationale goes here",
+      "suggestions": [
+        {
+          "cell_details": {
+            "cell_type": "question",
+            "response_format": "closed",
+            "description": "Asking for fun",
+            "main_text": "Topic1: What is your favorite color?",
+            "response_categories": [
+              {
+                "id": 0,
+                "text": "Red"
+              },
+              {
+                "id": 1,
+                "text": "Blue"
+              },
+              {
+                "id": 2,
+                "text": "Green"
+              }
+            ]
+          }
+        },
+        {
+          "cell_details": {
+            "cell_type": "question",
+            "response_format": "open",
+            "description": "",
+            "main_text": "Topic1: What is your favorite boba flavor?",
+            "response_categories": []
+          }
+        },
+        {
+          "cell_details": {
+            "cell_type": "question",
+            "response_format": "open",
+            "description": "Asking for fun",
+            "main_text": "Topic1: What is your favorite food?",
+            "response_categories": []
+          }
+        }
+      ]
+    },
+    "Negatives": {
+      "cells": ["9e3378e9-306e-4ac5-9a98-af3e7a69205b"],
+      "suggestion_rationale": "Some rationale goes here",
+      "suggestions": [
+        {
+          "cell_details": {
+            "cell_type": "question",
+            "response_format": "closed",
+            "description": "Asking for fun",
+            "main_text": "Topic1: What is your favorite color?",
+            "response_categories": [
+              {
+                "id": 0,
+                "text": "Red"
+              },
+              {
+                "id": 1,
+                "text": "Blue"
+              },
+              {
+                "id": 2,
+                "text": "Green"
+              }
+            ]
+          }
+        },
+        {
+          "cell_details": {
+            "cell_type": "question",
+            "response_format": "open",
+            "description": "",
+            "main_text": "Topic1: What is your favorite boba flavor?",
+            "response_categories": []
+          }
+        },
+        {
+          "cell_details": {
+            "cell_type": "question",
+            "response_format": "open",
+            "description": "Asking for fun",
+            "main_text": "Topic1: What is your favorite food?",
+            "response_categories": []
+          }
+        }
+      ]
+    },
+    "Unclassified": {
+      "cells": ["9e3378e9-306e-4ac5-9a98-af3e7a69205d"],
+      "suggestion_rationale": "",
+      "suggestions": []
+    }
+  }
+}

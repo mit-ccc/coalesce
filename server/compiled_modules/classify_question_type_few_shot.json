@@ -1,0 +1,39 @@
+{
+  "question_type": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"What is your age?\", \"response_categories\": []}",
+        "rationale": "produce the question_type. We are asking for personal background information related to age.",
+        "question_type": "demographic"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"What is your gender?\", \"response_categories\": []}",
+        "rationale": "produce the question type. We are asking for personal background information related to gender.",
+        "question_type": "demographic"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"What is your ethnicity?\", \"response_categories\": []}",
+        "rationale": "produce the question_type. We are asking for personal background information related to ethnicity.",
+        "question_type": "demographic"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"Can you describe a time when you felt discriminated against?\", \"response_categories\": []}",
+        "question_type": "attitudinal"
+      },
+      {
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"What is your gender?\", \"response_categories\": [{\"id\": 1, \"text\": \"Male\"}, {\"id\": 2, \"text\": \"Female\"}, {\"id\": 3, \"text\": \"Non-binary\"}, {\"id\": 4, \"text\": \"Prefer not to say\"}]}",
+        "question_type": "demographic"
+      }
+    ],
+    "signature_instructions": "Classify the question type. There are three types of questions: demographic, attitudinal, and behavioral.\n       Demographic questions ask about the personal background of respondents.\n       Attitudinal questions ask about respondents' personal perceptions and opinions on different topics.\n       Behavioral questions ask for data on the frequency and way in which particular actions are performed.\n    ",
+    "signature_prefix": "Question Type:",
+    "extended_signature_instructions": "Classify the question type. There are three types of questions: demographic, attitudinal, and behavioral.\n       Demographic questions ask about the personal background of respondents.\n       Attitudinal questions ask about respondents' personal perceptions and opinions on different topics.\n       Behavioral questions ask for data on the frequency and way in which particular actions are performed.\n    ",
+    "extended_signature_prefix": "Question Type:"
+  }
+}

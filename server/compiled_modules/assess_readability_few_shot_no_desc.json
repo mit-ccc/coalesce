@@ -1,0 +1,44 @@
+{
+  "readability": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"Is it within your belief system that the efficacy of the municipal emergency response teams (MERTs), in their provision of timely interventions during crises, is not found wanting?\", \"response_categories\": [{\"id\": 1, \"text\": \"Strongly agree\"}, {\"id\": 2, \"text\": \"Somewhat agree\"}, {\"id\": 3, \"text\": \"Neutral\"}, {\"id\": 4, \"text\": \"Somewhat disagree\"}, {\"id\": 5, \"text\": \"Strongly disagree\"}]}",
+        "reading_level": "third grade",
+        "rationale": "produce the readability. We need to simplify the language and remove any complex terms or structures.",
+        "readability": "low"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"How often do you visit the library?\", \"response_categories\": []}",
+        "reading_level": "third grade",
+        "rationale": "produce the readability. We have a simple question that is concise and does not contain any jargon, acronyms, or proper nouns. It is in active voice and does not have any negatives or double negatives.",
+        "readability": "high"
+      },
+      {
+        "augmented": true,
+        "question": "{\"response_format\": \"closed\", \"description\": \"\", \"main_text\": \"Do you find buses or subways more convenient for your daily commute, and are you satisfied with the current services?\", \"response_categories\": [{\"id\": 1, \"text\": \"Buses, satisfied\"}, {\"id\": 2, \"text\": \"Subways, satisfied\"}, {\"id\": 3, \"text\": \"Buses, not satisfied\"}, {\"id\": 4, \"text\": \"Subways, not satisfied\"}]}",
+        "reading_level": "third grade",
+        "rationale": "produce the readability. We need to consider the complexity of the question, the use of clear language, and the presence of any potential jargon or acronyms.",
+        "readability": "medium"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"Why can't we find recycling bins in public spaces?\", \"response_categories\": []}",
+        "readability": "medium",
+        "reading_level": "third grade"
+      },
+      {
+        "question": "{\"response_format\": \"open\", \"description\": \"\", \"main_text\": \"Isn't it rare for you to use public spaces for leisure or activities?\", \"response_categories\": []}",
+        "readability": "low",
+        "reading_level": "third grade"
+      }
+    ],
+    "signature_instructions": "Assess the readbility of a question to high, medium, or low. Keep in mind the following qualities, for a question to be readable:\n        (1) Question should meet a third-grade reading level.\n        (2) Question should not contain basic spelling or grammar mistakes.\n        (3) Question should be concise.\n        (4) Question should not contain potential jargon (e.g. special words or expressions that are used by a particular profession or group and are difficult for others to understand) that are not defined.\n        (5) Question should not contain any acronyms that are not defined.\n        (6) Question should not mention proper nouns (e.g. names of specific people, places, or organizations) without describing what they are.\n        (7) Question should be in active voice.\n        (8) Question should have as few propositions and logical operators as possible.\n        (9) Question should not have negatives or double negatives.",
+    "signature_prefix": "Readability:",
+    "extended_signature_instructions": "Assess the readbility of a question to high, medium, or low. Keep in mind the following qualities, for a question to be readable:\n        (1) Question should meet a third-grade reading level.\n        (2) Question should not contain basic spelling or grammar mistakes.\n        (3) Question should be concise.\n        (4) Question should not contain potential jargon (e.g. special words or expressions that are used by a particular profession or group and are difficult for others to understand) that are not defined.\n        (5) Question should not contain any acronyms that are not defined.\n        (6) Question should not mention proper nouns (e.g. names of specific people, places, or organizations) without describing what they are.\n        (7) Question should be in active voice.\n        (8) Question should have as few propositions and logical operators as possible.\n        (9) Question should not have negatives or double negatives.",
+    "extended_signature_prefix": "Readability:"
+  }
+}
